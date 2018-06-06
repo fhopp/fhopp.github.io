@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: Frederic R. Hopp
 description: PhD Student - Media Neuroscience Lab
-github: is_project_page: false
+github: 
+  is_project_page: false

@@ -4,8 +4,12 @@ You can use the [editor on GitHub](https://github.com/fhopp/fhopp.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Projects
-[What I am currently working on](https://fhopp.github.io/projects)
+[Research](https://fhopp.github.io/projects)
+
+[CV](https://fhopp.github.io/projects)
+
+[Tools/Resources](https://fhopp.github.io/projects)
+
 
 ### Markdown
 

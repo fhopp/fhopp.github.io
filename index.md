@@ -4,6 +4,8 @@ Frederic is a PhD student in the [Department of Communication at UCSB](http://ww
 
 Before attending UCSB, Frederic held several research assistant positions at the Institute of Media and Communication Studies at the University of Mannheim, where he worked with Prof. Dr. Peter Vorderer to investigate the role of entertainment experiences for the processing of political talk shows, the effects of cyberostracism in social media environments, as well as the motivational correlates of permanent online connectedness. Frederic holds a BA in Media and Communication Studies with a minor in Political Science from the [University of Mannheim](http://mkw.uni-mannheim.de/).
 
+---
+
 [Research](https://fhopp.github.io/projects)
 
 [CV](https://fhopp.github.io/projects)

@@ -39,3 +39,17 @@ Schneider, F. M., Rieger, D., **Hopp., F. R.**, Rothmond, T. (2018). First aid i
 **Hopp, F. R.**, Fisher, J. T., Mangus, J. M., Huskey, R., Swanson, R.,Gordon, A., Khooshabeh, P., & Weber, R. (2017). Examining Online News Reporting Using the Global Database of Events, Language, and Tone: Challenges, Opportunities, and Future Directions. 103 rd Annual Convention of the National Communication Association, Dallas, TX, USA. 
 
 Schneider, F. M., Rieger, D., **Hopp, F. R.**, Rothmund, T. (2017). _First aid in the pocket—The psychosocial benefits of smartphones in self-threatening situations_. 10th Conference of the Media Psychology Division (German Psychological Society, DGPs) Landau.
+
+Reich, S., Reinecke, L., Hefner, D., Winkler, J., **Hopp, F. R.**, Knop- Huelss, K., Chan, M., Owen, B., & Vorderer, P. (2017). _Self-construal cultural values and everyday life with a smartphone – Intercultural differences in being permanently online and connected_. 67th Annual Conference of the International Communication Association (ICA), San-Diego, CA, USA.
+
+Roth, F. S., Weinmann, C., Schneider, F. S., **Hopp, F. R.**, Bindl, M. J., & Vorderer, P. (2016). _Curving entertainment: The curvilinear relationship between hedonic and eudaimonic entertainment experiences while watching a political talk show and its implications for information processing_. Annual Conference of the Fachgruppe Rezeptions- und Wirkungsforschung (Deutsche Gesellschaft für Publizistik und Kommunikationswissenschaft, DGPuK), Amsterdam.
+
+Schneider, F.S., Zwillich, B., Bindl, M., **Hopp, F.,R.**, & Vorderer, P. (2015). _Being Excluded in the Online World: Investigating the Detrimental Effects of Cyberostracism with the Ostracism Online Paradigm_. 9th Conference of the Media Psychology Division (German Psychological Society, DGPs) Tübingen.
+
+Weinmann, C., Roth, F. S., Schneider, F. S., Krämer, T., **Hopp, F. R.**, & Vorderer, P. (2015). _I Don’t Care About Politics, I Just Like That Guy! Affective Disposition and Political Attributes in Information Processing of Political Talk Shows_. Annual Conference of the Fachgruppe Rezeptions- und Wirkungsforschung (Deutsche Gesellschaft für Publizistik und Kommunikationswissenschaft, DGPuK), Bamberg.
+
+Roth, F. S., Weinmann, C., Schneider, F. M., Krämer, T., **Hopp, F.R.**, & Vorderer, P. (May, 2014). _Political talk shows as instances for political agency_. 60th Annual Conference of the German Association for Communication (Deutsche Gesellschaft für Publizistik und Kommunikationswissenschaft, DGPuK), Darmstadt.
+
+Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F.R.**, & Vorderer, P. (May, 2014). _Seriously entertained: Antecedents and consequences of hedonic and eudaimonic entertainment experiences with political talk shows_. 64th Annual Conference of the International Communication Association (ICA), Seattle, WA, USA.
+
+Vorderer, P., Roth, F. S., Weinmann, C., & **Hopp, F. R.** (2013, September). _Connecting media psychology and political communication: An exploratory telephone survey about how and why people use political talk shows_. 8th Conference of the Media Psychology Division (German Psychological Society, DGPs), Würzburg.

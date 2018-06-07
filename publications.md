@@ -24,7 +24,6 @@ Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (20
 
 Vorderer, P., **Hopp, F. R.**, Schneider, F. M., Weinmann, C., & Roth, F. S. (2016). Seriously Entertained: Antecedents and Consequences of Hedonic and Eudaimonic Entertainment Experiences With Political Talk Shows on TV. In _Entertainment Media and Politics_ (pp. 85-105). Routledge.
 
-### Conference Proceedings
-
-todo 
 ---
+
+### Conference Proceedings

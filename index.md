@@ -6,8 +6,10 @@ Before attending UCSB, Frederic held several research assistant positions at the
 
 ---
 
-[Research](https://fhopp.github.io/projects)
+[Current Research](https://fhopp.github.io/projects)
 
-[CV](https://fhopp.github.io/projects)
+[CV](https://fhopp.github.io/cv)
 
-[Tools/Resources](https://fhopp.github.io/projects)
+[Current Research](https://fhopp.github.io/publications)
+
+[Tools/Resources](https://fhopp.github.io/tools)

@@ -13,5 +13,3 @@ Before attending UCSB, Frederic held several research assistant positions at the
 [Publications](https://fhopp.github.io/publications)
 
 [Tools/Resources](https://fhopp.github.io/tools)
-
-<a href="https://twitter.com/freddy_hopp?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @freddy_hopp</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

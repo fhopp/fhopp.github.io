@@ -1,1 +1,1 @@
-[Download my CV](cv_hopp.pdf)
+[Download my CV](https://fhopp.github.io/cv_hopp.pdf)

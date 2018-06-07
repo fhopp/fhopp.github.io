@@ -11,7 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Projects
+[What I am currently working on](https://github.com/fhopp/fhopp.github.io/edit/master/projects.md).
+
+
 ## Header 2
 ### Header 3
 

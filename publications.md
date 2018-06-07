@@ -30,7 +30,7 @@ Vorderer, P., **Hopp, F. R.**, Schneider, F. M., Weinmann, C., & Roth, F. S. (20
 
 Weber, R., **Hopp, F. R.**, Mangus, J. M., Choueiti, M., Pieper, K., Smith, S. (2018). The Moral Narrative Analyzer for Movies: A Hybrid Content Analytical Platform for Extracting Moral Content from Movie Scripts. Paper submitted to the annual meeting of the International Communication Association (ICA), Prague, CZ.
 
-Fisher, J. **Hopp, F. R.**, & Weber, R. (2018). _"Look Harder!" ADHD, Media Multitasking, and the Effects of Cognitive and Perceptual Load on Resource Availability and Processing Performance_. Paper submitted to the annual meeting of the International Communication Association (ICA), Prague, CZ. Top 6 Paper Award.
+Fisher, J. **Hopp, F. R.**, & Weber, R. (2018). _"Look Harder!" ADHD, Media Multitasking, and the Effects of Cognitive and Perceptual Load on Resource Availability and Processing Performance_. Paper submitted to the annual meeting of the International Communication Association (ICA), Prague, CZ. **Top 6 Paper Award**.
 
 Fisher, J., Cornell, D., **Hopp, F. R.**, Weber, R. (2018). _But How are They Talked About?": A Novel Measure of Entity Framing in Online News_. Paper submitted to the annual meeting of the International Communication Association (ICA), Prague, CZ.
 

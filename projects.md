@@ -18,6 +18,6 @@ This is a description.
 
 ### Neural Decoding of Morally-Laden Media Narratives
 
-This is a description.
+Forthcoming.
 
 ---

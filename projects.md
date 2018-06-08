@@ -13,6 +13,7 @@ My recent work in this area has focused on expanding MoNA's capabilities to _aut
 </div>
 
 <script>
+<link rel="stylesheet" href="https://fhopp.github.io/css/academicons.min.css"/>
 
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -21,10 +22,10 @@ for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
     var content = this.nextElementSibling;
-    if (content.maxHeight){
-      content.maxHeight = null;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
     } else {
-      content.maxHeight = content.scrollHeight + "px";
+      content.style.maxHeight = content.scrollHeight + "px";
     } 
   });
 }

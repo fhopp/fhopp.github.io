@@ -1,3 +1,4 @@
+<script src="https://fhopp.github.io/js/java.js"></script>
 <button class="collapsible"><b>Automated Extraction of Latent Moral Information From Textual Corpora</b></button>
 <div class="content" markdown="1">
 

@@ -1,21 +1,20 @@
 ### Teaching 
 
-The University of California, Santa Barbara
+#### The University of California, Santa Barbara
 
-Teaching Assistant Introduction to Communication Statistical Analysis of Communication (Assisted with Lecturing) Research Methods Theories of Communication
+Teaching Assistant 
 
-UC-wide online course "Computational Social Science"
+_Introduction to Communication_ Fall ‘16
+_Statistical Analysis of Communication_ (Assisted with Lecturing) Winter ‘17
+_Research Methods_ Fall ‘17, Winter ‘18 
+_Theories of Communication_  Spring ‘18
 
-Fall ‘16 Winter ‘17
+UC-wide online course _Computational Social Science_ (CMN 150V, UC Davis) 
+Contributing lecturer Collaborative online course sponsored by the UC Office of the President's Innovative Learning Technology Initiative
 
-Fall ‘17, Winter ‘18 Spring ‘18
+#### The University of Mannheim
 
-Fall ‘17
-
-(CMN 150V, UC Davis) Contributing lecturer Collaborative online course sponsored by the UC Office of the President's Innovative Learning Technology Initiative
-
-The University of Mannheim
-
-Teaching assistant Introduction to Media- and Communication Studies Theories of Media- and Communication Studies Scientific Working Routines
-
-Fall ‘13 Spring ‘14 Fall ‘16
+Teaching Assistant 
+_Introduction to Media- and Communication Studies_ Fall ‘13
+_Theories of Media- and Communication Studies_ Spring ‘14 
+_Scientific Working Routines_ Fall ‘16

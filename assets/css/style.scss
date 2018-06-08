@@ -16,5 +16,8 @@
     color: black;
 }
 
-
-
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #00000;
+    color: white;
+}

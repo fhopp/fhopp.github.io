@@ -1,4 +1,5 @@
-### Automated Extraction of Latent Moral Information From Textual Corpora
+<details><summary>Automated Extraction of Latent Moral Information From Textual Corpora</summary>
+<p>
 
 A majority of our behaviors and decisions, from voting [(Morgan, Skitka, & Wisneski, 2010)](https://spssi.onlinelibrary.wiley.com/doi/full/10.1111/j.1530-2415.2010.01204.x) and protesting [(Mooijman et al., 2018)](https://www.nature.com/articles/s41562-018-0353-0) to message sharing [(Van Bavel et al., 2017)](http://www.pnas.org/content/114/28/7313.short) and persuasion [(Feinberg & Willer, 2013)](http://journals.sagepub.com/doi/abs/10.1177/0956797612449177) are executed in reference to a set of moral values that prescribe what is best for society as a whole.
 
@@ -9,6 +10,9 @@ Recent research has shown that these moral values are also prevalent in a wide v
 In an attempt to increase the reliability, as well as validity of extracting the latent moral information contained in textual narratives, our lab has developed the [(Moral Narrative Analyzer (MoNA)](https://mnl.ucsb.edu/mona/), a freely available online coding and analysis platform. MoNA combines both human-annoated, as well as computational content-analytical methods for moral sentiment classification. In a series of six studies [(Weber et al., 2018)](https://www.tandfonline.com/doi/abs/10.1080/19312458.2018.1447656), we have utilized MoNA and demonstrated that an intuitive highlighting task, executed by a large crowd of human coders achieves highest inter-coder reliabilities.
 
 My recent work in this area has focused on expanding MoNA's capabilities to _automatically_ extract moral information from text narratives that are too large and ephemeral for human annotation. By harnessing the combined power of both human-annotated and algorithmic, machine-learning content classifications, we are currently developing an extension of the [Moral Foundations Dictionary](http://moralfoundations.org/sites/default/files/files/downloads/moral%20foundations%20dictionary.dic) to measure the degree to which text narratives contain moral information.
+
+</p>
+</details>
 
 ---
 

@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Frederic R. Hopp
 show_downloads: false
+customjs:
+ - https://fhopp.github.io/assets/js/java.js

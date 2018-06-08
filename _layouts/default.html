@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <link rel="stylesheet" href="https://fhopp.github.io/css/academicons.min.css"/>
-<script src="https://fhopp.github.io/assets/js/java.js"></script>
+<!-- Custom JavaScript files set in YAML front matter -->
+{% for js in page.customjs %}
+<script async type="text/javascript" src="{{ js }}"></script>
+{% endfor %}
 
 
   <head>

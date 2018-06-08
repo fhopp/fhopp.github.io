@@ -15,20 +15,24 @@ My recent work in this area has focused on expanding MoNA's capabilities to _aut
 
 ---
 
-### Spatiotemporal Event Prediction: Linking News Frame Densities and Real-Wold Event Likelihoods
+<button class="collapsible"><b>Spatiotemporal Event Prediction: Linking News Frame Densities and Real-Wold Event Likelihoods</b></button>
+<div class="content" markdown="1">
 
 In progress.
+</div>
 
 ---
 
-### Moral Content and Media Appeal 
+<button class="collapsible"><b>Moral Content and Media Appeal </b></button>
+<div class="content" markdown="1">
 
 In progress.
+</div>
 
 ---
 
-### Neural Encoding and Decoding of Morally-Laden Media Narratives
+<button class="collapsible"><b>Neural Encoding and Decoding of Morally-Laden Media Narratives</b></button>
+<div class="content" markdown="1">
 
 Forthcoming.
-
----
+</div>

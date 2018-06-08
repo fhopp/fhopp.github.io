@@ -1,7 +1,7 @@
 <button class="collapsible">Automated Extraction of Latent Moral Information From Textual Corpora</button>
 <div class="content">
 
-  A majority of our behaviors and decisions, from voting [(Morgan, Skitka, & Wisneski, 2010)](https://spssi.onlinelibrary.wiley.com/doi/full/10.1111/j.1530-2415.2010.01204.x) and protesting [(Mooijman et al., 2018)](https://www.nature.com/articles/s41562-018-0353-0) to message sharing [(Van Bavel et al., 2017)](http://www.pnas.org/content/114/28/7313.short) and persuasion [(Feinberg & Willer, 2013)](http://journals.sagepub.com/doi/abs/10.1177/0956797612449177) are executed in reference to a set of moral values that prescribe what is best for society as a whole.
+A majority of our behaviors and decisions, from voting [(Morgan, Skitka, & Wisneski, 2010)](https://spssi.onlinelibrary.wiley.com/doi/full/10.1111/j.1530-2415.2010.01204.x) and protesting [(Mooijman et al., 2018)](https://www.nature.com/articles/s41562-018-0353-0) to message sharing [(Van Bavel et al., 2017)](http://www.pnas.org/content/114/28/7313.short) and persuasion [(Feinberg & Willer, 2013)](http://journals.sagepub.com/doi/abs/10.1177/0956797612449177) are executed in reference to a set of moral values that prescribe what is best for society as a whole.
 
 According to [Moral Foundations Theory](https://www.sciencedirect.com/science/article/pii/B9780124072367000024), these moral values are innate and universal across human beings from different cultures. So far, five moral foundations have been identified: **care/harm** (involving intuitions of sympathy, compassion, and nurturance), **fairness/cheating** (including notions of rights and justice), **loyalty/betrayal** (supporting moral obligations of patriotism and “us vs. them” thinking), **authority/subversion** (including concerns about traditions and maintaining social order), and **sanctity/desecration** (including moral disgust and spiritual concerns about treating the body as a temple).
 
@@ -21,10 +21,10 @@ for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
     var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
+    if (content.maxHeight){
+      content.maxHeight = null;
     } else {
-      content.style.maxHeight = content.scrollHeight + "px";
+      content.maxHeight = content.scrollHeight + "px";
     } 
   });
 }

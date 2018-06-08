@@ -15,10 +15,9 @@ My recent work in this area has focused on expanding MoNA's capabilities to _aut
 
 ---
 
-<button class="collapsible"><b>Spatiotemporal Event Prediction: Linking News Frame Densities and Real-Wold Event Likelihoods</b></button>
-<div class="content" markdown="1">
-
-In progress.
+<div class="collapsible collapsible-collapsed">
+	<h4>Spatiotemporal Event Prediction: Linking News Frame Densities and Real-Wold Event Likelihoods</h4>
+	<p>Forthcoming</p>
 </div>
 
 ---
@@ -36,5 +35,3 @@ In progress.
 
 Forthcoming.
 </div>
-
-<script src="https://fhopp.github.io/assets/js/java.js"></script>

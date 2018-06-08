@@ -13,7 +13,6 @@ My recent work in this area has focused on expanding MoNA's capabilities to _aut
 </div>
 
 <script>
-<link rel="stylesheet" href="https://fhopp.github.io/css/academicons.min.css"/>
 
 var coll = document.getElementsByClassName("collapsible");
 var i;

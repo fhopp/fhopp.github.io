@@ -61,6 +61,18 @@
     font-size: 15px;
 }
 
+.collapsible:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: white;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
 .active, .collapsible:hover {
     background-color: #555;
 }
@@ -71,4 +83,6 @@
     overflow: hidden;
     background-color: #f1f1f1;
 }
+
+<script src="https://fhopp.github.io/js/java.js"></script>
 

@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 /* Style the links inside the navigation bar */
-.myheader {
+.topnav a {
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
@@ -15,6 +15,12 @@
 .topnav a:hover {
     background-color: #00000;
     color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
 }
 
 

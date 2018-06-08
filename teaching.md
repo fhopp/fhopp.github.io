@@ -16,6 +16,9 @@ UC-wide online course _Computational Social Science_ (CMN 150V, UC Davis)
 
 Contributing lecturer Collaborative online course sponsored by the UC Office of the President's Innovative Learning Technology Initiative
 
+---
+
+
 #### The University of Mannheim
 
 Teaching Assistant 

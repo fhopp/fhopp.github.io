@@ -12,6 +12,7 @@ In an attempt to increase the reliability, as well as validity of extracting the
 My recent work in this area has focused on expanding MoNA's capabilities to _automatically_ extract moral information from text narratives that are too large and ephemeral for human annotation. By harnessing the combined power of both human-annotated and algorithmic, machine-learning content classifications, we are currently developing an extension of the [Moral Foundations Dictionary](http://moralfoundations.org/sites/default/files/files/downloads/moral%20foundations%20dictionary.dic) to measure the degree to which text narratives contain moral information.
 </div>
 
+<pre>
 <script>
 
 var coll = document.getElementsByClassName("collapsible");
@@ -30,6 +31,7 @@ for (i = 0; i < coll.length; i++) {
 }
 
 </script>
+</pre>
 
 ---
 

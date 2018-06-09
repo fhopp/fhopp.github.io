@@ -1,6 +1,6 @@
 ### Journal Publications 
 
-Weber, R., Mangus, J. M., Huskey, R., **Hopp, F. R.**, Amir, O., Swanson, R., ... & Tamborini, R. (2018). Extracting Latent Moral Information from Text Narratives: Relevance, Challenges, and Solutions. _Communication Methods and Measures_, 1-21.
+[Weber, R., Mangus, J. M., Huskey, R., **Hopp, F. R.**, Amir, O., Swanson, R., ... & Tamborini, R. (2018). Extracting Latent Moral Information from Text Narratives: Relevance, Challenges, and Solutions. _Communication Methods and Measures_, 1-21.](https://fhopp.github.io/publcations/weber2018.pdf)
 
 Weber, R., Fisher, J. T., **Hopp, F. R.**, & Lonergan, C. (2018). Taking messages into the magnet: Method–theory synergy in communication neuroscience. _Communication Monographs_, 85(1), 81-102.
 

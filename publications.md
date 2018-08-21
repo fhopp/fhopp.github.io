@@ -22,6 +22,8 @@ Vorderer, P., **Hopp, F. R.**, Schneider, F. M., Weinmann, C., & Roth, F. S. (20
 
 ### Conference Proceedings
 
+**Hopp, F. R.**, Cornell, D., Fisher, J., Huskey, R., & Weber, R. (2018, November). The Moral Foundations Dictionary for News (MFD-N): A Crowd-Sourced Moral Foundations Dictionary for the Automated Analysis of News Corpora. 104th Annual Convention of the National Communication Association, Salt Lake City, UT, USA. **Top Paper Panel. Mass Communication Division.**
+
 **Hopp, F. R.**, Fisher, J. T., Mangus, J. M., Huskey, R., Swanson, R., Gordon, A., Khooshabeh, P., Weber, R. (2018). _Mining the Global Database of Events, Language, and Tone: An Introduction for Communication Researchers_. Paper submitted to the annual meeting of the International Communication Association (ICA), Prague, CZ.
 
 **Hopp, F. R.**, Fisher, J. T., Mangus, J. M., Weber, R. (2018). _Combining Computational Content Analysis with Self-Report Data to Predict News Article Sharing_. Paper submitted to the annual meeting of the International Communication Association (ICA), Prague, CZ. 

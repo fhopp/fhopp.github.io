@@ -10,7 +10,7 @@ _Statistical Analysis of Communication_ (Assisted with Lecturing) Winter ‘17
 
 _Research Methods_ Fall ‘17, Winter ‘18 
 
-_Theories of Communication_  Spring ‘18
+_Theories of Communication_  Spring ‘18, Summer ‘18
 
 UC-wide online course _Computational Social Science_ (CMN 150V, UC Davis) 
 

@@ -31,15 +31,16 @@
     color: black;
 }
 
+
+/* Add a color to the active/current link */
+.tab tablinks.active {
+    background-color: #ccc;
+}
+
 .tab a.active {
     background-color: #ccc;
 }
 
-/* Add a color to the active/current link */
-.topnav a.active {
-    background-color: #4CAF50;
-    color: white;
-}
 
 .image-cropper {
     max-width: 100px;
@@ -63,8 +64,6 @@
 .twitter-follow-button {
     padding-left:22em
 }
-
-
 
 .ai-google-scholar-square {
     padding-left:16em

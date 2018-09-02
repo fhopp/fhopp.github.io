@@ -25,13 +25,13 @@
             <h2 id="project_title">{{ site.title | default: site.github.repository_name }} </h2>
 
          
-          <div class="topnav">
-            <a   href="https://fhopp.github.io">About</a>
-            <a   href="https://fhopp.github.io/projects">Current Research</a>
-            <a   href="https://fhopp.github.io/cv">CV</a>
-            <a   href="https://fhopp.github.io/publications">Publications</a>
-            <a   href="https://fhopp.github.io/teaching">Teaching</a>
-            <a   href="https://fhopp.github.io/tools">Tools/Resources</a>
+          <div class="tab">
+            <a   class="tablinks" href="https://fhopp.github.io">About</a>
+            <a   class="tablinks" href="https://fhopp.github.io/projects">Current Research</a>
+            <a   class="tablinks" href="https://fhopp.github.io/cv">CV</a>
+            <a   class="tablinks" href="https://fhopp.github.io/publications">Publications</a>
+            <a   class="tablinks" href="https://fhopp.github.io/teaching">Teaching</a>
+            <a   class="tablinks" href="https://fhopp.github.io/tools">Tools/Resources</a>
          </div> 
 
         </header>
@@ -53,5 +53,21 @@
         <p class="copyright"> &copy {{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
       </footer> 
     </div>
+
+    <script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+    </script>
   </body>
 </html>

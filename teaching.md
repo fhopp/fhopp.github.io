@@ -2,7 +2,7 @@
 
 #### The University of California, Santa Barbara
 
-Teaching Assistant 
+**Teaching Assistant**
 
 _Introduction to Communication_ Fall ‘16
 
@@ -16,12 +16,18 @@ UC-wide online course _Computational Social Science_ (CMN 150V, UC Davis)
 
 Contributing lecturer Collaborative online course sponsored by the UC Office of the President's Innovative Learning Technology Initiative
 
+**Guest Lectures**
+
+_An Introduction to Computational Communication Science_ Summer ´18
+
+_Method-Theory Synergy in Communication Synergy_ Summer ´18
+
 ---
 
 
 #### The University of Mannheim
 
-Teaching Assistant 
+**Teaching Assistant**
 
 _Introduction to Media- and Communication Studies_ Fall ‘13
 

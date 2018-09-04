@@ -52,10 +52,15 @@ My recent work in this area has focused on expanding MoNA's capabilities to _aut
 </div>
 
 
-<button class="collapsible"><b>Spatiotemporal Event Prediction: Linking News Frame Densities and Real-Wold Event Likelihoods</b></button>
+<button class="collapsible"><b>Spatiotemporal Event Forecasting: Linking News Frame Densities and Real-Wold Event Likelihoods</b></button>
 <div class="content" markdown="1">
 
-In progress.
+The problem of forecasting real-world events has long been of interest for statisticians and researchers of international relations. Attempts have been made to forecast a wide variety of events, spanning [social unrest in East Asia](https://www.hindawi.com/journals/ddns/2017/8180272/abs/), [material conflicts in the Balkans](https://link.springer.com/chapter/10.1007/1-4020-4390-2_8) and the [Middle East](https://link.springer.com/chapter/10.1007/978-1-4614-5311-6_8). By relying on [_Hidden Markov Models_](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwijhLLp-aDdAhUBFywKHQWaCOUQFjAAegQIAhAC&url=http%3A%2F%2Fai.stanford.edu%2F~pabbeel%2Fdepth_qual%2FRabiner_Juang_hmms.pdf&usg=AOvVaw1H740xvY8Ulz7gEtCfa3z3), a class of stochastic sequencing models, unfolding streams of events were utilized to forecast likely sequences following the most recent events with accuracies up to 82%.
+
+My work in this area extends these previous efforts by integrating the news that accompany the occurence of events. According to [framing theory](http://journals.sagepub.com/doi/abs/10.1177/0002764211426331), the stylistic and semantics through which journalists present events affects how audiences process, integrate, and act upon these events. Specifically, when moralizing a given issue or sequence of events, along with a strong emotional tone, it is predicted that news frames entail a greater motivational relevance, triggering the onset of novel events. In comparison to events, news frames are potentially easier to adjust when attempting to reduce polarization and social instability, providing politicians and media professionals with a better rational of how to frame and present their messages.
+
+Currently, I am utilizing the [Global Database of Events, Language, and Tone](https://www.gdeltproject.org/) to obtain events and associated news frames in the United States to forecast several societal states, ranging from social peace to social unrest and forceful police and military interventions. A submission of this work is currently underway.
+
 </div>
 
 

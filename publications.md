@@ -1,4 +1,6 @@
-### Journal Publications 
+### Journal Publications
+
+**Hopp, F. R**., Schaffer, J., Fisher, J. T., Cornell, D., & Weber, R. (under review). iCoRe: The GDELT Interface for the Advancement of Communication Research.
 
 [Weber, R., Mangus, J. M., Huskey, R., **Hopp, F. R.**, Amir, O., Swanson, R., ... & Tamborini, R. (2018). Extracting Latent Moral Information from Text Narratives: Relevance, Challenges, and Solutions. _Communication Methods and Measures_, 1-21.](https://fhopp.github.io/publications/weber2018.pdf)
 
@@ -14,7 +16,10 @@
 
 ---
 
-### Book Chapters 
+### Book Chapters
+
+**Hopp, F. R**. & Weber, R. (2019) The state-of-the-art and future of fMRI methodology in communication research. In *Communication Science and Biology*. Routledge.
+
 
 Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (2016). Seriously Entertained: Antecedents and Consequences of Hedonic and Eudaimonic Entertainment Experiences With Political Talk Shows on TV. In _Entertainment Media and Politics_ (pp. 85-105). Routledge.
 

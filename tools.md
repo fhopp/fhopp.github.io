@@ -10,6 +10,8 @@ Currently, I am maintaining a Eucalyptus cloud-computing cluster that serves as 
 
 I leverage Apache Spark to increase performance (e.g., higher throughput) when querying and analyzing data via iCoRe.
 
+---
+
 ### Natural Language Processing
 
 ...
@@ -22,6 +24,8 @@ NLTK, SpaCy, Pandas
 
 Moral Narrative Analyzer ...
 
+---
+
 ### Scientfic Computing in Neuroimaging
 
 ###### Nipype
@@ -32,7 +36,9 @@ Moral Narrative Analyzer ...
 
 ...
 
-### Theoretical Foundations
+---
+
+### Theoretical Foundation
 
 ###### Moral Psychology
 

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <change afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects.md" afterDir="false" />
-    </list>
+    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +15,7 @@
     <session id="-795907382">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -30,14 +26,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="278" />
-          <entry key="md" value="4796" />
+          <entry key="md" value="4802" />
           <entry key="scss" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="284" />
-          <entry key="Markdown" value="4790" />
+          <entry key="Markdown" value="4796" />
           <entry key="SCSS" value="100" />
         </counts>
       </usages-collector>
@@ -121,20 +117,20 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="410">
-                <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+                <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
                 <folding>
-                  <marker date="1544560837707" expanded="true" signature="6:618" ph="..." />
-                  <marker date="1544560837707" expanded="true" signature="8:114" ph="..." />
-                  <marker date="1544560837707" expanded="true" signature="262:293" ph="{...}" />
-                  <marker date="1544560837707" expanded="true" signature="314:420" ph="{...}" />
-                  <marker date="1544560837707" expanded="true" signature="436:461" ph="{...}" />
-                  <marker date="1544560837707" expanded="true" signature="472:610" ph="{...}" />
-                  <marker date="1544560837707" expanded="true" signature="672:815" ph="..." />
-                  <marker date="1544560837707" expanded="true" signature="6859:7262" ph="..." />
-                  <marker date="1544560837707" expanded="true" signature="6962:7253" ph="{...}" />
-                  <marker date="1544560837707" expanded="true" signature="7011:7249" ph="{...}" />
-                  <marker date="1544560837707" expanded="true" signature="7125:7170" ph="{...}" />
-                  <marker date="1544560837707" expanded="true" signature="7176:7244" ph="{...}" />
+                  <marker date="1544560860276" expanded="true" signature="6:618" ph="..." />
+                  <marker date="1544560860276" expanded="true" signature="8:114" ph="..." />
+                  <marker date="1544560860276" expanded="true" signature="262:293" ph="{...}" />
+                  <marker date="1544560860276" expanded="true" signature="314:420" ph="{...}" />
+                  <marker date="1544560860276" expanded="true" signature="436:461" ph="{...}" />
+                  <marker date="1544560860276" expanded="true" signature="472:610" ph="{...}" />
+                  <marker date="1544560860276" expanded="true" signature="673:816" ph="..." />
+                  <marker date="1544560860276" expanded="true" signature="6860:7263" ph="..." />
+                  <marker date="1544560860276" expanded="true" signature="6963:7254" ph="{...}" />
+                  <marker date="1544560860276" expanded="true" signature="7012:7250" ph="{...}" />
+                  <marker date="1544560860276" expanded="true" signature="7126:7171" ph="{...}" />
+                  <marker date="1544560860276" expanded="true" signature="7177:7245" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor>
@@ -223,9 +219,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -350,13 +345,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528476794139</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544505269422</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1544505269422</updated>
     </task>
     <task id="LOCAL-00043" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544505761488</created>
@@ -694,7 +682,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544560559705</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544560863407</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1544560863407</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TodoView">
@@ -877,20 +872,20 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="410">
-            <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+            <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
             <folding>
-              <marker date="1544560837707" expanded="true" signature="6:618" ph="..." />
-              <marker date="1544560837707" expanded="true" signature="8:114" ph="..." />
-              <marker date="1544560837707" expanded="true" signature="262:293" ph="{...}" />
-              <marker date="1544560837707" expanded="true" signature="314:420" ph="{...}" />
-              <marker date="1544560837707" expanded="true" signature="436:461" ph="{...}" />
-              <marker date="1544560837707" expanded="true" signature="472:610" ph="{...}" />
-              <marker date="1544560837707" expanded="true" signature="672:815" ph="..." />
-              <marker date="1544560837707" expanded="true" signature="6859:7262" ph="..." />
-              <marker date="1544560837707" expanded="true" signature="6962:7253" ph="{...}" />
-              <marker date="1544560837707" expanded="true" signature="7011:7249" ph="{...}" />
-              <marker date="1544560837707" expanded="true" signature="7125:7170" ph="{...}" />
-              <marker date="1544560837707" expanded="true" signature="7176:7244" ph="{...}" />
+              <marker date="1544560860276" expanded="true" signature="6:618" ph="..." />
+              <marker date="1544560860276" expanded="true" signature="8:114" ph="..." />
+              <marker date="1544560860276" expanded="true" signature="262:293" ph="{...}" />
+              <marker date="1544560860276" expanded="true" signature="314:420" ph="{...}" />
+              <marker date="1544560860276" expanded="true" signature="436:461" ph="{...}" />
+              <marker date="1544560860276" expanded="true" signature="472:610" ph="{...}" />
+              <marker date="1544560860276" expanded="true" signature="673:816" ph="..." />
+              <marker date="1544560860276" expanded="true" signature="6860:7263" ph="..." />
+              <marker date="1544560860276" expanded="true" signature="6963:7254" ph="{...}" />
+              <marker date="1544560860276" expanded="true" signature="7012:7250" ph="{...}" />
+              <marker date="1544560860276" expanded="true" signature="7126:7171" ph="{...}" />
+              <marker date="1544560860276" expanded="true" signature="7177:7245" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor>

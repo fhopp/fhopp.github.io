@@ -27,6 +27,7 @@ Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (20
 
 ### Conference Proceedings
 
+#### 2019
 **Hopp, F.R.**, Lonergan, C., Fisher, J., & Weber, R. (2019). The joy of mediated punishments: Moral transgression in auditory narratives elicit cortical synchronization in listeners. Paper submitted to the annual meeting of the Social and Affective Neuroscience Society (SANS), Miami, USA
 
 Fisher, J., **Hopp, F.R.**, Lonergan, C., & Weber, R. (2019). Brain network topology and dynamics in ADHD individuals during video game play Paper submitted to the annual meeting of the Social and Affective Neuroscience Society (SANS), Miami, USA
@@ -40,6 +41,10 @@ Fisher, J.T., Lonergan, C., **Hopp, F.R.**, Grall, C., Pandey, P., Scholz, C., N
 **Hopp, F.R.**, Fisher, J., Prabhu, S., Cornell, D., Tamborini, R., & Weber, R. (2019). Revisiting the moral foundations-affect misattribution procedure (MF-AMP): An extended, open-source tool for measuring the accessibility of moral intuitions. Paper submitted to the annual meeting of the International Communication Association (ICA), Washington DC, USA.
 
 **Hopp, F.R.**, Fisher, J., & Weber, R. (2019). The dynamic relationship between news frames and real-world events: A hidden markov model approach. Paper submitted to the annual meeting of the International Communication Association (ICA), Washington DC, USA.
+
+---
+
+#### 2018
 
 **Hopp, F. R.**, Cornell, D., Fisher, J., Huskey, R., & Weber, R. (2018, November). The Moral Foundations Dictionary for News (MFD-N): A Crowd-Sourced Moral Foundations Dictionary for the Automated Analysis of News Corpora. 104th Annual Convention of the National Communication Association, Salt Lake City, UT, USA. **Top Paper Panel. Mass Communication Division.**
 
@@ -55,13 +60,19 @@ Fisher, J. **Hopp, F. R.**, & Weber, R. (2018). _"Look Harder!" ADHD, Media Mult
 
 Fisher, J., Cornell, D., **Hopp, F. R.**, Weber, R. (2018). _But How are They Talked About?": A Novel Measure of Entity Framing in Online News_. Paper submitted to the annual meeting of the International Communication Association (ICA), Prague, CZ.
 
-Schneider, F. M., Rieger, D., **Hopp., F. R.**, Rothmond, T. (2018). First aid in the pocket—the psychosocial benefits of smartphones in self-threatening situations. Paper submitted to the annual meeting of the International Communication Association (ICA), Prague, CZ. 
+Schneider, F. M., Rieger, D., **Hopp., F. R.**, Rothmond, T. (2018). First aid in the pocket—the psychosocial benefits of smartphones in self-threatening situations. Paper submitted to the annual meeting of the International Communication Association (ICA), Prague, CZ.
+
+---
+#### 2017
 
 **Hopp, F. R.**, Fisher, J. T., Mangus, J. M., Huskey, R., Swanson, R.,Gordon, A., Khooshabeh, P., & Weber, R. (2017). Examining Online News Reporting Using the Global Database of Events, Language, and Tone: Challenges, Opportunities, and Future Directions. 103 rd Annual Convention of the National Communication Association, Dallas, TX, USA. 
 
 Schneider, F. M., Rieger, D., **Hopp, F. R.**, Rothmund, T. (2017). _First aid in the pocket—The psychosocial benefits of smartphones in self-threatening situations_. 10th Conference of the Media Psychology Division (German Psychological Society, DGPs) Landau.
 
 Reich, S., Reinecke, L., Hefner, D., Winkler, J., **Hopp, F. R.**, Knop- Huelss, K., Chan, M., Owen, B., & Vorderer, P. (2017). _Self-construal cultural values and everyday life with a smartphone – Intercultural differences in being permanently online and connected_. 67th Annual Conference of the International Communication Association (ICA), San-Diego, CA, USA.
+
+---
+#### < 2016
 
 Roth, F. S., Weinmann, C., Schneider, F. S., **Hopp, F. R.**, Bindl, M. J., & Vorderer, P. (2016). _Curving entertainment: The curvilinear relationship between hedonic and eudaimonic entertainment experiences while watching a political talk show and its implications for information processing_. Annual Conference of the Fachgruppe Rezeptions- und Wirkungsforschung (Deutsche Gesellschaft für Publizistik und Kommunikationswissenschaft, DGPuK), Amsterdam.
 

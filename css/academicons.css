@@ -367,3 +367,9 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+.fa-test{
+  font-size: 3.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}

@@ -1,6 +1,6 @@
-<i class="fa fa-globe-americas"></i>
-<i class="fa fa-balance-scale"></i>
-<i class="fa fa-film"></i>
-<i class="fa fa-brain"></i>
+<i class="fa-test fa-globe-americas"></i>
+<i class="fa-test fa-balance-scale"></i>
+<i class="fa-test fa-film"></i>
+<i class="fa-test fa-brain"></i>
 
 

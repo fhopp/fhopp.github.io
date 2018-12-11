@@ -1,6 +1,6 @@
 <div class="brain">
 
-<div style="font-size: 50px;">
+<div style="font-size: 30px;">
 
 <i class="fa fa-globe-americas"></i>
 <br>

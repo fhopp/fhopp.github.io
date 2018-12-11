@@ -1,9 +1,7 @@
-:mortar_board: **MA Communication**, 2018
-
+![](/symbols/graduation_cap.png) **MA Communication** (2018)
 ###### University of California, Santa Barbara
 
-:mortar_board: **BA Media and Communication with Minor in Political Science**,
-2016
+![](/symbols/graduation_cap.png) **BA Media and Communication with Minor in Political Science** (2016)
 
 ###### University of Mannheim
 

@@ -27,6 +27,20 @@ Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (20
 
 ### Conference Proceedings
 
+**Hopp, F.R.**, Lonergan, C., Fisher, J., & Weber, R. (2019). The joy of mediated punishments: Moral transgression in auditory narratives elicit cortical synchronization in listeners. Paper submitted to the annual meeting of the Social and Affective Neuroscience Society (SANS), Miami, USA
+
+Fisher, J., **Hopp, F.R.**, Lonergan, C., & Weber, R. (2019). Brain network topology and dynamics in ADHD individuals during video game play Paper submitted to the annual meeting of the Social and Affective Neuroscience Society (SANS), Miami, USA
+
+Lukito, J., TeBlunthuis, N., & **Hopp, F.R.** (2019). Expanding computational communication: Towards a pipeline for graduate students and early career scholars. Pre-conference proposal submitted to the Computational Communication Research Interest Group of the International Communication Association (ICA), Washington, DC.
+
+Fisher, J.T., Lonergan, C., **Hopp, F.R.**, Grall, C., Pandey, P., Scholz, C., Najera, C.J., & Wilcox, S. (2019). Best practices in training and mentoring research assistants and new graduate students. Workshop submitted to the annual meeting of the International Communication Association (ICA), Washington, DC.
+
+**Hopp, F.R.**, Barel, A., Fisher, J., Cornell, D., Lonergan, C., & Weber, R. (2019). "I believe that morality is gone": A large-scale inventory of moral foundations in lyrics of popular songs. Paper submitted to the annual meeting of the International Communication Association (ICA), Washington DC, USA.
+
+**Hopp, F.R.**, Fisher, J., Prabhu, S., Cornell, D., Tamborini, R., & Weber, R. (2019). Revisiting the moral foundations-affect misattribution procedure (MF-AMP): An extended, open-source tool for measuring the accessibility of moral intuitions. Paper submitted to the annual meeting of the International Communication Association (ICA), Washington DC, USA.
+
+**Hopp, F.R.**, Fisher, J., & Weber, R. (2019). The dynamic relationship between news frames and real-world events: A hidden markov model approach. Paper submitted to the annual meeting of the International Communication Association (ICA), Washington DC, USA.
+
 **Hopp, F. R.**, Cornell, D., Fisher, J., Huskey, R., & Weber, R. (2018, November). The Moral Foundations Dictionary for News (MFD-N): A Crowd-Sourced Moral Foundations Dictionary for the Automated Analysis of News Corpora. 104th Annual Convention of the National Communication Association, Salt Lake City, UT, USA. **Top Paper Panel. Mass Communication Division.**
 
 **Hopp, F. R.**, Fisher, J. T., Mangus, J. M., Huskey, R., Swanson, R., Gordon, A., Khooshabeh, P., Weber, R. (2018). _Mining the Global Database of Events, Language, and Tone: An Introduction for Communication Researchers_. Paper submitted to the annual meeting of the International Communication Association (ICA), Prague, CZ.

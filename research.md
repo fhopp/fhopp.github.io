@@ -2,13 +2,13 @@
 
 <div style="font-size: 30px;">
 
-<i class="fa fa-globe-americas"></i>
+<i class="fa-cog fa-globe-americas"></i>
 <br>
-<i class="fa fa-balance-scale"></i>
+<i class="fa-cog fa-balance-scale"></i>
 
-<i class="fa fa-film"></i>
+<i class="fa-cog fa-film"></i>
 
-<i class="fa fa-brain"></i>
+<i class="fa-cog fa-brain"></i>
 
 </div>
 

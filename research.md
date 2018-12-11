@@ -1,4 +1,4 @@
-<div style="font-size: 20px;">
+<div style="font-size: 50px;">
 <i class="fa fa-globe-americas"></i>
 <i class="fa fa-balance-scale"></i>
 <i class="fa fa-film"></i>

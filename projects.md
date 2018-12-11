@@ -37,6 +37,8 @@
 }
 </style>
 
+<i class="fa fa-lock"></i>
+
 <body>
 <button class="collapsible">Automated Extraction of Latent Moral Information From Textual Corpora</button>
 <div class="content" markdown="1">

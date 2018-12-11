@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,30 +29,34 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="277" />
-          <entry key="md" value="4757" />
+          <entry key="html" value="278" />
+          <entry key="md" value="4770" />
           <entry key="scss" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="279" />
-          <entry key="Markdown" value="4755" />
+          <entry key="HTML" value="283" />
+          <entry key="Markdown" value="4765" />
           <entry key="SCSS" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
+          <entry key="init" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="1" />
           <entry key="png" value="3" />
+          <entry key="svg" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
           <entry key="Image" value="5" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -60,11 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            <state relative-caret-position="221">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#li#0;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#1;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
@@ -79,15 +85,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="51">
+              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/academicons.css">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -108,21 +118,21 @@
         <entry file="file://$PROJECT_DIR$/projects.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1768">
-                <caret line="57" column="116" selection-start-line="57" selection-start-column="116" selection-end-line="57" selection-end-column="116" />
+              <first_editor relative-caret-position="290">
+                <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
                 <folding>
-                  <marker date="1536051818969" expanded="true" signature="6:593" ph="..." />
-                  <marker date="1536051818969" expanded="true" signature="8:114" ph="..." />
-                  <marker date="1536051818969" expanded="true" signature="237:268" ph="{...}" />
-                  <marker date="1536051818969" expanded="true" signature="289:395" ph="{...}" />
-                  <marker date="1536051818969" expanded="true" signature="411:436" ph="{...}" />
-                  <marker date="1536051818969" expanded="true" signature="447:585" ph="{...}" />
-                  <marker date="1536051818969" expanded="true" signature="601:744" ph="..." />
-                  <marker date="1536051818969" expanded="true" signature="6788:7191" ph="..." />
-                  <marker date="1536051818969" expanded="true" signature="6891:7182" ph="{...}" />
-                  <marker date="1536051818969" expanded="true" signature="6940:7178" ph="{...}" />
-                  <marker date="1536051818969" expanded="true" signature="7054:7099" ph="{...}" />
-                  <marker date="1536051818969" expanded="true" signature="7105:7173" ph="{...}" />
+                  <marker date="1544559579374" expanded="true" signature="6:618" ph="..." />
+                  <marker date="1544559579374" expanded="true" signature="8:114" ph="..." />
+                  <marker date="1544559579374" expanded="true" signature="262:293" ph="{...}" />
+                  <marker date="1544559579374" expanded="true" signature="314:420" ph="{...}" />
+                  <marker date="1544559579374" expanded="true" signature="436:461" ph="{...}" />
+                  <marker date="1544559579374" expanded="true" signature="472:610" ph="{...}" />
+                  <marker date="1544559579374" expanded="true" signature="654:797" ph="..." />
+                  <marker date="1544559579374" expanded="true" signature="6841:7244" ph="..." />
+                  <marker date="1544559579374" expanded="true" signature="6944:7235" ph="{...}" />
+                  <marker date="1544559579374" expanded="true" signature="6993:7231" ph="{...}" />
+                  <marker date="1544559579374" expanded="true" signature="7107:7152" ph="{...}" />
+                  <marker date="1544559579374" expanded="true" signature="7158:7226" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor>
@@ -146,11 +156,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tools.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="187">
+              <first_editor relative-caret-position="113">
                 <caret line="5" column="259" selection-start-line="5" selection-start-column="259" selection-end-line="5" selection-end-column="259" />
               </first_editor>
               <second_editor>
@@ -181,13 +191,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/projects.md" />
         <option value="$PROJECT_DIR$/assets/css/style.scss" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/teaching.md" />
         <option value="$PROJECT_DIR$/publications.md" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/tools.md" />
+        <option value="$PROJECT_DIR$/projects.md" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -198,10 +208,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="73" />
-    <option name="y" value="37" />
-    <option name="width" value="1526" />
-    <option name="height" value="781" />
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -229,6 +238,16 @@
               <item name="fhopp.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fhopp.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fhopp.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fhopp.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fhopp.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fhopp.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -316,20 +335,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528476794139</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1543563079022</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1543563079023</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544504649427</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1544504649428</updated>
     </task>
     <task id="LOCAL-00040" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544504944352</created>
@@ -660,7 +665,21 @@
       <option name="project" value="LOCAL" />
       <updated>1544551563809</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544551982889</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1544551982889</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544559064658</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1544559064659</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TodoView">
@@ -673,10 +692,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495564" visible="true" weight="0.123931624" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495564" visible="true" weight="0.108093716" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.504436" side_tool="true" weight="0.11660562" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -686,7 +705,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914045" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.495116" visible="true" weight="0.16196448" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.495116" visible="true" weight="0.15704153" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.504884" side_tool="true" weight="0.1687631" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -737,9 +756,6 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/academicons.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/symbols/mnl.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -751,39 +767,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/headshot.jpeg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1768">
-            <caret line="57" column="116" selection-start-line="57" selection-start-column="116" selection-end-line="57" selection-end-column="116" />
-            <folding>
-              <marker date="1536051818969" expanded="true" signature="6:593" ph="..." />
-              <marker date="1536051818969" expanded="true" signature="8:114" ph="..." />
-              <marker date="1536051818969" expanded="true" signature="237:268" ph="{...}" />
-              <marker date="1536051818969" expanded="true" signature="289:395" ph="{...}" />
-              <marker date="1536051818969" expanded="true" signature="411:436" ph="{...}" />
-              <marker date="1536051818969" expanded="true" signature="447:585" ph="{...}" />
-              <marker date="1536051818969" expanded="true" signature="601:744" ph="..." />
-              <marker date="1536051818969" expanded="true" signature="6788:7191" ph="..." />
-              <marker date="1536051818969" expanded="true" signature="6891:7182" ph="{...}" />
-              <marker date="1536051818969" expanded="true" signature="6940:7178" ph="{...}" />
-              <marker date="1536051818969" expanded="true" signature="7054:7099" ph="{...}" />
-              <marker date="1536051818969" expanded="true" signature="7105:7173" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teaching.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -809,20 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#4;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#6;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -836,12 +805,72 @@
     <entry file="file://$PROJECT_DIR$/tools.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
+          <first_editor relative-caret-position="113">
             <caret line="5" column="259" selection-start-line="5" selection-start-column="259" selection-end-line="5" selection-end-column="259" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="290">
+            <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+            <folding>
+              <marker date="1544559579374" expanded="true" signature="6:618" ph="..." />
+              <marker date="1544559579374" expanded="true" signature="8:114" ph="..." />
+              <marker date="1544559579374" expanded="true" signature="262:293" ph="{...}" />
+              <marker date="1544559579374" expanded="true" signature="314:420" ph="{...}" />
+              <marker date="1544559579374" expanded="true" signature="436:461" ph="{...}" />
+              <marker date="1544559579374" expanded="true" signature="472:610" ph="{...}" />
+              <marker date="1544559579374" expanded="true" signature="654:797" ph="..." />
+              <marker date="1544559579374" expanded="true" signature="6841:7244" ph="..." />
+              <marker date="1544559579374" expanded="true" signature="6944:7235" ph="{...}" />
+              <marker date="1544559579374" expanded="true" signature="6993:7231" ph="{...}" />
+              <marker date="1544559579374" expanded="true" signature="7107:7152" ph="{...}" />
+              <marker date="1544559579374" expanded="true" signature="7158:7226" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/academicons.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/init">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/academicons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,16 +1,16 @@
-### Teaching 
-
-#### The University of California, Santa Barbara
+### The University of California, Santa Barbara
 
 **Teaching Assistant**
 
 _Introduction to Communication_ Fall ‘16
 
-_Statistical Analysis of Communication_ (Assisted with Lecturing) Winter ‘17
+_Statistical Analysis of Communication_ (Assisted with Lecturing) Winter ‘17, Winter '18
 
 _Research Methods_ Fall ‘17, Winter ‘18 
 
 _Theories of Communication_  Spring ‘18, Summer ‘18
+
+*Video Game Research* Fall '18
 
 UC-wide online course _Computational Social Science_ (CMN 150V, UC Davis) 
 
@@ -25,7 +25,7 @@ _Method-Theory Synergy in Communication Synergy_ Summer ´18
 ---
 
 
-#### The University of Mannheim
+### The University of Mannheim
 
 **Teaching Assistant**
 

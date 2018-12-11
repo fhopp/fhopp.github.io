@@ -43,7 +43,9 @@
 }
 
 .rounded {
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 100px;
     width: 100px;
     -webkit-border-radius: 50%;

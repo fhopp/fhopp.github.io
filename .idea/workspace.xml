@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <change afterPath="$PROJECT_DIR$/symbols/email.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symbols/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symbols/google_scholar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symbols/twitter.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,25 +29,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="76" />
+          <entry key="html" value="142" />
           <entry key="md" value="204" />
-          <entry key="scss" value="21" />
+          <entry key="scss" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="76" />
+          <entry key="HTML" value="142" />
           <entry key="Markdown" value="204" />
-          <entry key="SCSS" value="21" />
+          <entry key="SCSS" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="css" value="1" />
           <entry key="png" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="1" />
           <entry key="Image" value="2" />
         </counts>
       </usages-collector>
@@ -64,8 +63,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="550">
+              <caret line="75" column="12" lean-forward="true" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#li#0;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#4;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#5;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#6;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,10 +86,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+            <state relative-caret-position="564">
+              <caret line="110" selection-start-line="110" selection-end-line="110" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/academicons.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -214,6 +227,17 @@
             <path>
               <item name="fhopp.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="fhopp.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fhopp.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fhopp.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fhopp.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fhopp.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fhopp.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -587,7 +611,21 @@
       <option name="project" value="LOCAL" />
       <updated>1544505269422</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544505761488</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1544505761488</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544505965856</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1544505965856</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TodoView">
@@ -601,7 +639,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495564" visible="true" weight="0.123931624" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -658,9 +695,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/academicons.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/init">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -744,17 +778,29 @@
     <entry file="file://$PROJECT_DIR$/symbols/mnl.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/academicons.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+        <state relative-caret-position="564">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="550">
+          <caret line="75" column="12" lean-forward="true" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

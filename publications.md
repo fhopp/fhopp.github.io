@@ -1,7 +1,3 @@
-<body>
-<i class="fas fa-globe-americas"></i>
-<div class="content" markdown="1">
-
 ### Journal Publications
 
 **Hopp, F. R**., Schaffer, J., Fisher, J. T., Cornell, D., & Weber, R. (under review). iCoRe: The GDELT Interface for the Advancement of Communication Research.
@@ -89,6 +85,3 @@ Roth, F. S., Weinmann, C., Schneider, F. M., Krämer, T., **Hopp, F.R.**, & Vord
 Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F.R.**, & Vorderer, P. (May, 2014). _Seriously entertained: Antecedents and consequences of hedonic and eudaimonic entertainment experiences with political talk shows_. 64th Annual Conference of the International Communication Association (ICA), Seattle, WA, USA.
 
 Vorderer, P., Roth, F. S., Weinmann, C., & **Hopp, F. R.** (2013, September). _Connecting media psychology and political communication: An exploratory telephone survey about how and why people use political talk shows_. 8th Conference of the Media Psychology Division (German Psychological Society, DGPs), Würzburg.
-
-</div>
-</body>

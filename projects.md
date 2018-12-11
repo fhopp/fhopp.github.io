@@ -37,7 +37,7 @@
 }
 </style>
 
-<i class="fa fa-lock"></i>
+<i class="fa fa-globe-americas"></i>
 
 <body>
 <button class="collapsible">Automated Extraction of Latent Moral Information From Textual Corpora</button>

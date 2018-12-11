@@ -9,6 +9,7 @@
     text-align: left;
     outline: none;
     font-size: 15px;
+    padding-bottom:10px;
 }
 
 .active, .collapsible:hover {

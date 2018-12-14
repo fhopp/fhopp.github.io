@@ -45,7 +45,7 @@
 
 </i>
 
-<i class="fa fa-brain tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 290px; left:220px;">
+<i class="fa fa-brain tooltip" style="font-size:37px;color:deepskyblue;position: relative; top: 292px; left:218px;">
 <span class="tooltiptext" style="font-size:15px">Network Topology of the Moral Brain</span>
 
 </i>

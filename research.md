@@ -36,11 +36,14 @@
 <span class="tooltiptext" style="font-size:20px">Global Database of Events, Language and Tone</span>
 </i>
 
-<i class="fa fa-balance-scale tooltip" style="font-size:42px;color:deepskyblue;position: relative; top: 200px; left:215px;">
+<i class="fa fa-balance-scale tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 200px; left:200px;">
 <span class="tooltiptext" style="font-size:20px">Moral Judgment and Decision Making</span>
 </i>
 
-<i class="fa fa-film"></i>
+<i class="fa fa-film tooltip" style="font-size:42px;color:deepskyblue;position: relative; top: 150px; left:335px;">
+<span class="tooltiptext" style="font-size:20px">Automated Analysis of Movie Scripts</span>
+
+</i>
 
 <i class="fa fa-brain"></i>
 

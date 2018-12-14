@@ -32,7 +32,7 @@
 
 <div class="brain">
 
-<i class="fa fa-globe-americas tooltip" style="font-size:40px;color:deepskyblue;position: relative; top: 360px; left:210px;">
+<i class="fa fa-globe-americas tooltip" style="font-size:42px;color:deepskyblue;position: relative; top: 360px; left:205px;">
 <span class="tooltiptext" style="font-size:20px">Global Database of Events, Language and Tone</span>
 </i>
 

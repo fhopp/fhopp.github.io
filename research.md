@@ -2,7 +2,7 @@
 
 <div style="font-size:30px;color:deepskyblue">
 
-<i class="fa-globe fa-globe-americas"></i>
+<i class="fa fa-globe-americas" src="position: relative; top: 20px;"></i>
 <br>
 <i class="fa fa-balance-scale"></i>
 

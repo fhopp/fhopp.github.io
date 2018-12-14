@@ -1,4 +1,4 @@
-<i class="fa fa-graduation-cap">    PhD Student – Communication, The University of California, Santa Barbara </i>
+<i class="fa fa-graduation-cap">    Ph.D. Student – Communication, The University of California, Santa Barbara </i>
 
 <i class="fa fa-university">    Master of Arts (2018) – Communication, The University of California, Santa Barbara </i>
 

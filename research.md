@@ -34,7 +34,7 @@
 <div class="brain">
 
 
-<i class="fa fa-globe-americas tooltip" style="font-size:30px;color:deepskyblue;position: relative; top: 350px; left:210px;"></i>
+<i class="fa fa-globe-americas tooltip" style="font-size:30px;color:deepskyblue;position: relative; top: 360px; left:210px;"></i>
 
 <i class="fa fa-balance-scale"></i>
 

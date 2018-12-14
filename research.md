@@ -32,21 +32,21 @@
 
 <div class="brain">
 
-<i class="fa fa-globe-americas tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 253px; left:133px;">
-<a href="url"><span class="tooltiptext" style="font-size:15px"> Large-Scale Data Extraction and Analysis</span></a>
+<i class="fa fa-globe-americas tooltip" style="font-size:35px;color:deeppink;position: relative; top: 253px; left:133px;">
+<a href="url"><span class="tooltiptext" style="font-size:15px"> Global Analysis of News and Events</span></a>
 </i>
 
-<i class="fa fa-balance-scale tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 123px; left:102px;">
-<span class="tooltiptext" style="font-size:15px" href="url"> Media and Morality</span>
+<i class="fa fa-balance-scale tooltip" style="font-size:35px;color:deeppink;position: relative; top: 123px; left:102px;">
+<a href="url"><span class="tooltiptext" style="font-size:15px"> Media and Morality</span></a>
 </i>
 
-<i class="fa fa-film tooltip" style="font-size:37px;color:deepskyblue;position: relative; top: 110px; left:222px;">
-<span class="tooltiptext" style="font-size:15px" href="url"> Computational Analysis of Movie Scripts</span>
+<i class="fa fa-film tooltip" style="font-size:37px;color:deeppink;position: relative; top: 110px; left:222px;">
+<a href="url"><span class="tooltiptext" style="font-size:15px"> Computational Analysis of Movie Scripts</span></a>
 
 </i>
 
-<i class="fa fa-brain tooltip" style="font-size:37px;color:deepskyblue;position: relative; top: 292px; left:218px;">
-<span class="tooltiptext" style="font-size:15px" href="url"> Network Topology of the Moral Brain</span>
+<i class="fa fa-brain tooltip" style="font-size:37px;color:deeppink;position: relative; top: 292px; left:218px;">
+<a href="url"><span class="tooltiptext" style="font-size:15px"> Network Topology of the Moral Brain</span></a>
 
 </i>
 

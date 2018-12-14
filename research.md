@@ -1,7 +1,7 @@
 <div class="brain">
 
 
-<i class="fa fa-globe-americas" style="font-size:30px;color:deepskyblue;position: relative; top: 320px; left:230px;"></i>
+<i class="fa fa-globe-americas" style="font-size:30px;color:deepskyblue;position: relative; top: 340px; left:210px;"></i>
 
 <i class="fa fa-balance-scale"></i>
 

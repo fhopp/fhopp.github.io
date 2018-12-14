@@ -33,7 +33,7 @@
 <div class="brain">
 
 <i class="fa fa-globe-americas tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 253px; left:133px;">
-<span class="tooltiptext" style="font-size:15px" href="url"> Large-Scale Data Extraction and Analysis</span>
+<a href="url"><span class="tooltiptext" style="font-size:15px"> Large-Scale Data Extraction and Analysis</span></a>
 </i>
 
 <i class="fa fa-balance-scale tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 123px; left:102px;">

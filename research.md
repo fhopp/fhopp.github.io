@@ -40,7 +40,7 @@
 <span class="tooltiptext" style="font-size:15px">Media and Morality</span>
 </i>
 
-<i class="fa fa-film tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 150px; left:210px;">
+<i class="fa fa-film tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 120px; left:220px;">
 <span class="tooltiptext" style="font-size:15px">Computational Analysis of Movie Scripts</span>
 
 </i>

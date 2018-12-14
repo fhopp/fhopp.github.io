@@ -32,11 +32,11 @@
 
 <div class="brain">
 
-<i class="fa fa-globe-americas tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 235px; left:140px;">
+<i class="fa fa-globe-americas tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 245px; left:130px;">
 <span class="tooltiptext" style="font-size:20px">Global Database of Events, Language and Tone</span>
 </i>
 
-<i class="fa fa-balance-scale tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 125px; left:102px;">
+<i class="fa fa-balance-scale tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 123px; left:102px;">
 <span class="tooltiptext" style="font-size:20px">Moral Judgment and Decision Making</span>
 </i>
 

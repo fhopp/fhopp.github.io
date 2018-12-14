@@ -41,11 +41,11 @@
 </i>
 
 <i class="fa fa-film tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 150px; left:200px;">
-<span class="tooltiptext" style="font-size:15px">Movie Script </span>
+<span class="tooltiptext" style="font-size:15px">Computational Analysis of Movie Scripts</span>
 
 </i>
 
-<i class="fa fa-brain tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 285px; left:250px;">
+<i class="fa fa-brain tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 290px; left:220px;">
 <span class="tooltiptext" style="font-size:15px">Network Topology of the Moral Brain</span>
 
 </i>

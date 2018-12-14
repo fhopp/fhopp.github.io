@@ -33,20 +33,20 @@
 <div class="brain">
 
 <i class="fa fa-globe-americas tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 253px; left:133px;">
-<span class="tooltiptext" style="font-size:15px">Large-Scale Data Extraction and Analysis</span>
+<span class="tooltiptext" style="font-size:15px" href="url"> Large-Scale Data Extraction and Analysis</span>
 </i>
 
 <i class="fa fa-balance-scale tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 123px; left:102px;">
-<span class="tooltiptext" style="font-size:15px">Media and Morality</span>
+<span class="tooltiptext" style="font-size:15px" href="url"> Media and Morality</span>
 </i>
 
 <i class="fa fa-film tooltip" style="font-size:37px;color:deepskyblue;position: relative; top: 110px; left:222px;">
-<span class="tooltiptext" style="font-size:15px">Computational Analysis of Movie Scripts</span>
+<span class="tooltiptext" style="font-size:15px" href="url"> Computational Analysis of Movie Scripts</span>
 
 </i>
 
 <i class="fa fa-brain tooltip" style="font-size:37px;color:deepskyblue;position: relative; top: 292px; left:218px;">
-<span class="tooltiptext" style="font-size:15px">Network Topology of the Moral Brain</span>
+<span class="tooltiptext" style="font-size:15px" href="url"> Network Topology of the Moral Brain</span>
 
 </i>
 

@@ -2,7 +2,6 @@
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black;
 }
 
 .tooltip .tooltiptext {
@@ -33,8 +32,8 @@
 
 <div class="brain">
 
-<i class="fa fa-globe-americas tooltip" style="font-size:30px;color:deepskyblue;position: relative; top: 360px; left:210px;">
-<span class="tooltiptext">Tooltip text</span>
+<i class="fa fa-globe-americas tooltip" style="font-size:40px;color:deepskyblue;position: relative; top: 360px; left:210px;">
+<span class="tooltiptext" style="font-size:20px">Global Database of Events, Language and Tone</span>
 </i>
 
 <i class="fa fa-balance-scale"></i>

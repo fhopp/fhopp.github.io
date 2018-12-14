@@ -32,20 +32,23 @@
 
 <div class="brain">
 
-<i class="fa fa-globe-americas tooltip" style="font-size:42px;color:deepskyblue;position: relative; top: 360px; left:205px;">
+<i class="fa fa-globe-americas tooltip" style="font-size:25px;color:deepskyblue;position: relative; top: 360px; left:205px;">
 <span class="tooltiptext" style="font-size:20px">Global Database of Events, Language and Tone</span>
 </i>
 
-<i class="fa fa-balance-scale tooltip" style="font-size:35px;color:deepskyblue;position: relative; top: 200px; left:200px;">
+<i class="fa fa-balance-scale tooltip" style="font-size:25px;color:deepskyblue;position: relative; top: 200px; left:200px;">
 <span class="tooltiptext" style="font-size:20px">Moral Judgment and Decision Making</span>
 </i>
 
-<i class="fa fa-film tooltip" style="font-size:42px;color:deepskyblue;position: relative; top: 150px; left:335px;">
-<span class="tooltiptext" style="font-size:20px">Automated Analysis of Movie Scripts</span>
+<i class="fa fa-film tooltip" style="font-size:25px;color:deepskyblue;position: relative; top: 180px; left:335px;">
+<span class="tooltiptext" style="font-size:20px">Automated Analysis and Cognitive Processing of Movie Scripts</span>
 
 </i>
 
-<i class="fa fa-brain"></i>
+<i class="fa fa-brain tooltip" style="font-size:25px;color:deepskyblue;position: relative; top: 450px; left:450px;">
+<span class="tooltiptext" style="font-size:20px">Moral Brain Network Toplogy</span>
+
+</i>
 
 </div>
 

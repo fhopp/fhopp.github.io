@@ -36,7 +36,9 @@
 <span class="tooltiptext" style="font-size:20px">Global Database of Events, Language and Tone</span>
 </i>
 
-<i class="fa fa-balance-scale"></i>
+<i class="fa fa-balance-scale tooltip" style="font-size:42px;color:deepskyblue;position: relative; top: 200px; left:215px;">
+<span class="tooltiptext" style="font-size:20px">Moral Judgment and Decision Making</span>
+</i>
 
 <i class="fa fa-film"></i>
 

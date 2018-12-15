@@ -1,4 +1,4 @@
-<i class="fa fa-book-open"></i>  <span class="pub_header"> Journal Publications </span>
+<i class="fa fa-book-open" style="font-size:25px></i>  <span class="pub_header"> Journal Publications </span>
 
 **Hopp, F. R**., Schaffer, J., Fisher, J. T., Cornell, D., & Weber, R. (under review). iCoRe: The GDELT Interface for the Advancement of Communication Research.
 
@@ -16,7 +16,7 @@
 
 ---
 
-<i class="fa fa-book"></i>  <span class="pub_header"> Book Chapters </span>
+<i class="fa fa-book" style="font-size:25px> </i>  <span class="pub_header"> Book Chapters </span>
 
 **Hopp, F. R**. & Weber, R. (2019) The state-of-the-art and future of fMRI methodology in communication research. In *Communication Science and Biology*. Routledge.
 
@@ -25,7 +25,7 @@ Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (20
 
 ---
 
-<i class="fa fa-chalkboard-teacher"></i>  <span class="pub_header"> Conference Proceedings </span>
+<i class="fa fa-chalkboard-teacher" style="font-size:25px></i>  <span class="pub_header"> Conference Proceedings </span>
 
 #### 2019
 **Hopp, F.R.**, Lonergan, C., Fisher, J., & Weber, R. (2019). The joy of mediated punishments: Moral transgression in auditory narratives elicit cortical synchronization in listeners. Paper submitted to the annual meeting of the Social and Affective Neuroscience Society (SANS), Miami, USA

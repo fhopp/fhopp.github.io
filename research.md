@@ -39,8 +39,8 @@
 </span>
 
 <span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 123px; left:129px"></i>
-  <i class="fa fa-balance-scale fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 123px; left:129px">
+  <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 123px; left:110px"></i>
+  <i class="fa fa-balance-scale fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 123px; left:110px">
   <a href="url"><span class="tooltiptext" style="font-size:15px"> Media and Morality</span> </a></i>
 </span>
 
@@ -51,8 +51,8 @@
 </span>
 
 <span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-2x" style="position:relative; top: 285px; left:160px;"></i>
-  <i class="fa fa-brain fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute; top: 285px; left:160px;">
+  <i class="fa fa-circle fa-stack-2x" style="position:relative; top: 288px; left:162px;"></i>
+  <i class="fa fa-brain fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute; top: 288px; left:162px;">
   <a href="url"><span class="tooltiptext" style="font-size:15px"> Network Topology of the Moral Brain</span> </a></i>
 </span>
 

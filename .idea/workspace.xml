@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml" />
+    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,15 +29,15 @@
         <counts>
           <entry key="css" value="77" />
           <entry key="html" value="301" />
-          <entry key="md" value="6383" />
+          <entry key="md" value="6425" />
           <entry key="scss" value="217" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="77" />
-          <entry key="HTML" value="364" />
-          <entry key="Markdown" value="6320" />
+          <entry key="HTML" value="365" />
+          <entry key="Markdown" value="6361" />
           <entry key="SCSS" value="217" />
         </counts>
       </usages-collector>
@@ -46,7 +48,7 @@
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="1" />
           <entry key="js" value="1" />
-          <entry key="md" value="3" />
+          <entry key="md" value="4" />
           <entry key="png" value="4" />
           <entry key="svg" value="1" />
         </counts>
@@ -56,7 +58,7 @@
           <entry key="CSS" value="2" />
           <entry key="Image" value="6" />
           <entry key="JavaScript" value="1" />
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SVG" value="1" />
         </counts>
@@ -85,12 +87,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/research.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="413">
-                <caret line="48" column="128" selection-start-line="48" selection-start-column="128" selection-end-line="48" selection-end-column="128" />
+              <first_editor relative-caret-position="459">
+                <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
                 <folding>
                   <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
@@ -101,6 +103,7 @@
                   <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
+                  <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
@@ -114,12 +117,26 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cv.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/publications.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2584">
-                <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+              <first_editor relative-caret-position="102">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
                 <folding>
                   <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
@@ -240,6 +257,7 @@
         <option value="$PROJECT_DIR$/css/academicons.css" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/research.md" />
+        <option value="$PROJECT_DIR$/cv.md" />
       </list>
     </option>
   </component>
@@ -382,20 +400,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528476794139</updated>
-    </task>
-    <task id="LOCAL-00166" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544841706594</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1544841706594</updated>
-    </task>
-    <task id="LOCAL-00167" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544841807775</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1544841807776</updated>
     </task>
     <task id="LOCAL-00168" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544841932135</created>
@@ -726,7 +730,21 @@
       <option name="project" value="LOCAL" />
       <updated>1544849681140</updated>
     </task>
-    <option name="localTasksCounter" value="215" />
+    <task id="LOCAL-00215" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544849887894</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1544849887894</updated>
+    </task>
+    <task id="LOCAL-00216" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544850043440</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1544850043440</updated>
+    </task>
+    <option name="localTasksCounter" value="217" />
     <servers />
   </component>
   <component name="TodoView">
@@ -847,23 +865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/publications.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2584">
-            <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
-            <folding>
-              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -904,6 +905,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -919,24 +933,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#4;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/research.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="413">
-            <caret line="48" column="128" selection-start-line="48" selection-start-column="128" selection-end-line="48" selection-end-column="128" />
+          <first_editor relative-caret-position="459">
+            <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
             <folding>
               <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
@@ -947,11 +948,41 @@
               <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#a#0;n#span#0;n#!!top" expanded="true" />
             </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <folding>
+              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

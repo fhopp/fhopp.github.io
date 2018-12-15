@@ -1,5 +1,7 @@
 <i class="fa fa-book-open" style="font-size:25px"></i>  <span class="pub_header"> Journal Publications </span>
 
+<div style="text-align: justify" markdown="1">
+
 **Hopp, F. R**., Schaffer, J., Fisher, J. T., Cornell, D., & Weber, R. (under review). iCoRe: The GDELT Interface for the Advancement of Communication Research.
 
 [Weber, R., Mangus, J. M., Huskey, R., **Hopp, F. R.**, Amir, O., Swanson, R., ... & Tamborini, R. (2018). Extracting Latent Moral Information from Text Narratives: Relevance, Challenges, and Solutions. _Communication Methods and Measures_, 1-21.](https://fhopp.github.io/publications/weber2018.pdf)
@@ -14,18 +16,26 @@
 
 [Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (2014). Seriously entertained: Antecedents and consequences of hedonic and eudaimonic entertainment experiences with political talk shows on TV. _Mass Communication and Society_, 17(3), 379-399.](https://fhopp.github.io/publications/roth2014.pdf)
 
+</div>
+
 ---
 
 <i class="fa fa-book" style="font-size:25px"> </i>  <span class="pub_header"> Book Chapters </span>
+
+<div style="text-align: justify" markdown="1">
 
 **Hopp, F. R**. & Weber, R. (2019) The state-of-the-art and future of fMRI methodology in communication research. In *Communication Science and Biology*. Routledge.
 
 
 Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (2016). Seriously Entertained: Antecedents and Consequences of Hedonic and Eudaimonic Entertainment Experiences With Political Talk Shows on TV. In _Entertainment Media and Politics_ (pp. 85-105). Routledge.
 
+</div>
+
 ---
 
 <i class="fa fa-chalkboard-teacher" style="font-size:25px"></i>  <span class="pub_header"> Conference Proceedings </span>
+
+<div style="text-align: justify" markdown="1">
 
 #### 2019
 **Hopp, F.R.**, Lonergan, C., Fisher, J., & Weber, R. (2019). The joy of mediated punishments: Moral transgression in auditory narratives elicit cortical synchronization in listeners. Paper submitted to the annual meeting of the Social and Affective Neuroscience Society (SANS), Miami, USA
@@ -85,3 +95,5 @@ Roth, F. S., Weinmann, C., Schneider, F. M., Krämer, T., **Hopp, F.R.**, & Vord
 Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F.R.**, & Vorderer, P. (May, 2014). _Seriously entertained: Antecedents and consequences of hedonic and eudaimonic entertainment experiences with political talk shows_. 64th Annual Conference of the International Communication Association (ICA), Seattle, WA, USA.
 
 Vorderer, P., Roth, F. S., Weinmann, C., & **Hopp, F. R.** (2013, September). _Connecting media psychology and political communication: An exploratory telephone survey about how and why people use political talk shows_. 8th Conference of the Media Psychology Division (German Psychological Society, DGPs), Würzburg.
+
+</div>

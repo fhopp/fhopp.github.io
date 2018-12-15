@@ -1,16 +1,16 @@
 <style>
 
 .my_text {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
+    font-family: Arial,sans-serif;
+    font-size: 18px;
 }
 </style>
 
 <i class="fa fa-graduation-cap"></i>   <span class="my_text"> Ph.D. Student – Communication, The University of California, Santa Barbara </span>
 
-<i class="fa fa-university></i>    <span class="my_text"> Master of Arts (2018) – Communication, The University of California, Santa Barbara </span>
+<i class="fa fa-university"></i>    <span class="my_text"> Master of Arts (2018) – Communication, The University of California, Santa Barbara </span>
 
-<i class="fa fa-university></i>  <span class="my_text"> Bachelor of Arts (2016) – Media and Communication, University of Mannheim </span>
+<i class="fa fa-university"></i>  <span class="my_text"> Bachelor of Arts (2016) – Media and Communication, University of Mannheim </span>
 
 ---
 

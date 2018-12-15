@@ -50,6 +50,11 @@
 
 </i>
 
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-flag"></i>
+</span>
+
 </div>
 
 

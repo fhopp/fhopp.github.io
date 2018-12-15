@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
-    </list>
+    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +27,15 @@
         <counts>
           <entry key="css" value="77" />
           <entry key="html" value="286" />
-          <entry key="md" value="6248" />
+          <entry key="md" value="6259" />
           <entry key="scss" value="217" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="77" />
-          <entry key="HTML" value="343" />
-          <entry key="Markdown" value="6191" />
+          <entry key="HTML" value="345" />
+          <entry key="Markdown" value="6200" />
           <entry key="SCSS" value="217" />
         </counts>
       </usages-collector>
@@ -91,8 +89,8 @@
         <entry file="file://$PROJECT_DIR$/research.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="617">
-                <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+              <first_editor relative-caret-position="710">
+                <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
                 <folding>
                   <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
@@ -101,6 +99,7 @@
                   <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#a#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+                  <element signature="n#style#0;n#span#0;n#a#0;n#span#0;n#!!top" expanded="true" />
                 </folding>
               </first_editor>
               <second_editor>
@@ -378,34 +377,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528476794139</updated>
-    </task>
-    <task id="LOCAL-00144" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544797949709</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1544797949710</updated>
-    </task>
-    <task id="LOCAL-00145" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544797987190</created>
-      <option name="number" value="00145" />
-      <option name="presentableId" value="LOCAL-00145" />
-      <option name="project" value="LOCAL" />
-      <updated>1544797987190</updated>
-    </task>
-    <task id="LOCAL-00146" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544798025554</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1544798025554</updated>
-    </task>
-    <task id="LOCAL-00147" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544798134926</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1544798134926</updated>
     </task>
     <task id="LOCAL-00148" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544798295000</created>
@@ -722,7 +693,35 @@
       <option name="project" value="LOCAL" />
       <updated>1544847511268</updated>
     </task>
-    <option name="localTasksCounter" value="193" />
+    <task id="LOCAL-00193" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544847752478</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1544847752478</updated>
+    </task>
+    <task id="LOCAL-00194" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544847844118</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1544847844118</updated>
+    </task>
+    <task id="LOCAL-00195" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544847954712</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1544847954712</updated>
+    </task>
+    <task id="LOCAL-00196" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544847989398</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1544847989398</updated>
+    </task>
+    <option name="localTasksCounter" value="197" />
     <servers />
   </component>
   <component name="TodoView">
@@ -931,8 +930,8 @@
     <entry file="file://$PROJECT_DIR$/research.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="617">
-            <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+          <first_editor relative-caret-position="710">
+            <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
             <folding>
               <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
@@ -941,6 +940,7 @@
               <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#a#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#span#0;n#a#0;n#span#0;n#!!top" expanded="true" />
             </folding>
           </first_editor>
           <second_editor>

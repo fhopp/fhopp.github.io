@@ -40,7 +40,7 @@
 <a href="url"><span class="tooltiptext" style="font-size:15px"> Media and Morality</span></a>
 </i>
 
-<i class="fa fa-film tooltip" style="font-size:37px;color:deeppink;position:relative;top:110px;left:222px;webkit-border-radius: 10%;moz-border-radius: 10%;ms-border-radius: 10%;o-border-radius: 10%;border-radius: 50%;">
+<i class="fa fa-film tooltip" style="font-size:37px;color:deeppink;position:relative;top:110px;left:222px;border-radius: 50%;background-size:cover;">
 <a href="url"><span class="tooltiptext" style="font-size:15px"> Computational Analysis of Movie Scripts</span></a>
 
 </i>

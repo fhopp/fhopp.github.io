@@ -52,7 +52,7 @@
 
 <span class="fa-stack fa-lg">
   <i class="fa fa-circle fa-stack-2x"></i>
-  <i class="fa fa-flag"></i>
+  <i class="fa fa-flag fa-stack-1x fa-inverse"></i>
 </span>
 
 </div>

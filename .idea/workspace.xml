@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <change beforePath="$PROJECT_DIR$/css/academicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/academicons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,17 +27,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="72" />
+          <entry key="css" value="75" />
           <entry key="html" value="286" />
-          <entry key="md" value="5795" />
+          <entry key="md" value="5797" />
           <entry key="scss" value="190" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="72" />
+          <entry key="CSS" value="75" />
           <entry key="HTML" value="316" />
-          <entry key="Markdown" value="5765" />
+          <entry key="Markdown" value="5767" />
           <entry key="SCSS" value="190" />
         </counts>
       </usages-collector>
@@ -98,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/academicons.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="359" selection-start-line="359" selection-end-line="359" />
+            <state relative-caret-position="243">
+              <caret line="351" selection-start-line="351" selection-end-line="351" />
             </state>
           </provider>
         </entry>
@@ -108,15 +107,15 @@
         <entry file="file://$PROJECT_DIR$/research.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="514">
-                <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+              <first_editor relative-caret-position="429">
+                <caret line="42" column="177" lean-forward="true" selection-start-line="42" selection-start-column="177" selection-end-line="42" selection-end-column="177" />
                 <folding>
                   <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
-                  <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
+                  <element signature="n#style#0;n#span#0;n#a#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
                 </folding>
@@ -372,27 +371,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528476794139</updated>
-    </task>
-    <task id="LOCAL-00111" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544792718856</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1544792718856</updated>
-    </task>
-    <task id="LOCAL-00112" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544792800021</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1544792800021</updated>
-    </task>
-    <task id="LOCAL-00113" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544792978853</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1544792978853</updated>
     </task>
     <task id="LOCAL-00114" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544793074439</created>
@@ -716,7 +694,28 @@
       <option name="project" value="LOCAL" />
       <updated>1544800521835</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544800677512</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1544800677512</updated>
+    </task>
+    <task id="LOCAL-00161" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544800844877</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1544800844877</updated>
+    </task>
+    <task id="LOCAL-00162" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544801041382</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1544801041382</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="TodoView">
@@ -742,7 +741,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914045" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.495116" visible="true" weight="0.15673982" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.495116" visible="true" weight="0.15569489" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.504884" side_tool="true" weight="0.1687631" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -909,23 +908,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/academicons.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="359" selection-start-line="359" selection-end-line="359" />
+        <state relative-caret-position="243">
+          <caret line="351" selection-start-line="351" selection-end-line="351" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/research.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="514">
-            <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+          <first_editor relative-caret-position="429">
+            <caret line="42" column="177" lean-forward="true" selection-start-line="42" selection-start-column="177" selection-end-line="42" selection-end-column="177" />
             <folding>
               <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#span#0;n#a#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
             </folding>

@@ -32,14 +32,17 @@
 
 <div class="brain">
 
-<i class="fa fa-globe-americas tooltip" style="font-size:35px;color:deeppink;position: relative; top: 253px; left:133px;">
-<a href="url"><span class="tooltiptext" style="font-size:15px"> Global Analysis of News and Events</span></a>
-</i>
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 253px; left:133px"></i>
+  <i class="fa fa-globe-americas fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 253px; left:133px">
+  <a href="url"><span class="tooltiptext" style="font-size:15px"> Global Analysis of News and Events</span> </a></i>
+</span>
 
-<i class="fa fa-balance-scale tooltip" style="font-size:35px;color:deeppink;position: relative; top: 123px; left:102px;">
-<a href="url"><span class="tooltiptext" style="font-size:15px"> Media and Morality</span></a>
-</i>
-
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 123px; left:102"></i>
+  <i class="fa fa-balance-scale fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 123px; left:102">
+  <a href="url"><span class="tooltiptext" style="font-size:15px"> Media and Morality</span> </a></i>
+</span>
 
 <span class="fa-stack fa-lg">
   <i class="fa fa-circle fa-stack-2x" style="position:relative;top:110px;left:222px""></i>

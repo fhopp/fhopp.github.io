@@ -45,8 +45,8 @@
 </span>
 
 <span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-2x" style="position:relative;top:100px;left:190px"></i>
-  <i class="fa fa-film fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top:100px;left:190px">
+  <i class="fa fa-circle fa-stack-2x" style="position:relative;top:105px;left:187px"></i>
+  <i class="fa fa-film fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top:105px;left:187px">
   <a href="url"><span class="tooltiptext" style="font-size:15px"> Computational Analysis of Narratives</span> </a></i>
 </span>
 

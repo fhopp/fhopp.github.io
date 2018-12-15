@@ -32,7 +32,7 @@
 
 <div class="brain">
 
-<i class="fa fa-globe-americas tooltip" style="font-size:35px;color:deeppink;position: relative; top: 253px; left:133px;">
+<i class="fa fa-globe-americas tooltip icon-background" style="font-size:35px;color:deeppink;position: relative; top: 253px; left:133px;">
 <a href="url"><span class="tooltiptext" style="font-size:15px"> Global Analysis of News and Events</span></a>
 </i>
 

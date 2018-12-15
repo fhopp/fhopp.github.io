@@ -40,15 +40,11 @@
 <a href="url"><span class="tooltiptext" style="font-size:15px"> Media and Morality</span></a>
 </i>
 
-<i class="fa fa-film tooltip" style="font-size:37px;color:deeppink;position:relative;top:110px;left:222px">
-<a href="url"><span class="tooltiptext" style="font-size:15px"> Computational Analysis of Movie Scripts</span></a>
-
-</i>
 
 <span class="fa-stack fa-lg">
   <i class="fa fa-circle fa-stack-2x" style="position:relative;top:110px;left:222px""></i>
   <i class="fa fa-film fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top:110px;left:222px">
-  <a href="url"><span class="tooltiptext" style="font-size:15px"> Network Topology of the Moral Brain</span> </a></i>
+  <a href="url"><span class="tooltiptext" style="font-size:15px"> Computational Analysis of Narratives</span> </a></i>
 </span>
 
 <span class="fa-stack fa-lg">

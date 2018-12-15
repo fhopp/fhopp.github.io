@@ -58,7 +58,7 @@
 
 <span class="fa-stack fa-lg">
   <i class="fa fa-circle fa-stack-2x"></i>
-  <i class="fa fa-brain fa-stack-1x fa-inverse" style="font-size:37px;color:deeppink;"></i>
+  <i class="fa fa-brain fa-stack-1x fa-inverse" style="font-size:25px;color:deeppink;"></i>
 </span>
 
 </div>

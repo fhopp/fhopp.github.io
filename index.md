@@ -1,8 +1,8 @@
-<i class="fa fa-graduation-cap inner">    Ph.D. Student – Communication, The University of California, Santa Barbara </i>
+<i class="fa fa-graduation-cap ai">    Ph.D. Student – Communication, The University of California, Santa Barbara </i>
 
-<i class="fa fa-university inner">    Master of Arts (2018) – Communication, The University of California, Santa Barbara </i>
+<i class="fa fa-university ai">    Master of Arts (2018) – Communication, The University of California, Santa Barbara </i>
 
-<i class="fa fa-university inner">    Bachelor of Arts (2016) – Media and Communication, University of Mannheim </i>
+<i class="fa fa-university ai">    Bachelor of Arts (2016) – Media and Communication, University of Mannheim </i>
 
 ---
 

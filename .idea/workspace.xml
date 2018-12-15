@@ -27,7 +27,7 @@
         <counts>
           <entry key="css" value="77" />
           <entry key="html" value="301" />
-          <entry key="md" value="6361" />
+          <entry key="md" value="6383" />
           <entry key="scss" value="217" />
         </counts>
       </usages-collector>
@@ -35,7 +35,7 @@
         <counts>
           <entry key="CSS" value="77" />
           <entry key="HTML" value="364" />
-          <entry key="Markdown" value="6298" />
+          <entry key="Markdown" value="6320" />
           <entry key="SCSS" value="217" />
         </counts>
       </usages-collector>
@@ -89,8 +89,8 @@
         <entry file="file://$PROJECT_DIR$/research.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="552">
-                <caret line="53" column="84" selection-start-line="53" selection-start-column="84" selection-end-line="53" selection-end-column="84" />
+              <first_editor relative-caret-position="413">
+                <caret line="48" column="128" selection-start-line="48" selection-start-column="128" selection-end-line="48" selection-end-column="128" />
                 <folding>
                   <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
@@ -101,8 +101,8 @@
                   <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
-                  <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+                  <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#a#0;n#span#0;n#!!top" expanded="true" />
                 </folding>
@@ -382,27 +382,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528476794139</updated>
-    </task>
-    <task id="LOCAL-00163" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544840861712</created>
-      <option name="number" value="00163" />
-      <option name="presentableId" value="LOCAL-00163" />
-      <option name="project" value="LOCAL" />
-      <updated>1544840861712</updated>
-    </task>
-    <task id="LOCAL-00164" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544840988536</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1544840988536</updated>
-    </task>
-    <task id="LOCAL-00165" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544841403028</created>
-      <option name="number" value="00165" />
-      <option name="presentableId" value="LOCAL-00165" />
-      <option name="project" value="LOCAL" />
-      <updated>1544841403028</updated>
     </task>
     <task id="LOCAL-00166" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544841706594</created>
@@ -726,7 +705,28 @@
       <option name="project" value="LOCAL" />
       <updated>1544849475133</updated>
     </task>
-    <option name="localTasksCounter" value="212" />
+    <task id="LOCAL-00212" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544849536210</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1544849536210</updated>
+    </task>
+    <task id="LOCAL-00213" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544849646560</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1544849646560</updated>
+    </task>
+    <task id="LOCAL-00214" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544849681140</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1544849681140</updated>
+    </task>
+    <option name="localTasksCounter" value="215" />
     <servers />
   </component>
   <component name="TodoView">
@@ -935,8 +935,8 @@
     <entry file="file://$PROJECT_DIR$/research.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="552">
-            <caret line="53" column="84" selection-start-line="53" selection-start-column="84" selection-end-line="53" selection-end-column="84" />
+          <first_editor relative-caret-position="413">
+            <caret line="48" column="128" selection-start-line="48" selection-start-column="128" selection-end-line="48" selection-end-column="128" />
             <folding>
               <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
@@ -947,8 +947,8 @@
               <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#a#0;n#span#0;n#!!top" expanded="true" />
             </folding>

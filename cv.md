@@ -1,1 +1,1 @@
-[Download my CV](https://fhopp.github.io/cv_hopp.pdf)
+<i class="fa fa-book-open" style="text-align: center;font-size:25px"></i>  <span class="pub_header"> Download my CV </span>

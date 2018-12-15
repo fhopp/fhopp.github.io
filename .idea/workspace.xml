@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,8 +91,8 @@
         <entry file="file://$PROJECT_DIR$/research.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="515">
-                <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+              <first_editor relative-caret-position="617">
+                <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
                 <folding>
                   <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
@@ -379,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528476794139</updated>
-    </task>
-    <task id="LOCAL-00143" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544797832052</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1544797832052</updated>
     </task>
     <task id="LOCAL-00144" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544797949709</created>
@@ -723,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544847212320</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <task id="LOCAL-00192" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544847511268</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1544847511268</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="TodoView">
@@ -932,8 +931,8 @@
     <entry file="file://$PROJECT_DIR$/research.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="515">
-            <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <first_editor relative-caret-position="617">
+            <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
             <folding>
               <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />

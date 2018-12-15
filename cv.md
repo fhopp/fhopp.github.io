@@ -1,1 +1,3 @@
-<i class="fa fa-clipboard" style="text-align: center;font-size:25px"></i><span class="pub_header"> Download my CV </span>
+<i class="fa fa-clipboard" style="text-align: center;font-size:25px"></i>
+<a href="https://fhopp.github.io/cv_hopp.pdf"><span class="pub_header"> CV </span></a>
+

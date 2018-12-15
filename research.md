@@ -57,7 +57,7 @@
 -->
 
 <span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-circle fa-stack-2x" style="position:relative; top: 292px; left:218px;"></i>
   <i class="fa fa-brain fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:relative; top: 292px; left:218px;">
   <a href="url"><span class="tooltiptext" style="font-size:15px"> Network Topology of the Moral Brain</span> </a></i>
 </span>

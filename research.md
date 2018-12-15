@@ -33,14 +33,14 @@
 <div class="brain">
 
 <span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 253px; left:131px"></i>
-  <i class="fa fa-globe-americas fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 253px; left:131px">
+  <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 253px; left:128px"></i>
+  <i class="fa fa-globe-americas fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 253px; left:128px">
   <a href="url"><span class="tooltiptext" style="font-size:15px"> Global Analysis of News and Events</span> </a></i>
 </span>
 
 <span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 123px; left:102"></i>
-  <i class="fa fa-balance-scale fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 123px; left:102">
+  <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 123px; left:180"></i>
+  <i class="fa fa-balance-scale fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 123px; left:180">
   <a href="url"><span class="tooltiptext" style="font-size:15px"> Media and Morality</span> </a></i>
 </span>
 

@@ -30,15 +30,15 @@
         <counts>
           <entry key="css" value="77" />
           <entry key="html" value="286" />
-          <entry key="md" value="6228" />
+          <entry key="md" value="6248" />
           <entry key="scss" value="217" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="77" />
-          <entry key="HTML" value="340" />
-          <entry key="Markdown" value="6174" />
+          <entry key="HTML" value="343" />
+          <entry key="Markdown" value="6191" />
           <entry key="SCSS" value="217" />
         </counts>
       </usages-collector>
@@ -92,15 +92,13 @@
         <entry file="file://$PROJECT_DIR$/research.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="608">
-                <caret line="61" column="7" lean-forward="true" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+              <first_editor relative-caret-position="515">
+                <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
                 <folding>
                   <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
-                  <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
-                  <element signature="n#style#0;n#span#0;n#a#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#span#0;n#a#0;n#i#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
@@ -381,27 +379,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528476794139</updated>
-    </task>
-    <task id="LOCAL-00140" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544796706154</created>
-      <option name="number" value="00140" />
-      <option name="presentableId" value="LOCAL-00140" />
-      <option name="project" value="LOCAL" />
-      <updated>1544796706154</updated>
-    </task>
-    <task id="LOCAL-00141" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544796760875</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1544796760875</updated>
-    </task>
-    <task id="LOCAL-00142" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544797589652</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1544797589652</updated>
     </task>
     <task id="LOCAL-00143" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544797832052</created>
@@ -725,7 +702,28 @@
       <option name="project" value="LOCAL" />
       <updated>1544846153929</updated>
     </task>
-    <option name="localTasksCounter" value="189" />
+    <task id="LOCAL-00189" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544846399688</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1544846399688</updated>
+    </task>
+    <task id="LOCAL-00190" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544846468360</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1544846468360</updated>
+    </task>
+    <task id="LOCAL-00191" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1544847212320</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1544847212320</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="TodoView">
@@ -934,15 +932,13 @@
     <entry file="file://$PROJECT_DIR$/research.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="608">
-            <caret line="61" column="7" lean-forward="true" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+          <first_editor relative-caret-position="515">
+            <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
             <folding>
               <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#i#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#span#0;n#a#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#span#0;n#a#0;n#i#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />

@@ -35,25 +35,25 @@
 <span class="fa-stack fa-lg">
   <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 253px; left:128px"></i>
   <i class="fa fa-globe-americas fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 253px; left:128px">
-  <a href="url"><span class="tooltiptext my_text" style="font-size:15px"> Global Analysis of News and Events</span> </a></i>
+  <a href="https://fhopp.github.io/gdelt.md"><span class="tooltiptext my_text" style="font-size:15px"> Global Analysis of News and Events</span> </a></i>
 </span>
 
 <span class="fa-stack fa-lg">
   <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 120px; left:80px"></i>
   <i class="fa fa-balance-scale fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 120px; left:80px">
-  <a href="url"><span class="tooltiptext my_text" style="font-size:15px"> Media and Morality</span> </a></i>
+  <a href="https://fhopp.github.io/media_morality.md"><span class="tooltiptext my_text" style="font-size:15px"> Media and Morality</span> </a></i>
 </span>
 
 <span class="fa-stack fa-lg">
   <i class="fa fa-circle fa-stack-2x" style="position:relative;top:105px;left:185px"></i>
   <i class="fa fa-film fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top:105px;left:185px">
-  <a href="url"><span class="tooltiptext my_text" style="font-size:15px"> Computational Analysis of Narratives</span> </a></i>
+  <a href="https://fhopp.github.io/narratives.md"><span class="tooltiptext my_text" style="font-size:15px"> Computational Analysis of Narratives</span> </a></i>
 </span>
 
 <span class="fa-stack fa-lg">
   <i class="fa fa-circle fa-stack-2x" style="position:relative; top: 288px; left:163px;"></i>
   <i class="fa fa-brain fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute; top: 288px; left:163px;">
-  <a href="url"><span class="tooltiptext my_text" style="font-size:15px"> Network Topology of the Moral Brain</span> </a></i>
+  <a href="https://fhopp.github.io/neuro.md"><span class="tooltiptext my_text" style="font-size:15px"> Network Topology of the Moral Brain</span> </a></i>
 </span>
 
 </div>

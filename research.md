@@ -6,11 +6,12 @@
 
 .tooltip .tooltiptext {
   visibility: hidden;
+  line-height: 1.5;
   background-color: black;
   color: #fff;
   text-align: center;
   border-radius: 6px;
-  padding: 5px 0;
+  padding: 1px 1px 1px 1px;
   position: absolute;
   z-index: 1;
   bottom: 100%;

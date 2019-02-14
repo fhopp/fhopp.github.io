@@ -38,6 +38,8 @@ Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (20
 <div style="text-align: justify" markdown="1">
 
 #### 2019
+**Hopp, F.R.**, Fisher, J. T., & Weber, R. (2019, February). The Moral Narrative Analyzer (MoNA): An integrated, spatio-temporal platform for monitoring, predicting, and countering global sociopolitical instability. Paper presented at the Workshop on Naval Applications of Machine Learning (NAML), San Diego, CA.
+
 **Hopp, F.R.**, Lonergan, C., Fisher, J., & Weber, R. (2019). The joy of mediated punishments: Moral transgression in auditory narratives elicit cortical synchronization in listeners. Paper submitted to the annual meeting of the Social and Affective Neuroscience Society (SANS), Miami, USA
 
 Fisher, J., **Hopp, F.R.**, Lonergan, C., & Weber, R. (2019). Brain network topology and dynamics in ADHD individuals during video game play Paper submitted to the annual meeting of the Social and Affective Neuroscience Society (SANS), Miami, USA

@@ -52,7 +52,7 @@ Fisher, J.T., Lonergan, C., **Hopp, F.R.**, Grall, C., Pandey, P., Scholz, C., N
 
 **Hopp, F.R.**, Fisher, J., Prabhu, S., Cornell, D., Tamborini, R., & Weber, R. (2019). Revisiting the moral foundations-affect misattribution procedure (MF-AMP): An extended, open-source tool for measuring the accessibility of moral intuitions. Paper submitted to the annual meeting of the International Communication Association (ICA), Washington DC, USA.
 
-**Hopp, F.R.**, Fisher, J., & Weber, R. (2019). The dynamic relationship between news frames and real-world events: A hidden markov model approach. Paper submitted to the annual meeting of the International Communication Association (ICA), Washington DC, USA.
+**Hopp, F.R.**, Fisher, J., & Weber, R. (2019). The dynamic relationship between news frames and real-world events: A hidden markov model approach. Paper submitted to the annual meeting of the International Communication Association (ICA), Washington DC, USA. **Top 3 Paper Award. Computational Methods Divison**.
 
 ---
 

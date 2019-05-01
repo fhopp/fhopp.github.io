@@ -17,7 +17,7 @@ In order to examine these questions, I harness the Global Database of Events, La
 Figure 2.
 *iCoRe: The GDELT Interface for Communication Research*
 
- <img src="symbols/icore.png" alt="Figure1" style="width: 630px; height:250px">
+ <img src="symbols/icore.png" alt="Figure1" style="width: 630px; height:200px">
 
 Furthermore, to model the dynamic relationships between news frames and event densities, I rely on Hidden Markov Models (HMM). HMMs are a form of stochastic sequence models (comparable to finite-state machines) that allow to classify noisy sequences of observations into discrete states. By learning the stochastic dependency among these observations, HMMs can be harnessed to (a) better understand the co-occurence of news frames and event types and (b) allow to sample observations for news-event forecasting.
 

@@ -10,7 +10,7 @@ In turn, my research in this area combines both news framing and computational m
 Figure 1.
 *Time Series of Immigration Protest Events and News Articles Discussing Immigration in the United States*
 
- <img src="symbols/ts1_gdelt.png" alt="Figure1" style="width: 630px; height:250px">
+ <img src="symbols/ts1_gdelt.png" alt="Figure1" style="width: 630px; height:200px">
 
 In order to examine these questions, I harness the Global Database of Events, Language, and Tone [GDELT](https://www.gdeltproject.org/), a massive, constantly updated database of automatically content-analyzed news stories. For an accessible introduction to GDELT, please see our recent [publication]().
 

@@ -1,3 +1,6 @@
+<div style="text-align: justify" markdown="1">
+
+
 ## Global Analysis of News and Events
 
 The main goal of this line of research is to examine the dynamic relationship between real-world events (e.g., protest movements, terror attacks, elections, etc.) and the news frames that accompany these events. Traditionally, communication research has invested great efforts in understanding how certain types of events are framed and how these frames are processed by audiences. Likewise, data-driven approaches towards event forecasting have aimed to construct stochastic models that predict event likelihoods based on preceding event sequences.
@@ -7,9 +10,22 @@ In turn, my research in this area combines both news framing and computational m
 Figure 1.
 *Time Series of Immigration Protest Events and News Articles Discussing Immigration in the United States*
 
- <img src="symbols/ts1_gdelt.png" alt="Figure1" style="width: 650px; height:250px">
+ <img src="symbols/ts1_gdelt.png" alt="Figure1" style="width: 630px; height:250px">
 
-In order to examine these questions, I harness the Global Database of Events, Language, and Tone (GDELT)[https://www.gdeltproject.org/], a massive, constantly updated database of automatically content-analyzed news stories. For an accessible introduction to GDELT, please see our recent [publication](). Furthermore, to model the dynamic relationships between news frames and event densities, I rely on Hidden Markov Models (HMM). HMMs are a form of stochastic sequence models (comparable to finite-state machines) that allow to classify noisy sequences of observations into discrete states. By learning the stochastic dependency among these observations, HMMs can be harnessed to (a) better understand the co-occurence of news frames and event types and (b) allow to sample observations for news-event forecasting.
+In order to examine these questions, I harness the Global Database of Events, Language, and Tone [GDELT](https://www.gdeltproject.org/), a massive, constantly updated database of automatically content-analyzed news stories. For an accessible introduction to GDELT, please see our recent [publication]().
+
+Figure 2.
+*iCoRe: The GDELT Interface for Communication Research*
+
+ <img src="symbols/icore.png" alt="Figure1" style="width: 630px; height:250px">
+
+Furthermore, to model the dynamic relationships between news frames and event densities, I rely on Hidden Markov Models (HMM). HMMs are a form of stochastic sequence models (comparable to finite-state machines) that allow to classify noisy sequences of observations into discrete states. By learning the stochastic dependency among these observations, HMMs can be harnessed to (a) better understand the co-occurence of news frames and event types and (b) allow to sample observations for news-event forecasting.
+
+Figure 3.
+*Heatmap of Global Terror Events*
+
+<img src="symbols/map.png" alt="Figure1" style="width: 630px; height:250px">
+
 
 ### Associated Publications
 

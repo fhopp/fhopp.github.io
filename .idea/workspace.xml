@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <change afterPath="$PROJECT_DIR$/symbols/icore.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gdelt.md" beforeDir="false" afterPath="$PROJECT_DIR$/gdelt.md" afterDir="false" />
     </list>
@@ -21,20 +22,21 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="77" />
           <entry key="html" value="301" />
-          <entry key="md" value="10311" />
+          <entry key="md" value="10423" />
           <entry key="scss" value="217" />
         </counts>
       </usages-collector>
@@ -42,7 +44,7 @@
         <counts>
           <entry key="CSS" value="77" />
           <entry key="HTML" value="369" />
-          <entry key="Markdown" value="10243" />
+          <entry key="Markdown" value="10355" />
           <entry key="SCSS" value="217" />
         </counts>
       </usages-collector>
@@ -79,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/research.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="259">
+              <first_editor relative-caret-position="544">
                 <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="19" />
                 <folding>
                   <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
@@ -107,9 +109,11 @@
         <entry file="file://$PROJECT_DIR$/gdelt.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="4" column="239" selection-start-line="4" selection-start-column="239" selection-end-line="4" selection-end-column="239" />
+              <first_editor relative-caret-position="653">
+                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
                 <folding>
+                  <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                  <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
                 </folding>
               </first_editor>
@@ -138,12 +142,8 @@
         <entry file="file://$PROJECT_DIR$/publications.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="118">
-                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="299" />
-                <folding>
-                  <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                  <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="51">
+                <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-end-line="3" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -156,7 +156,7 @@
         <entry file="file://$PROJECT_DIR$/tools.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
+              <first_editor relative-caret-position="51">
                 <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
               </first_editor>
               <second_editor>
@@ -198,7 +198,7 @@
         <entry file="file://$PROJECT_DIR$/projects.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="230">
+              <first_editor relative-caret-position="731">
                 <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="33" />
                 <folding>
                   <marker date="1544560860276" expanded="true" signature="6:618" ph="..." />
@@ -225,7 +225,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1462">
+            <state relative-caret-position="1445">
               <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#li#0;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
@@ -297,6 +297,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="fhopp.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="fhopp.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="symbols" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -319,22 +335,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="fhopp.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="fhopp.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="symbols" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -346,123 +346,13 @@
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/symbols" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/symbols" />
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/publications.md</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/symbols" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -517,41 +407,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528476794139</updated>
-    </task>
-    <task id="LOCAL-00183" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544844760288</created>
-      <option name="number" value="00183" />
-      <option name="presentableId" value="LOCAL-00183" />
-      <option name="project" value="LOCAL" />
-      <updated>1544844760288</updated>
-    </task>
-    <task id="LOCAL-00184" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544844877368</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1544844877368</updated>
-    </task>
-    <task id="LOCAL-00185" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544844951146</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1544844951146</updated>
-    </task>
-    <task id="LOCAL-00186" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544845808449</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1544845808449</updated>
-    </task>
-    <task id="LOCAL-00187" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544845989277</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1544845989277</updated>
     </task>
     <task id="LOCAL-00188" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544846153929</created>
@@ -861,7 +716,42 @@
       <option name="project" value="LOCAL" />
       <updated>1556736246410</updated>
     </task>
-    <option name="localTasksCounter" value="232" />
+    <task id="LOCAL-00232" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1556736483851</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1556736483851</updated>
+    </task>
+    <task id="LOCAL-00233" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1556736536367</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1556736536367</updated>
+    </task>
+    <task id="LOCAL-00234" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1556736642188</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1556736642188</updated>
+    </task>
+    <task id="LOCAL-00235" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1556736677703</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1556736677703</updated>
+    </task>
+    <task id="LOCAL-00236" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1556736737780</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1556736737780</updated>
+    </task>
+    <option name="localTasksCounter" value="237" />
     <servers />
   </component>
   <component name="TodoView">
@@ -874,9 +764,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="23" width="1643" height="1027" extended-state="6" />
+    <frame x="37" y="23" width="1643" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495564" visible="true" weight="0.1942536" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.495564" visible="true" weight="0.19675203" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.504436" side_tool="true" weight="0.11660562" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -886,7 +777,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914045" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49449793" visible="true" weight="0.16228071" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49449793" visible="true" weight="0.16228071" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50550205" side_tool="true" weight="0.15464994" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -1006,34 +897,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/academicons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6358">
-          <caret line="374" column="7" selection-start-line="374" selection-start-column="7" selection-end-line="374" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#4;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ucsb.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/media_morality.md">
+    <entry file="file://$PROJECT_DIR$/research.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <first_editor relative-caret-position="544">
+            <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="19" />
+            <folding>
+              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1044,7 +929,7 @@
     <entry file="file://$PROJECT_DIR$/tools.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
+          <first_editor relative-caret-position="51">
             <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
           </first_editor>
           <second_editor>
@@ -1077,36 +962,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/research.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="259">
-            <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="19" />
-            <folding>
-              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
+          <first_editor relative-caret-position="731">
             <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="33" />
             <folding>
               <marker date="1544560860276" expanded="true" signature="6:618" ph="..." />
@@ -1129,15 +988,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#footer#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/academicons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6358">
+          <caret line="374" column="7" selection-start-line="374" selection-start-column="7" selection-end-line="374" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/publications.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="118">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="299" />
-            <folding>
-              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="51">
+            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media_morality.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1148,9 +1035,11 @@
     <entry file="file://$PROJECT_DIR$/gdelt.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="4" column="239" selection-start-line="4" selection-start-column="239" selection-end-line="4" selection-end-column="239" />
+          <first_editor relative-caret-position="653">
+            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             <folding>
+              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
               <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
             </folding>
           </first_editor>

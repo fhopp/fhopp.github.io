@@ -7,7 +7,7 @@ In turn, my research in this area combines both news framing and computational m
 Figure 1.
 *Time Series of Immigration Protest Events and News Articles Discussing Immigration in the United States*
 
- <img src="symbols/ts1_gdelt.png" alt="Figure1" style="width: 600px; height:300px">
+ <img src="symbols/ts1_gdelt.png" alt="Figure1" style="width: 650px; height:250px">
 
 In order to examine these questions, I harness the Global Database of Events, Language, and Tone (GDELT)[https://www.gdeltproject.org/], a massive, constantly updated database of automatically content-analyzed news stories. For an accessible introduction to GDELT, please see our recent [publication](). Furthermore, to model the dynamic relationships between news frames and event densities, I rely on Hidden Markov Models (HMM). HMMs are a form of stochastic sequence models (comparable to finite-state machines) that allow to classify noisy sequences of observations into discrete states. By learning the stochastic dependency among these observations, HMMs can be harnessed to (a) better understand the co-occurence of news frames and event types and (b) allow to sample observations for news-event forecasting.
 

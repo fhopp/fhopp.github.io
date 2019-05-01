@@ -1,4 +1,4 @@
-# Media and Morality
+## Media and Morality
 
 ### Associated Publications
 

@@ -1,4 +1,4 @@
-# Media Neuroscience
+## Media Neuroscience
 
 ### Associated Publications
 

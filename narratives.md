@@ -1,4 +1,4 @@
-# Computational Analysis of Narratives
+## Computational Analysis of Narratives
 
 ### Associated Publications
 

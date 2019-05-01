@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_hopp.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdelt.md" beforeDir="false" afterPath="$PROJECT_DIR$/gdelt.md" afterDir="false" />
     </list>
     <ignored path=".idea/fhopp.github.io.iml" />
     <ignored path=".idea/misc.xml" />
@@ -20,7 +20,7 @@
     <session id="-795907382">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -34,15 +34,15 @@
         <counts>
           <entry key="css" value="77" />
           <entry key="html" value="301" />
-          <entry key="md" value="8276" />
+          <entry key="md" value="10311" />
           <entry key="scss" value="217" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="77" />
-          <entry key="HTML" value="367" />
-          <entry key="Markdown" value="8210" />
+          <entry key="HTML" value="369" />
+          <entry key="Markdown" value="10243" />
           <entry key="SCSS" value="217" />
         </counts>
       </usages-collector>
@@ -79,8 +79,8 @@
         <entry file="file://$PROJECT_DIR$/research.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1037">
-                <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
+              <first_editor relative-caret-position="259">
+                <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="19" />
                 <folding>
                   <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
                   <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
@@ -103,12 +103,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gdelt.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="14" column="342" selection-start-line="14" selection-start-column="342" selection-end-line="14" selection-end-column="342" />
+              <first_editor relative-caret-position="306">
+                <caret line="4" column="239" selection-start-line="4" selection-start-column="239" selection-end-line="4" selection-end-column="239" />
+                <folding>
+                  <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -117,12 +120,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/media_morality.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="408">
-                <caret line="12" column="281" lean-forward="true" selection-start-line="12" selection-start-column="281" selection-end-line="12" selection-end-column="281" />
+              <first_editor>
+                <caret column="2" selection-start-column="2" selection-end-column="2" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -153,7 +156,7 @@
         <entry file="file://$PROJECT_DIR$/tools.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="96">
+              <first_editor relative-caret-position="119">
                 <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
               </first_editor>
               <second_editor>
@@ -167,8 +170,8 @@
         <entry file="file://$PROJECT_DIR$/narratives.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="6" column="303" selection-start-line="6" selection-start-column="303" selection-end-line="6" selection-end-column="303" />
+              <first_editor>
+                <caret column="2" selection-start-column="2" selection-end-column="2" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -181,8 +184,8 @@
         <entry file="file://$PROJECT_DIR$/neuro.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="204">
-                <caret line="8" column="269" selection-start-line="8" selection-start-column="269" selection-end-line="8" selection-end-column="269" />
+              <first_editor>
+                <caret column="2" selection-start-column="2" selection-end-column="2" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -195,7 +198,7 @@
         <entry file="file://$PROJECT_DIR$/projects.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="703">
+              <first_editor relative-caret-position="230">
                 <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="33" />
                 <folding>
                   <marker date="1544560860276" expanded="true" signature="6:618" ph="..." />
@@ -266,11 +269,11 @@
         <option value="$PROJECT_DIR$/cv.md" />
         <option value="$PROJECT_DIR$/tools.md" />
         <option value="$PROJECT_DIR$/publications.md" />
-        <option value="$PROJECT_DIR$/gdelt.md" />
-        <option value="$PROJECT_DIR$/neuro.md" />
         <option value="$PROJECT_DIR$/research.md" />
-        <option value="$PROJECT_DIR$/narratives.md" />
         <option value="$PROJECT_DIR$/media_morality.md" />
+        <option value="$PROJECT_DIR$/narratives.md" />
+        <option value="$PROJECT_DIR$/neuro.md" />
+        <option value="$PROJECT_DIR$/gdelt.md" />
       </list>
     </option>
   </component>
@@ -322,6 +325,11 @@
             <path>
               <item name="fhopp.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="fhopp.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="symbols" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -509,20 +517,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528476794139</updated>
-    </task>
-    <task id="LOCAL-00181" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544844331838</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1544844331838</updated>
-    </task>
-    <task id="LOCAL-00182" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544844680873</created>
-      <option name="number" value="00182" />
-      <option name="presentableId" value="LOCAL-00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1544844680873</updated>
     </task>
     <task id="LOCAL-00183" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544844760288</created>
@@ -853,7 +847,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556734389943</updated>
     </task>
-    <option name="localTasksCounter" value="230" />
+    <task id="LOCAL-00230" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1556734645817</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1556734645817</updated>
+    </task>
+    <task id="LOCAL-00231" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
+      <created>1556736246410</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1556736246410</updated>
+    </task>
+    <option name="localTasksCounter" value="232" />
     <servers />
   </component>
   <component name="TodoView">
@@ -866,10 +874,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="23" width="1643" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="40" y="23" width="1643" height="1027" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495564" visible="true" weight="0.11492817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495564" visible="true" weight="0.1942536" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.504436" side_tool="true" weight="0.11660562" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1019,10 +1026,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ucsb.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media_morality.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/narratives.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neuro.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/research.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="259">
+            <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="19" />
+            <folding>
+              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projects.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="703">
+          <first_editor relative-caret-position="230">
             <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="33" />
             <folding>
               <marker date="1544560860276" expanded="true" signature="6:618" ph="..." />
@@ -1038,83 +1122,6 @@
               <marker date="1544560860276" expanded="true" signature="7126:7171" ph="{...}" />
               <marker date="1544560860276" expanded="true" signature="7177:7245" ph="{...}" />
             </folding>
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ucsb.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gdelt.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="425">
-            <caret line="14" column="342" selection-start-line="14" selection-start-column="342" selection-end-line="14" selection-end-column="342" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1037">
-            <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
-            <folding>
-              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#0;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#span#0;n#a#0;n#i#1;n#span#0;n#!!top" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neuro.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="8" column="269" selection-start-line="8" selection-start-column="269" selection-end-line="8" selection-end-column="269" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="96">
-            <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/narratives.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="6" column="303" selection-start-line="6" selection-start-column="303" selection-end-line="6" selection-end-column="303" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1138,11 +1145,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/media_morality.md">
+    <entry file="file://$PROJECT_DIR$/gdelt.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="408">
-            <caret line="12" column="281" lean-forward="true" selection-start-line="12" selection-start-column="281" selection-end-line="12" selection-end-column="281" />
+          <first_editor relative-caret-position="306">
+            <caret line="4" column="239" selection-start-line="4" selection-start-column="239" selection-end-line="4" selection-end-column="239" />
+            <folding>
+              <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

@@ -1,10 +1,10 @@
 ## Global Analysis of News and Events
 
-The main goal of this line of research is to examine the dynamic relationship between real-world events (e.g., protest movements, terror attacks, elections, etc.) and the news frames that accompany these events. Traditionally, communication research has invested great efforts in understand how certain types of events are framed and how these frames are processed by audiences. Likewise, data-driven approaches towards event forecasting have aimed to construct stochastic models that predict event likelihoods based on preceding event sequences.
+The main goal of this line of research is to examine the dynamic relationship between real-world events (e.g., protest movements, terror attacks, elections, etc.) and the news frames that accompany these events. Traditionally, communication research has invested great efforts in understanding how certain types of events are framed and how these frames are processed by audiences. Likewise, data-driven approaches towards event forecasting have aimed to construct stochastic models that predict event likelihoods based on preceding event sequences.
 
 In turn, my research in this area combines both news framing and computational modeling to disentangle the relationship between news frames and events. For example, which news frames are more likely to drive subsequent news frame sequences? Which news frames are more likely to increase the probability of observing certain event types in the future and vice versa, which events precede certain densities of news frames?
 
- <img src="symbols/ts1_gdelt.png" alt="Girl in a jacket" style="width: 100px; height:100px">
+ <img src="symbols/ts1_gdelt.png" alt="Figure1" style="width: 100px; height:100px">
 
 In order to examine these questions, I harness the Global Database of Events, Language, and Tone (GDELT)[https://www.gdeltproject.org/], a massive, constantly updated database of automatically content-analyzed news stories. For an accessible introduction to GDELT, please see our recent [publication](). Furthermore, to model the dynamic relationships between news frames and event densities, I rely on Hidden Markov Models (HMM). HMMs are a form of stochastic sequence models (comparable to finite-state machines) that allow to classify noisy sequences of observations into discrete states. By learning the stochastic dependency among these observations, HMMs can be harnessed to (a) better understand the co-occurence of news frames and event types and (b) allow to sample observations for news-event forecasting.
 

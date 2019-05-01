@@ -2,7 +2,7 @@
 
 ### Associated Publications
 
-**Hopp, F. R.**, Fisher, J. T., Mangus, J. M., Huskey, R., Swanson, R., Gordon, A., Khooshabeh, P., Weber, R. (2018). _Mining the Global Database of Events, Language, and Tone: An Introduction for Communication Researchers_. Paper submitted to the annual meeting of the International Communication Association (ICA), Prague, CZ.
+[Weber, R., Mangus, J. M., Huskey, R., **Hopp, F. R.**, Amir, O., Swanson, R., ... & Tamborini, R. (2018). Extracting latent moral information from text narratives: Relevance, challenges, and solutions. _Communication Methods and Measures_, 1-21.](https://fhopp.github.io/publications/weber2018.pdf)
 
 **Hopp, F.R.**, Barel, A., Fisher, J., Cornell, D., Lonergan, C., & Weber, R. (2019). "I believe that morality is gone": A large-scale inventory of moral foundations in lyrics of popular songs. Paper submitted to the annual meeting of the International Communication Association (ICA), Washington DC, USA.
 

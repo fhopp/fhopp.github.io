@@ -2,7 +2,7 @@
 
 <div style="text-align: justify" markdown="1">
 
-**Hopp, F. R**., Schaffer, J., Fisher, J. T., Cornell, D., & Weber, R. (in press). iCoRe: The GDELT interface for the advancement of communication research. _Computational Communication Research_.
+[**Hopp, F. R**., Schaffer, J., Fisher, J. T., Cornell, D., & Weber, R. (in press). iCoRe: The GDELT interface for the advancement of communication research. _Computational Communication Research_.](https://computationalcommunication.org/index.php/ccr/announcement/view/1)
 
 [Weber, R., Mangus, J. M., Huskey, R., **Hopp, F. R.**, Amir, O., Swanson, R., ... & Tamborini, R. (2018). Extracting latent moral information from text narratives: Relevance, challenges, and solutions. _Communication Methods and Measures_, 1-21.](https://fhopp.github.io/publications/weber2018.pdf)
 
@@ -24,8 +24,9 @@
 
 <div style="text-align: justify" markdown="1">
 
-**Hopp, F. R**. & Weber, R. (2019) The state-of-the-art and future of fMRI methodology in communication research. In *Communication Science and Biology*. Routledge.
+Fisher, J.T., Lonergan, C., **Hopp, F.R.**, & Weber, R. (in press) In Oxford Handbook of Entertainment Theory, (Eds): Vorderer, P. & Klimmt, C.
 
+**Hopp, F. R**. & Weber, R. (2019) The state-of-the-art and future of fMRI methodology in communication research. In *Communication Science and Biology*. Routledge.
 
 Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (2016). Seriously Entertained: Antecedents and Consequences of Hedonic and Eudaimonic Entertainment Experiences With Political Talk Shows on TV. In _Entertainment Media and Politics_ (pp. 85-105). Routledge.
 
@@ -37,7 +38,18 @@ Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (20
 
 <div style="text-align: justify" markdown="1">
 
+
+#### 2020
+Lukito, J., Van Der Velden, M., **Hopp, F.R.**, & Fisher, J. (2020). Opening Communication Science: ICA 2020 Hackathon. Pre-conference proposal submitted to the International Communication Association (ICA), Gold Coast, Queensland, Australia.
+
+---
 #### 2019
+**Hopp, F.R.**, Fisher, J., Prabhu, S., Tamborini, R., & Weber, R. (2019). Beyond self-reports: Challenges and solutions for the implicit measurement of moral intuition. Paper presented at the fourth annual meeting of the Morality and Media Mini-Conference, East Lansing, MI, USA.
+
+Fisher, J., **Hopp, F.R.**, & Weber, R. (2019) Modality-speciﬁc effects of perceptual load in multimedia processing. Paper submitted to the 105th Annual Convention of the National Communication Association, Baltimore, Maryland, USA
+
+Fisher, J., **Hopp, F.R.**, Prabhu, S., Tamborini, R., & Weber, R. (2019) Developing best practices for the implicit measurement of moral foundation salience. Paper submitted to the 105th Annual Convention of the National Communication Association, Baltimore, Maryland, USA
+
 **Hopp, F.R.**, Fisher, J. T., & Weber, R. (2019, February). The Moral Narrative Analyzer (MoNA): An integrated, spatio-temporal platform for monitoring, predicting, and countering global sociopolitical instability. Paper presented at the Workshop on Naval Applications of Machine Learning (NAML), San Diego, CA.
 
 **Hopp, F.R.**, Lonergan, C., Fisher, J., & Weber, R. (2019). The joy of mediated punishments: Moral transgression in auditory narratives elicit cortical synchronization in listeners. Paper submitted to the annual meeting of the Social and Affective Neuroscience Society (SANS), Miami, USA

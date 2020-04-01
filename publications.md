@@ -2,9 +2,11 @@
 
 <div style="text-align: justify" markdown="1">
 
-Fisher, J. T., **Hopp, F. R**., & Weber, R. (in press). Modality-specific effects of perceptual load in multimedia processing. _Media and Communication_.
+**Hopp, F. R**., Fisher, J. T., & Weber, R. (in press). Dynamic transactions between news frames and sociopolitical events: An integrative, hidden markov model approach. _Journal of Communication_.
 
-[**Hopp, F. R**., Schaffer, J., Fisher, J. T., & Weber, R. (in press). iCoRe: The GDELT interface for the advancement of communication research. _Computational Communication Research_.](https://computationalcommunication.org/index.php/ccr/announcement/view/1)
+[Fisher, J. T., **Hopp, F. R**., & Weber, R. (2019). Modality-specific effects of perceptual load in multimedia processing. _Media and Communication_, 7(4), 149-165.](https://www.cogitatiopress.com/mediaandcommunication/article/download/2388/2388)
+
+[**Hopp, F. R**., Schaffer, J., Fisher, J. T., & Weber, R. (2019). iCoRe: The GDELT interface for the advancement of communication research. _Computational Communication Research_. 1(1), 13-44.](https://computationalcommunication.org/index.php/ccr/announcement/view/1)
 
 [Weber, R., Mangus, J. M., Huskey, R., **Hopp, F. R.**, Amir, O., Swanson, R., ... & Tamborini, R. (2018). Extracting latent moral information from text narratives: Relevance, challenges, and solutions. _Communication Methods and Measures_, 1-21.](https://fhopp.github.io/publications/weber2018.pdf)
 

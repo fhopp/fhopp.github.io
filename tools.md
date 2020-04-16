@@ -1,17 +1,13 @@
-The research that I conduct conforms to open-science practises. Data and analysis protocols are therefore made available through the Open Science Framework. By relying on Jupyter Notebooks for most of my research tasks, I aim to keep workflow and analyses protocols transparent and replicable. Furthermore, my approach to science advocates a strong method-theory synergy in which cutting-edge methodologies are grounded in rigorous theoretical frameworks to advance knowledge.
+My research conforms to open-science practises. Data and analysis protocols are therefore made available through the Open Science Framework. By relying on Jupyter Notebooks for most of my research tasks, I aim to keep workflow and analyses protocols transparent and replicable. 
 
 ----
 ### Data Science & Cloud Computing
 
-The majority of my research centres around massive, unstructured data in text (e.g., news articles, tweets, movie scripts), audiovisual (e.g., serial narratives, movies) and brain imaging (fMRI) form. To process, wrangle, and analyze these data structures, I am drawing on a combination of various data scientific techniques:
+The majority of my research centres around massive, unstructured data in text (e.g., news articles, tweets, movie scripts), audiovisual (e.g., serial narratives, movies) and brain imaging (fMRI) format. To process, wrangle, and analyze these data structures, I am drawing on a combination of various data scientific techniques:
 
 ###### NoSQL
 
 I am maintaining a Eucalyptus cloud-computing cluster that serves as a backend for a distributed Apache Cassandra database. Distributed databases inherit several advantages over traditional, relational database management systems (RDBMS) such as higher spatio-temporal scalability. This database currently stores and preprocesses data from the Global Database of Events, Language, and Tone (GDELT). Furthermore, this database serves as the foundation for the [interface for Communication Research (iCoRe)](http://icore.mnl.ucsb.edu:5000/icore/), an easy-to-use Application Programming Interface (API) that is under active development in the Media Neuroscience Lab. iCoRe's aim is to make GDELT's massive data more accessible to researchers with limited computational and analysis capabilities.
-
-###### Apache Spark
-
-I leverage Apache Spark to increase performance (e.g., higher throughput) when querying and analyzing data via iCoRe.
 
 ---
 
@@ -21,7 +17,7 @@ My research draws heavily on various natural language processing (NLP) technique
 
 ###### Python & R
 
-The majority of NLP tasks are executed in Python by utilizing common text-processing libraries such as the Natural Language Toolkit (NLTK), spaCy, and sci-kit learn. Over the course of my research, I have developed numerous text processing and analysis pipelines that span standard protocols such as tokenization, named-entity recognition, part-of-speech tagging, and dependency parsing to more advanced analysis encompassing moral sentiment classification.
+The majority of NLP tasks are executed in Python by utilizing common text-processing libraries such as the Natural Language Toolkit (NLTK), spaCy, and sci-kit learn. Over the course of my research, I have developed numerous text processing and analysis pipelines that span standard protocols such as tokenization, named-entity recognition, part-of-speech tagging, and dependency parsing to more advanced analysis encompassing moral sentiment classification. Statistical analyses are mostly conducted in Python, although R is occasionally consulted for more complex statistical modeling.  
 
 ###### The Moral Narrative Analyzer (MoNA)
 
@@ -41,5 +37,5 @@ In order to process and analyze fMRI datasets, I am maintaining a multi-cluster 
 
 ###### Moral Psychology
 
-The majority of my research is theoretically grounded in moral psychology, spanning social, cognitive and neuroscientific perspectives. Herein, [Moral Foundations Theory (MFT)](https://moralfoundations.org/) serves as the main theoretical framework that guides my research on moral decision making, moral information processing, and morally-driven behavior.
+The majority of my research is theoretically grounded in moral psychology, spanning social, cognitive, and neuroscientific perspectives. Herein, [Moral Foundations Theory (MFT)](https://moralfoundations.org/) serves as the main theoretical framework that guides my research on moral decision making, moral information processing, and morally-driven behavior.
 

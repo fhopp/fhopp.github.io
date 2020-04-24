@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="pubs updated">
+      <change afterPath="$PROJECT_DIR$/publications/Insights #30-download-12-13_rw.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools.md" beforeDir="false" afterPath="$PROJECT_DIR$/tools.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv_hopp.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cv_hopp.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +41,14 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/symbols" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/symbols" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/publications" />
+      <recent name="$PROJECT_DIR$/symbols" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -105,14 +107,8 @@
       <workItem from="1570596638965" duration="1012000" />
       <workItem from="1585769610567" duration="3151000" />
       <workItem from="1585773056209" duration="756000" />
-      <workItem from="1587064948800" duration="41000" />
-    </task>
-    <task id="LOCAL-00199" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544848328479</created>
-      <option name="number" value="00199" />
-      <option name="presentableId" value="LOCAL-00199" />
-      <option name="project" value="LOCAL" />
-      <updated>1544848328479</updated>
+      <workItem from="1587064948800" duration="142000" />
+      <workItem from="1587751458613" duration="653000" />
     </task>
     <task id="LOCAL-00200" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544848434041</created>
@@ -450,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585773143907</updated>
     </task>
-    <option name="localTasksCounter" value="248" />
+    <task id="LOCAL-00248" summary="pubs updated">
+      <created>1587065002136</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1587065002137</updated>
+    </task>
+    <option name="localTasksCounter" value="249" />
     <servers />
   </component>
   <component name="TodoView">

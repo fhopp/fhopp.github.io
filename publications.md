@@ -4,7 +4,7 @@
 
 **Hopp, F. R**., Fisher, J. T., & Weber, R. (in press). Dynamic transactions between news frames and sociopolitical events: An integrative, hidden markov model approach. _Journal of Communication_.
 
-[Weber, R., & **Hopp, F.R** (2020). Moral emotions and conflict motivate actions. _Insights – Consumer Neuroscience in Business_, _30_, 12–13.](https://fhopp.github.io/publications/publications/Insights#30-download-12-13_rw.pdf) 
+[Weber, R., & **Hopp, F.R** (2020). Moral emotions and conflict motivate actions. _Insights – Consumer Neuroscience in Business_, _30_, 12–13.](https://fhopp.github.io/publications/Insights#30-download-12-13_rw.pdf) 
 
 [Fisher, J. T., **Hopp, F. R**., & Weber, R. (2019). Modality-specific effects of perceptual load in multimedia processing. _Media and Communication_, 7(4), 149-165.](https://www.cogitatiopress.com/mediaandcommunication/article/download/2388/2388)
 

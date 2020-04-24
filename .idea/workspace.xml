@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="pubs updated">
-      <change afterPath="$PROJECT_DIR$/publications/Insights #30-download-12-13_rw.pdf" afterDir="false" />
+    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="cv updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_hopp.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cv_hopp.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdelt.md" beforeDir="false" afterPath="$PROJECT_DIR$/gdelt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_morality.md" beforeDir="false" afterPath="$PROJECT_DIR$/media_morality.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,14 +108,7 @@
       <workItem from="1585769610567" duration="3151000" />
       <workItem from="1585773056209" duration="756000" />
       <workItem from="1587064948800" duration="142000" />
-      <workItem from="1587751458613" duration="653000" />
-    </task>
-    <task id="LOCAL-00200" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544848434041</created>
-      <option name="number" value="00200" />
-      <option name="presentableId" value="LOCAL-00200" />
-      <option name="project" value="LOCAL" />
-      <updated>1544848434041</updated>
+      <workItem from="1587751458613" duration="1297000" />
     </task>
     <task id="LOCAL-00201" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544848486312</created>
@@ -453,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587065002137</updated>
     </task>
-    <option name="localTasksCounter" value="249" />
+    <task id="LOCAL-00249" summary="cv updated">
+      <created>1587752390008</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1587752390008</updated>
+    </task>
+    <option name="localTasksCounter" value="250" />
     <servers />
   </component>
   <component name="TodoView">
@@ -489,6 +489,7 @@
     <MESSAGE value="updated cv" />
     <MESSAGE value="main index updated" />
     <MESSAGE value="pubs updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="pubs updated" />
+    <MESSAGE value="cv updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv updated" />
   </component>
 </project>

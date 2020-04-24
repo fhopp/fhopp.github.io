@@ -30,8 +30,9 @@ Figure 3.
 ### Associated Publications
 
 ---
+**Hopp, F. R**., Fisher, J. T., & Weber, R. (in press). Dynamic transactions between news frames and sociopolitical events: An integrative, hidden markov model approach. _Journal of Communication_.
 
-**Hopp, F. R**., Schaffer, J., Fisher, J. T., Cornell, D., & Weber, R. (in press). iCoRe: The GDELT interface for the advancement of communication research. _Computational Communication Research_.
+[**Hopp, F. R**., Schaffer, J., Fisher, J. T., & Weber, R. (2019). iCoRe: The GDELT interface for the advancement of communication research. _Computational Communication Research_. 1(1), 13-44.](https://computationalcommunication.org/index.php/ccr/announcement/view/1)
 
 **Hopp, F.R.**, Fisher, J. T., & Weber, R. (2019, February). The Moral Narrative Analyzer (MoNA): An integrated, spatio-temporal platform for monitoring, predicting, and countering global sociopolitical instability. Paper presented at the Workshop on Naval Applications of Machine Learning (NAML), San Diego, CA.
 

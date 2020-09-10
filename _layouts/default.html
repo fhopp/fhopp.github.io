@@ -2,29 +2,40 @@
 <html lang="{{ site.lang | default: "en-US" }}">
 <link rel="stylesheet" href="https://fhopp.github.io/css/academicons.min.css"/>
 
-<head>
-<meta charset='utf-8'>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width,maximum-scale=2">
-<link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">{% seo %}
-</head>
 
-<body>
-<!-- Top navigation -->
-<div class="topnav">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
 
-  <!-- Centered link -->
-  <div class="topnav-centered">
-    <a href="#home" class="active">Home</a>
-  </div>
- <div class="topnav-centered">
-    <a href="#home" class="active">Home2</a>
-  </div>
+{% seo %}
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+
+          <div class="image-cropper">
+             <div class="rounded"></div>
+          </div>
+
+            <h3 class=headlineText id="project_title">{{ site.title | default: site.github.repository_name }} </h3>
 
 
-</div>
+          <div class="tab">
+            <a   class="tablinks" onclick="openCity(event, 'About')" href="https://fhopp.github.io">About</a>
+            <a   class="tablinks" onclick="openCity(event, 'Current Research')" href="https://fhopp.github.io/research">Research</a>
+            <a   class="tablinks" onclick="openCity(event, 'CV')" href="https://fhopp.github.io/cv">CV</a>
+            <a   class="tablinks" onclick="openCity(event, 'Publications')" href="https://fhopp.github.io/publications">Publications</a>
+            <a   class="tablinks" onclick="openCity(event, 'Tools')" href="https://fhopp.github.io/tools">Tools/Expertise</a>
+         </div>
 
+        </header>
+    </div>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">

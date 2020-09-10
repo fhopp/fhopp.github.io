@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="tab centered att7">
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,14 +111,7 @@
       <workItem from="1587064948800" duration="142000" />
       <workItem from="1587751458613" duration="1311000" />
       <workItem from="1591892091198" duration="70000" />
-      <workItem from="1599774809160" duration="3354000" />
-    </task>
-    <task id="LOCAL-00220" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544850324630</created>
-      <option name="number" value="00220" />
-      <option name="presentableId" value="LOCAL-00220" />
-      <option name="project" value="LOCAL" />
-      <updated>1544850324630</updated>
+      <workItem from="1599774809160" duration="3486000" />
     </task>
     <task id="LOCAL-00221" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544850389229</created>
@@ -455,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599778078024</updated>
     </task>
-    <option name="localTasksCounter" value="269" />
+    <task id="LOCAL-00269" summary="tab centered att7">
+      <created>1599778202723</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1599778202723</updated>
+    </task>
+    <option name="localTasksCounter" value="270" />
     <servers />
   </component>
   <component name="TodoView">

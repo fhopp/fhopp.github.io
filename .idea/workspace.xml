@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="tab centered att1">
+    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="tab centered att2">
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,14 +111,7 @@
       <workItem from="1587064948800" duration="142000" />
       <workItem from="1587751458613" duration="1311000" />
       <workItem from="1591892091198" duration="70000" />
-      <workItem from="1599774809160" duration="1290000" />
-    </task>
-    <task id="LOCAL-00206" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1544849075717</created>
-      <option name="number" value="00206" />
-      <option name="presentableId" value="LOCAL-00206" />
-      <option name="project" value="LOCAL" />
-      <updated>1544849075717</updated>
+      <workItem from="1599774809160" duration="1565000" />
     </task>
     <task id="LOCAL-00207" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1544849176550</created>
@@ -455,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599776035420</updated>
     </task>
-    <option name="localTasksCounter" value="255" />
+    <task id="LOCAL-00255" summary="tab centered att2">
+      <created>1599776189211</created>
+      <option name="number" value="00255" />
+      <option name="presentableId" value="LOCAL-00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1599776189211</updated>
+    </task>
+    <option name="localTasksCounter" value="256" />
     <servers />
   </component>
   <component name="TodoView">
@@ -495,6 +496,7 @@
     <MESSAGE value="cv updated" />
     <MESSAGE value="publications and cv updated" />
     <MESSAGE value="tab centered att1" />
-    <option name="LAST_COMMIT_MESSAGE" value="tab centered att1" />
+    <MESSAGE value="tab centered att2" />
+    <option name="LAST_COMMIT_MESSAGE" value="tab centered att2" />
   </component>
 </project>

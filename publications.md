@@ -2,7 +2,7 @@
 
 <div style="text-align: justify" markdown="1">
 
-[**Hopp, F.R.**, Fisher, J., & Weber, R. (2020). A graph-learning approach for detecting moral conflict in movie scripts. Media and Communication, 8(3), 164–179.](https://www.cogitatiopress.com/mediaandcommunication/article/view/3155)
+[**Hopp, F.R.**, Fisher, J., & Weber, R. (2020). A graph-learning approach for detecting moral conflict in movie scripts. _Media and Communication_, _8_(3), 164–179.](https://www.cogitatiopress.com/mediaandcommunication/article/view/3155)
 
 [**Hopp, F.R.**, Fisher, J., Cornell, D., Huskey, R., & Weber, R. (2020). The extended moral foundations dictionary (eMFD): Development and applications of a crowd-sourced approach to extracting moral intuitions from text. _Behavior Research Methods_.](https://psyarxiv.com/924gq/download?format=pdf) 
 
@@ -12,7 +12,7 @@
 
 [**Hopp, F. R**., Schaffer, J., Fisher, J. T., & Weber, R. (2019). iCoRe: The GDELT interface for the advancement of communication research. _Computational Communication Research_. 1(1), 13-44.](https://computationalcommunication.org/index.php/ccr/announcement/view/1)
 
-[Fisher, J. T., **Hopp, F. R**., & Weber, R. (2019). Modality-specific effects of perceptual load in multimedia processing. _Media and Communication_, 7(4), 149-165.](https://www.cogitatiopress.com/mediaandcommunication/article/download/2388/2388)
+[Fisher, J. T., **Hopp, F. R**., & Weber, R. (2019). Modality-specific effects of perceptual load in multimedia processing. _Media and Communication_, _7_(4), 149-165.](https://www.cogitatiopress.com/mediaandcommunication/article/download/2388/2388)
 
 [Weber, R., Mangus, J. M., Huskey, R., **Hopp, F. R.**, Amir, O., Swanson, R., ... & Tamborini, R. (2018). Extracting latent moral information from text narratives: Relevance, challenges, and solutions. _Communication Methods and Measures_, 1-21.](https://fhopp.github.io/publications/weber2018.pdf)
 
@@ -37,9 +37,10 @@
 [Weber, R., **Hopp, F.R.**, & Fisher, J. (2020). The moral narrative analyzer (MoNA): A
 platform for extracting moral emotions and conflict from messages at scale. In Neuromarketing Yearbook 2020. Neuromarketing Science & Business Association (NMSBA).](https://fhopp.github.io/publications/122.Chapter.Weber_Hopp_Fisher.NeuroYearbook_MoNA.pdf) 
 
-Fisher, J.T., Lonergan, C., **Hopp, F.R.**, & Weber, R. (in press) In Oxford Handbook of Entertainment Theory, (Eds): Vorderer, P. & Klimmt, C.
+[**Hopp, F.R.**, & Weber, R. (2020) The state-of-the-art and future of fMRI
+methodology in communication research. In Weber, R. & Floyd, K. (Eds.) Handbook of Communication Science and Biology. New York, NY: Routledge](https://books.google.com/books?hl=en&lr=&id=4YbiDwAAQBAJ&oi=fnd&pg=PT379&dq=info:zGkReWE1dMoJ:scholar.google.com&ots=ug6U-jqJBj&sig=ZQeFHcLVJYS6eOE6TCDY84C7aDk#v=onepage&q&f=false)
 
-**Hopp, F. R**. & Weber, R. (2019) The state-of-the-art and future of fMRI methodology in communication research. In *Communication Science and Biology*. Routledge.
+Fisher, J.T., Lonergan, C., **Hopp, F.R.**, & Weber, R. (in press) In Oxford Handbook of Entertainment Theory, (Eds): Vorderer, P. & Klimmt, C.
 
 Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (2016). Seriously Entertained: Antecedents and Consequences of Hedonic and Eudaimonic Entertainment Experiences With Political Talk Shows on TV. In _Entertainment Media and Politics_ (pp. 85-105). Routledge.
 

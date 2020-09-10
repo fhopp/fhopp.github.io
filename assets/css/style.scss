@@ -10,14 +10,13 @@
 
 .tab a {
     color: #f2f2f2;
-    display: block;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    left: 50%;
+    right: 50%;
     padding: 8px 16px;
     text-decoration: none;
     font-size: 14px;
-    float: left;
+    float: none;
     border: none;
     outline: none;
     cursor: pointer;

@@ -110,28 +110,7 @@
       <workItem from="1587064948800" duration="142000" />
       <workItem from="1587751458613" duration="1311000" />
       <workItem from="1591892091198" duration="70000" />
-      <workItem from="1599774809160" duration="10965000" />
-    </task>
-    <task id="LOCAL-00235" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1556736677703</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1556736677703</updated>
-    </task>
-    <task id="LOCAL-00236" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1556736737780</created>
-      <option name="number" value="00236" />
-      <option name="presentableId" value="LOCAL-00236" />
-      <option name="project" value="LOCAL" />
-      <updated>1556736737780</updated>
-    </task>
-    <task id="LOCAL-00237" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1556737334510</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1556737334510</updated>
+      <workItem from="1599774809160" duration="11214000" />
     </task>
     <task id="LOCAL-00238" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1556737372033</created>
@@ -455,7 +434,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599796242184</updated>
     </task>
-    <option name="localTasksCounter" value="284" />
+    <task id="LOCAL-00284" summary="resources page added">
+      <created>1599796546308</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1599796546308</updated>
+    </task>
+    <task id="LOCAL-00285" summary="resources page added">
+      <created>1599796628751</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1599796628751</updated>
+    </task>
+    <task id="LOCAL-00286" summary="resources page added">
+      <created>1599796692046</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1599796692046</updated>
+    </task>
+    <option name="localTasksCounter" value="287" />
     <servers />
   </component>
   <component name="TodoView">

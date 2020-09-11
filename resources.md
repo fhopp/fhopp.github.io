@@ -31,8 +31,9 @@ Here, I mainly provide access to resources that I have either put together mysel
 
 ### Graduate School and Science General
 
-A few book tips that inspired me throughout graduate school.  
+A few resources that inspired me throughout graduate school.  
 
+* [The Importance of Stupidity in Scientific Research](https://jcs.biologists.org/content/121/11/1771)
 * [The Structure of Scientific Revolutions ](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions?from_search=true&from_srp=true&qid=fpIoOaOlKi&rank=1)
 * [A PhD Is Not Enough: A Guide To Survival In Science](https://www.goodreads.com/book/show/587478.A_PhD_Is_Not_Enough)
 * [The Professor Is In: The Essential Guide To Turning Your Ph.D. Into a Job ](https://www.goodreads.com/book/show/24811991-the-professor-is-in?from_search=true&from_srp=true&qid=CCSYKC4zhl&rank=1)

@@ -1,9 +1,6 @@
-My research conforms to open-science practises. Data and analysis protocols are therefore made available through the Open Science Framework. By relying on Jupyter Notebooks for most of my research tasks, I aim to keep workflow and analyses protocols transparent and replicable. 
-
-----
 ### Data Science & Cloud Computing
 
-The majority of my research centres around massive, unstructured data in text (e.g., news articles, tweets, movie scripts), audiovisual (e.g., serial narratives, movies) and brain imaging (fMRI) format. To process, wrangle, and analyze these data structures, I am drawing on a combination of various data scientific techniques:
+The majority of my research centres around large, unstructured data in text (e.g., news articles, tweets, movie scripts), audiovisual (e.g., serial narratives, movies) and brain imaging (fMRI) format. To process, wrangle, and analyze these data structures, I am drawing on a combination of various data scientific techniques.
 
 ###### NoSQL
 
@@ -33,9 +30,12 @@ In order to process and analyze fMRI datasets, I am maintaining a multi-cluster 
 
 ---
 
-### Theoretical Foundation
+### Theoretical Knowledge
 
-###### Moral Psychology
+###### Moral and Social Psychology
 
-The majority of my research is theoretically grounded in moral psychology, spanning social, cognitive, and neuroscientific perspectives. Herein, [Moral Foundations Theory (MFT)](https://moralfoundations.org/) serves as the main theoretical framework that guides my research on moral decision making, moral information processing, and morally-driven behavior.
+The majority of my research is theoretically grounded in moral psychology, spanning social, cognitive, and neuroscientific perspectives. Herein, [Moral Foundations Theory (MFT)](https://moralfoundations.org/) serves as the main theoretical framework that guides my research on moral decision making, moral information processing, and morally-driven behavior. Recently, I have also started to integrate the Morality as Cooperation [(MaC, Curry, 2014)](https://link.springer.com/chapter/10.1007/978-3-319-19671-8_2) framework into my research. 
 
+###### Media Psychology
+
+Several of my published articles utilize theories and models that explicate how humans process psychologically relevant media content. For example, I draw heavily on the Model of Intuitive Morality and Exemplars (MIME; Tamborini, 2011, 2013) to examine how morally-relevant message cues give rise to affective, cognitive, and behavioral media effects, including the sharing of online news articles and narrative enjoyment. 

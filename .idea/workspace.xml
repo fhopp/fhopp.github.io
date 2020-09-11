@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="tab centered att7">
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_hopp.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cv_hopp.pdf" afterDir="false" />
+    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="cv updated">
+      <change afterPath="$PROJECT_DIR$/resources.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teaching_materials/comm113_hopp_syllabus_summer20.docx.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools.md" beforeDir="false" afterPath="$PROJECT_DIR$/tools.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +44,13 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/symbols" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/publications" />
-      <recent name="$PROJECT_DIR$/symbols" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/symbols" />
     </key>
   </component>
@@ -111,21 +113,7 @@
       <workItem from="1587064948800" duration="142000" />
       <workItem from="1587751458613" duration="1311000" />
       <workItem from="1591892091198" duration="70000" />
-      <workItem from="1599774809160" duration="3913000" />
-    </task>
-    <task id="LOCAL-00222" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1546266675649</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1546266675653</updated>
-    </task>
-    <task id="LOCAL-00223" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
-      <created>1546266831899</created>
-      <option name="number" value="00223" />
-      <option name="presentableId" value="LOCAL-00223" />
-      <option name="project" value="LOCAL" />
-      <updated>1546266831900</updated>
+      <workItem from="1599774809160" duration="5417000" />
     </task>
     <task id="LOCAL-00224" summary="Merge branch 'master' of https://github.com/fhopp/fhopp.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/fhopp.github.io.iml&#10;#&#9;.idea/misc.xml">
       <created>1546266907516</created>
@@ -456,7 +444,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599778338759</updated>
     </task>
-    <option name="localTasksCounter" value="271" />
+    <task id="LOCAL-00271" summary="cv updated">
+      <created>1599786646867</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1599786646867</updated>
+    </task>
+    <task id="LOCAL-00272" summary="cv updated">
+      <created>1599786720362</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1599786720362</updated>
+    </task>
+    <option name="localTasksCounter" value="273" />
     <servers />
   </component>
   <component name="TodoView">
@@ -493,7 +495,6 @@
     <MESSAGE value="updated cv" />
     <MESSAGE value="main index updated" />
     <MESSAGE value="pubs updated" />
-    <MESSAGE value="cv updated" />
     <MESSAGE value="publications and cv updated" />
     <MESSAGE value="tab centered att1" />
     <MESSAGE value="tab centered att2" />
@@ -502,6 +503,7 @@
     <MESSAGE value="tab centered att5" />
     <MESSAGE value="tab centered att6" />
     <MESSAGE value="tab centered att7" />
-    <option name="LAST_COMMIT_MESSAGE" value="tab centered att7" />
+    <MESSAGE value="cv updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv updated" />
   </component>
 </project>

@@ -1,6 +1,8 @@
 <div style="text-align: justify" markdown="1">
 
-### Resources & Helpful Links
+<div style="text-align: center" markdown="1">
+## Resources & Helpful Links
+</div>
 
 Here, I mainly provide access to resources that I have either put together myself or found on the web and considered helpful.
 

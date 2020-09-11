@@ -1,6 +1,6 @@
 <!-- EDUCATION HEADER -->
 
-<h5 style="text-align: center">I study how morality permeates human communication and motivates behavior </h5>
+<h5 style="text-align: center">I study how morality permeates human communication <br> and motivates behavior </h5>
 
 ---
 

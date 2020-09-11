@@ -1,6 +1,8 @@
 ### Resources & Helpful Links
 
-Here, I mainly provide access to resources that I have either put together myself or found on the web and considered helpful. 
+Here, I mainly provide access to resources that I have either put together myself or found on the web and considered helpful.
+
+---  
 
 ### eMFDScore
 [eMFDscore](https://github.com/medianeuroscience/emfdscore) is a Python command-line tool that I designed for the fast and flexible extraction of various moral information metrics from textual input data. eMFDscore is build on spaCy for faster execution and performs minimal preprocessing consisting of tokenization, syntactic dependency parsing, lower-casing, and stopword/punctuation/whitespace removal. eMFDscore lets users score documents with multiple Moral Foundations Dictionaries, provides various metrics for analyzing moral information, and extracts moral patient, agent, and attribute words related to entities.

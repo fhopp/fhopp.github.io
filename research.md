@@ -57,4 +57,14 @@ A central goal of news research is to understand the interplay between news cove
 
 <i class="fa fa-database" style="font-size:25px"></i><a href="https://osf.io/ab2s3/"> Supplemental Materials </a>
 
+<div style="text-align: center" markdown="1">
+## Press Coverage 
+</div>
+
+[Examining Trends in Moral News Framing Across a Decade of Television Coverage](https://blog.gdeltproject.org/examining-trends-in-moral-news-framing-across-a-decade-of-television-coverage/) 
+
+[Is the psychology of Greta Thunberg’s climate activism effective?](http://nautil.us/blog/is-the-psychology-of-greta-thunbergs-climate-activism-effective)
+
+[The moral mind: Researcher blazes the way in our understanding of moral sensibilities](https://www.news.ucsb.edu/2019/019588/moral-mind)
+
 </div>

@@ -14,7 +14,6 @@ Based on the above coding framework, my colleagues and I harnessed over 60,000 c
 #### Detecting Moral Conflicts in Movie Scripts
  Moral conflict is central to appealing narratives, and frequently foments socially-relevant outcomes, including group polarization and moral outrage. Yet, no methodology exists for computationally extracting moral conflict from messages and narratives at scale. To fill this gap, we developed an [approach](https://www.cogitatiopress.com/mediaandcommunication/article/view/3155) combining tools from social network analysis and natural language processing with recent theoretical advancements in the Model of Intuitive Morality and Exemplars. This approach considers narratives in terms of a network of dynamically evolving relationships between characters. We apply this method in order to analyze 894 movie scripts encompassing 82,195 scenes, showing that scenes containing moral conflict between central characters can be identified using changes in connectivity patterns between network modules. Furthermore, we derive computational models for standardizing moral conflict measurements. Our results suggest that this method can accurately extract moral conflict from a diverse collection of movie scripts. We provide a theoretical integration of our method into the larger milieu of storytelling and entertainment research, illuminating future research trajectories at the intersection of computational communication research and media psychology.
 
----
 
 <div style="text-align: center" markdown="1">
 ## News-Event Dynamics 

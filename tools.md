@@ -18,7 +18,7 @@ The majority of NLP tasks are executed in Python by utilizing common text-proces
 
 ###### The Moral Narrative Analyzer (MoNA)
 
-The [Moral Narrative Analyzer (MoNA)](https://mnl.ucsb.edu/mona/) is a freely available, online crowd-coding and analysis platform that we have developed in the Media Neuroscience Lab. Relying on a django backend, MoNA draws on a hybrid content analytical approach in which NLP and human annotations are combined to extract the latent moral information that permeates textual narratives, such as news articles, movie scripts, and tweets. In a recent study, MoNA was utilized to collect over 25,000 human annotations of news documents to construct an advanced, crowd-sourced Moral Foundations Dictionary (Hopp et al., under review).
+The [Moral Narrative Analyzer (MoNA)](https://mnl.ucsb.edu/mona/) is an online crowd-coding and analysis platform that we have developed in the Media Neuroscience Lab. Relying on a django backend, MoNA draws on a hybrid content analytical approach in which NLP and human annotations are combined to extract the latent moral information that permeates textual narratives, such as news articles, movie scripts, and tweets. In a recent study, we used MoNA to collect over 60,000 human annotations of news documents to construct an [extended Moral Foundations Dictionary](https://psyarxiv.com/924gq/download?format=pdf) (Hopp et al., 2020).
 
 ---
 

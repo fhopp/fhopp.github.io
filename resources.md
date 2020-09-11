@@ -2,6 +2,15 @@
 
 Here, I mainly provide access to resources that I have either put together myself or found on the web and considered helpful. 
 
+### eMFDScore
+[eMFDscore](https://github.com/medianeuroscience/emfdscore) is a Python command-line tool that I designed for the fast and flexible extraction of various moral information metrics from textual input data. eMFDscore is build on spaCy for faster execution and performs minimal preprocessing consisting of tokenization, syntactic dependency parsing, lower-casing, and stopword/punctuation/whitespace removal. eMFDscore lets users score documents with multiple Moral Foundations Dictionaries, provides various metrics for analyzing moral information, and extracts moral patient, agent, and attribute words related to entities.
+ 
+ ### iCoRe
+ Together with colleagues at the Media Neuroscience Lab, I developed the [interface for Communication Research (iCoRe)](http://icore.mnl.ucsb.edu/home) to access, explore, and analyze the Global Database of Events, Language and Tone (GDELT; Leetaru & Schrodt, 2013). GDELT provides a vast, open source, and constantly updated repository of online news and event metadata collected from tens of thousands of news outlets around the world. iCoRe is open-source and under active development and seeking interested contributors.
+ 
+ ### The Moral Narrative Analyzer (MoNA)
+ The [Moral Narrative Analyzer (MoNA)](https://mnl.ucsb.edu/mona/) is an online crowd-coding and analysis platform that we have developed in the Media Neuroscience Lab. Relying on a Django backend, MoNA draws on a hybrid content analytical approach in which artificial and human intelligence are combined to extract the latent moral information that permeates textual narratives, such as news articles, movie scripts, and tweets.
+
 ### Teaching 
 
 [Syllabus](https://fhopp.github.io/teaching_materials/comm113_hopp_syllabus_summer20.docx.pdf) to my online _Media Effects on the Individual Class_. Please send me an email if you are interested in the slides and/or instructions for the assignments of this class.

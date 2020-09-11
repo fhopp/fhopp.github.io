@@ -45,3 +45,5 @@ While I strongly believe in an applied, trial-and-error approach to learning how
 * [Natural Language Processing with Python](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)
 * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book)
 
+* [Kite](https://www.kite.com/) 
+* [JupyterLab](https://github.com/jupyterlab/jupyterlab)

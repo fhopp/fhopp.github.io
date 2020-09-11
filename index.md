@@ -1,6 +1,6 @@
 <!-- EDUCATION HEADER -->
 
-<span class="my_text">I study how morality permeates human communication and motivates actions.</span>
+<span class="my_text" style="text-align: center: font-size: 16px;">I study how morality permeates human communication and motivates actions.</span>
 
 ---
 

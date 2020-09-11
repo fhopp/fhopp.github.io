@@ -8,7 +8,7 @@
 
 <div style="text-align: justify" markdown="1">
 
-I am a Doctoral Candidate in the [Department of Communication at UCSB](http://www.comm.ucsb.edu/), senior data scientist at UCSB's [Media Neuroscience Lab](http://www.medianeuroscience.org/) (PI: Rene Weber, PhD, MD), and an associate of the [NSF IGERT Network Science Program](https://networkscience.igert.ucsb.edu/). My [research](https://fhopp.github.io/research) leverages natural language processing, computational modeling, and neuroscientific methodologies to examine how latent moral information and moral conflict permeates human narratives and motivates actions. 
+I am a Doctoral Candidate in the [Department of Communication at UCSB](http://www.comm.ucsb.edu/), senior data scientist at UCSB's [Media Neuroscience Lab](http://www.medianeuroscience.org/) (PI: Rene Weber, PhD, MD), and an associate of the [NSF IGERT Network Science Program](https://networkscience.igert.ucsb.edu/). My [research](https://fhopp.github.io/research) integrates natural language processing and computational modeling with traditional social scientific and neuroscientific methodologies to examine how moral information permeates human narratives and motivates actions. 
 
 In previous research, I examined the role of cognitive and perceptual load on multimedia processing, assessed the role of entertainment experiences for processing political messages, studied the effects of cyber-ostracism in social media environments, and explored the motivational correlates of permanent online connectedness. 
        

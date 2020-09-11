@@ -110,21 +110,7 @@
       <workItem from="1587064948800" duration="142000" />
       <workItem from="1587751458613" duration="1311000" />
       <workItem from="1591892091198" duration="70000" />
-      <workItem from="1599774809160" duration="14930000" />
-    </task>
-    <task id="LOCAL-00251" summary="cv updated">
-      <created>1591892141616</created>
-      <option name="number" value="00251" />
-      <option name="presentableId" value="LOCAL-00251" />
-      <option name="project" value="LOCAL" />
-      <updated>1591892141616</updated>
-    </task>
-    <task id="LOCAL-00252" summary="publications and cv updated">
-      <created>1599775339416</created>
-      <option name="number" value="00252" />
-      <option name="presentableId" value="LOCAL-00252" />
-      <option name="project" value="LOCAL" />
-      <updated>1599775339416</updated>
+      <workItem from="1599774809160" duration="15484000" />
     </task>
     <task id="LOCAL-00253" summary="publications and cv updated">
       <created>1599775824898</created>
@@ -455,7 +441,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599800433504</updated>
     </task>
-    <option name="localTasksCounter" value="300" />
+    <task id="LOCAL-00300" summary="resources page added">
+      <created>1599800606219</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1599800606219</updated>
+    </task>
+    <task id="LOCAL-00301" summary="resources page added">
+      <created>1599800800183</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1599800800183</updated>
+    </task>
+    <option name="localTasksCounter" value="302" />
     <servers />
   </component>
   <component name="TodoView">

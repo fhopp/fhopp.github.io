@@ -1,3 +1,5 @@
+<div style="text-align: justify" markdown="1">
+
 ### Data Science & Cloud Computing
 
 The majority of my research centres around large, unstructured data in text (e.g., news articles, tweets, movie scripts), audiovisual (e.g., serial narratives, movies) and brain imaging (fMRI) format. To process, wrangle, and analyze these data structures, I am drawing on a combination of various data scientific techniques.
@@ -39,3 +41,5 @@ The majority of my research is theoretically grounded in moral psychology, spann
 ###### Media Psychology
 
 Several of my published articles utilize theories and models that explicate how humans process psychologically relevant media content. For example, I draw heavily on the Model of Intuitive Morality and Exemplars (MIME; Tamborini, 2011, 2013) to examine how morally-relevant message cues give rise to affective, cognitive, and behavioral media effects, including the sharing of online news articles and narrative enjoyment. 
+
+</div>

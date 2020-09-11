@@ -1,3 +1,5 @@
+<div style="text-align: justify" markdown="1">
+
 ### Resources & Helpful Links
 
 Here, I mainly provide access to resources that I have either put together myself or found on the web and considered helpful.
@@ -47,3 +49,5 @@ While I strongly believe in an applied, trial-and-error approach to learning how
 
 * [Kite](https://www.kite.com/) 
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab)
+
+</div>

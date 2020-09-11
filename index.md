@@ -1,6 +1,6 @@
 <!-- EDUCATION HEADER -->
 
-<h4 style="text-align: center; position: absolute; top: -10px;">I study how morality permeates human communication <br> and motivates behavior </h4>
+<h4 style="text-align: center; position: absolute; top: -10px; left: 50%; right: 50%; padding-top: 5px; padding-bottom: 5px">I study how morality permeates human communication <br> and motivates behavior </h4>
 
 ---
 

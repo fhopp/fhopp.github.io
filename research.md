@@ -17,7 +17,7 @@ Based on the above coding framework, my colleagues and I harnessed over 60,000 c
 ---
 
 <div style="text-align: center" markdown="1">
-## Global News Analysis and Event Prediction 
+## News-Event Dynamics 
 </div>
 
 The main goal of this line of research is to examine the dynamic relationship between real-world events (e.g., protest movements, terror attacks, elections, etc.) and the news frames that accompany these events. Traditionally, communication research has invested great efforts in understanding how certain types of events are framed and how these frames are processed by audiences. Likewise, data-driven approaches towards event forecasting have aimed to construct stochastic models that predict event likelihoods based on preceding event sequences.

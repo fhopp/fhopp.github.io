@@ -1,4 +1,8 @@
-### Narratives and Morality
+<div style="text-align: justify" markdown="1">
+
+<div style="text-align: center" markdown="1">
+## Narratives and Morality
+</div>
 
 #### Extracting Latent Moral Information from Text Narratives 
 My main research centres around the question of how morally-relevant arguments – societal prescriptions for morally right or wrong behaviors – can be extracted from media content. 
@@ -10,7 +14,9 @@ Based on the above coding framework, my colleagues and I harnessed over 60,000 c
 #### Detecting Moral Conflicts in Movie Scripts
  Moral conflict is central to appealing narratives, and frequently foments morally-relevant actions, including group polarization and moral outrage. Yet, no methodology exists for computationally extracting moral conflict from messages and narratives at scale. To fill this gap, we developed an [approach](https://www.cogitatiopress.com/mediaandcommunication/article/view/3155) combining tools from social network analysis and natural language processing with recent theoretical advancements in the Model of Intuitive Morality and Exemplars. This approach considers narratives in terms of a network of dynamically evolving relationships between characters. We apply this method in order to analyze 894 movie scripts encompassing 82,195 scenes, showing that scenes containing moral conflict between central characters can be identified using changes in connectivity patterns between network modules. Furthermore, we derive computational models for standardizing moral conflict measurements. Our results suggest that this method can accurately extract moral conflict from a diverse collection of movie scripts. We provide a theoretical integration of our method into the larger milieu of storytelling and entertainment research, illuminating future research trajectories at the intersection of computational communication research and media psychology.
 
-### Large-Scale News Analysis and Event Prediction 
+<div style="text-align: center" markdown="1">
+## Large-Scale News Analysis and Event Prediction 
+</div>
 
 The main goal of this line of research is to examine the dynamic relationship between real-world events (e.g., protest movements, terror attacks, elections, etc.) and the news frames that accompany these events. Traditionally, communication research has invested great efforts in understanding how certain types of events are framed and how these frames are processed by audiences. Likewise, data-driven approaches towards event forecasting have aimed to construct stochastic models that predict event likelihoods based on preceding event sequences.
 
@@ -40,3 +46,4 @@ Figure 3.
 
 <img src="symbols/map.png" alt="Figure1" style="width: 633px; height:250px">
 
+</div>

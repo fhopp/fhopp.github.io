@@ -1,61 +1,42 @@
-<style>
-.tooltip {
-  position: relative;
-  display: inline-block;
-}
+### Narratives and Morality
 
-.tooltip .tooltiptext {
-  visibility: hidden;
-  line-height: 1.5;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 1px 1px 1px 1px;
-  position: absolute;
-  z-index: 1;
-  bottom: 100%;
-  left: 50%;
-  margin-left: -60px;
+#### Extracting Latent Moral Information from Text Narratives 
+My main research centres around the question of how morally-relevant arguments – societal prescriptions for morally right or wrong behaviors – can be extracted from media content. 
+In a [series of content-analytic studies](https://fhopp.github.io/publications/weber2018.pdf), we showed that a large-crowd of minimally trained coders can outperform trained expert coders when annotating morally-relevant content cues in news narratives. Furthermore, we highlighted that disagreement among coders frequently presents signal (rather than noise), when coders' variable moral sensitivities are taken into account. 
 
-  /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
-  opacity: 0;
-  transition: opacity 1s;
-}
+#### The Extended Moral Foundations Dictionary (eMFD)
+Based on the above coding framework, my colleagues and I harnessed over 60,000 content annotations to develop an [extended Moral Foundations Dictionary (eMFD)](https://psyarxiv.com/924gq/download?format=pdf) for the automated extraction of morally-cues from large corpora of textual messages. In various theory-driven validation studies, we show that the eMFD outperforms previous approaches for extracting moral information from text. 
 
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-  opacity: 1;
-}
-</style>
+#### Detecting Moral Conflicts in Movie Scripts
+ Moral conflict is central to appealing narratives, and frequently foments morally-relevant actions, including group polarization and moral outrage. Yet, no methodology exists for computationally extracting moral conflict from messages and narratives at scale. To fill this gap, we developed an [approach](https://www.cogitatiopress.com/mediaandcommunication/article/view/3155) combining tools from social network analysis and natural language processing with recent theoretical advancements in the Model of Intuitive Morality and Exemplars. This approach considers narratives in terms of a network of dynamically evolving relationships between characters. We apply this method in order to analyze 894 movie scripts encompassing 82,195 scenes, showing that scenes containing moral conflict between central characters can be identified using changes in connectivity patterns between network modules. Furthermore, we derive computational models for standardizing moral conflict measurements. Our results suggest that this method can accurately extract moral conflict from a diverse collection of movie scripts. We provide a theoretical integration of our method into the larger milieu of storytelling and entertainment research, illuminating future research trajectories at the intersection of computational communication research and media psychology.
 
+### Large-Scale News Analysis and Event Prediction 
 
-<div class="brain">
+The main goal of this line of research is to examine the dynamic relationship between real-world events (e.g., protest movements, terror attacks, elections, etc.) and the news frames that accompany these events. Traditionally, communication research has invested great efforts in understanding how certain types of events are framed and how these frames are processed by audiences. Likewise, data-driven approaches towards event forecasting have aimed to construct stochastic models that predict event likelihoods based on preceding event sequences.
 
-<span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 253px; left:128px"></i>
-  <i class="fa fa-globe-americas fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 253px; left:128px">
-  <a href="https://fhopp.github.io/gdelt"><span class="tooltiptext my_text" style="font-size:15px"> Global Analysis of News and Events</span> </a></i>
-</span>
+In turn, my research in this area combines both news framing and computational modeling to disentangle the relationship between news frames and events. For example, which news frames are more likely to drive subsequent news frame sequences? Which news frames are more likely to increase the probability of observing certain event types in the future and vice versa, which events precede certain densities of news frames?
 
-<span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-2x" style="position:relative;top: 120px; left:80px"></i>
-  <i class="fa fa-balance-scale fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top: 120px; left:80px">
-  <a href="https://fhopp.github.io/media_morality"><span class="tooltiptext my_text" style="font-size:15px"> Media and Morality</span> </a></i>
-</span>
+Figure 1.
+*Time Series of Immigration Protest Events and News Articles Discussing Immigration in the United States*
 
-<span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-2x" style="position:relative;top:105px;left:185px"></i>
-  <i class="fa fa-film fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute;top:105px;left:185px">
-  <a href="https://fhopp.github.io/narratives"><span class="tooltiptext my_text" style="font-size:15px"> Computational Analysis of Narratives</span> </a></i>
-</span>
+ <img src="symbols/ts1_gdelt.png" alt="Figure1" style="width: 633px; height:200px">
 
-<span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-2x" style="position:relative; top: 288px; left:163px;"></i>
-  <i class="fa fa-brain fa-stack-1x fa-inverse tooltip" style="font-size:25px;color:deeppink;position:absolute; top: 288px; left:163px;">
-  <a href="https://fhopp.github.io/neuro"><span class="tooltiptext my_text" style="font-size:15px"> Media Neuroscience</span> </a></i>
-</span>
+#### The GDELT Interface for Communication Research (iCoRe)
 
-</div>
+In order to examine these questions, I harness the Global Database of Events, Language, and Tone [GDELT](https://www.gdeltproject.org/), a massive, constantly updated database of automatically content-analyzed news stories. For an accessible introduction to GDELT, please see our recent [publication](http://www.computationalcommunication.org/index.php/ccr/article/download/27/2).
 
+Figure 2.
+*iCoRe: The GDELT Interface for Communication Research*
+
+ <img src="symbols/icore.png" alt="Figure1" style="width: 633px; height:200px">
+
+#### Dynamic Transactions Between News Frames and Real-World Events: A Hidden Markov Model Approach
+To model the dynamic relationships between news frames and event densities, I rely on Hidden Markov Models (HMM). HMMs are a form of stochastic sequence models (comparable to finite-state machines) that allow to classify noisy sequences of observations into discrete states. By learning the stochastic dependency among these observations, HMMs can be harnessed to (a) better understand the co-occurence of news frames and event types and (b) allow to sample observations for news-event forecasting.
+
+In a recent [paper](https://www.jacobtfisher.com/assets/files/HMM_postprint.pdf), we demonstrated   that   sequences   of   frames   and   events   can   be characterized in terms of "hidden states" containing distinct moral frame and event relationships, and that these  “hidden  states”  can  forecast  future  news  frames  and  events.  This  work  serves  to  construct  a  path toward the integrated study of the news-event cycle across multiple research domain.
+
+Figure 3.
+*Heatmap of Global Terror Events*
+
+<img src="symbols/map.png" alt="Figure1" style="width: 633px; height:250px">
 

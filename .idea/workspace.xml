@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="resources page added" />
+    <list default="true" id="872f12d1-59c0-4f7f-b0b7-aa3eaf1f86fb" name="Default" comment="cv updaed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,13 +111,8 @@
       <workItem from="1587751458613" duration="1311000" />
       <workItem from="1591892091198" duration="70000" />
       <workItem from="1599774809160" duration="16737000" />
-    </task>
-    <task id="LOCAL-00257" summary="tab centered att4">
-      <created>1599776573089</created>
-      <option name="number" value="00257" />
-      <option name="presentableId" value="LOCAL-00257" />
-      <option name="project" value="LOCAL" />
-      <updated>1599776573089</updated>
+      <workItem from="1600704241855" duration="297000" />
+      <workItem from="1600778935884" duration="9000" />
     </task>
     <task id="LOCAL-00258" summary="tab centered att5">
       <created>1599776833857</created>
@@ -453,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599802014963</updated>
     </task>
-    <option name="localTasksCounter" value="306" />
+    <task id="LOCAL-00306" summary="cv updaed">
+      <created>1600704262824</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
+      <option name="project" value="LOCAL" />
+      <updated>1600704262825</updated>
+    </task>
+    <option name="localTasksCounter" value="307" />
     <servers />
   </component>
   <component name="TodoView">
@@ -500,6 +504,7 @@
     <MESSAGE value="tab centered att7" />
     <MESSAGE value="cv updated" />
     <MESSAGE value="resources page added" />
-    <option name="LAST_COMMIT_MESSAGE" value="resources page added" />
+    <MESSAGE value="cv updaed" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv updaed" />
   </component>
 </project>

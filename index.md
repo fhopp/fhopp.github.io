@@ -12,6 +12,6 @@ I am a Doctoral Candidate in the [Department of Communication at UCSB](http://ww
 
 In previous research, I examined the role of cognitive and perceptual load on multimedia processing, assessed the role of entertainment experiences for processing political messages, studied the effects of cyber-ostracism in social media environments, and explored the motivational correlates of permanent online connectedness. 
        
-My work has been published in scientific journals including _Journal of Communication_, _Computers in Human Behavior_, _Communication Methods and Measures_, _Computational Communication Research_, and _Mass Communication and Society_. I hold a Bachelor of Arts in Media Psychology with a minor in Political Science from the [University of Mannheim](http://mkw.uni-mannheim.de/) and a Master of Arts in Communication from the [University of California, Santa Barbara](https://www.ucsb.edu/).
+My work has been published in scientific journals including _Journal of Communication_, _Behavior Research Methods_, _Computers in Human Behavior_, _Communication Methods and Measures_, _Computational Communication Research_, and _Mass Communication and Society_. I hold a Bachelor of Arts in Media Psychology with a minor in Political Science from the [University of Mannheim](http://mkw.uni-mannheim.de/) and a Master of Arts in Communication from the [University of California, Santa Barbara](https://www.ucsb.edu/).
 
 </div>

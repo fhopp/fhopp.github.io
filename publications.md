@@ -2,6 +2,10 @@
 
 <div style="text-align: justify" markdown="1">
 
+[Rohm, S., **Hopp, F.R.**, & Smit, E. (2021). Exposure to serial audiovisual narratives increases empathy via vicarious interactions _Media Psychology_.](https://www.tandfonline.com/doi/full/10.1080/15213269.2021.1879654?src=)
+
+[Fisher, J., **Hopp, F.R.**, & Weber, R. (2020). A practical introduction to network neuroscience for communication researchers. _Communication Methods and Measures_, 1–20.](https://osf.io/4txuf/download?format=pdf)
+
 [**Hopp, F.R.**, Fisher, J., & Weber, R. (2020). A graph-learning approach for detecting moral conflict in movie scripts. _Media and Communication_, _8_(3), 164–179.](https://www.cogitatiopress.com/mediaandcommunication/article/view/3155)
 
 [**Hopp, F.R.**, Fisher, J., Cornell, D., Huskey, R., & Weber, R. (2020). The extended moral foundations dictionary (eMFD): Development and applications of a crowd-sourced approach to extracting moral intuitions from text. _Behavior Research Methods_.](https://psyarxiv.com/924gq/download?format=pdf) 

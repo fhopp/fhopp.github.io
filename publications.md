@@ -1,6 +1,6 @@
-<i></i>  <span class="pub_header" style="font-size:20px; text-align: center">Journal Publications </span>
+<i></i>  <span class="pub_header" style="font-size:25px">Journal Publications </span>
 
-<i></i>  <span class="pub_header" style="font-size:15px">Primary Research </span>
+<i></i>  <span class="sub_header" style="font-size:20px">Primary Research </span>
 
 <div style="text-align: justify" markdown="1">
 
@@ -30,7 +30,7 @@ ideology. _Nature Human Behavior_. [**[Preprint]**](https://assets.researchsquar
 
 </div>
 
-<i style="font-size:15px"></i>  <span class="pub_header"> Secondary Research </span>
+<i></i>  <span class="sub_header" style="font-size:20px"> Secondary Research </span>
 
 <div style="text-align: justify" markdown="1">
 

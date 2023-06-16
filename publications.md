@@ -1,6 +1,6 @@
-<i style="font-size:20px"></i>  <span class="pub_header"> Referred Journal Publications </span>
+<i style="font-size:20px; text-align: center"></i>  <span class="pub_header">Journal Publications </span>
 
-<i style="font-size:15px"></i>  <span class="pub_header"> Primary Research </span>
+<i style="font-size:12px"></i>  <span class="pub_header">Primary Research </span>
 
 <div style="text-align: justify" markdown="1">
 

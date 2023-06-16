@@ -31,21 +31,3 @@
 [Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (2014). Seriously entertained: Antecedents and consequences of hedonic and eudaimonic entertainment experiences with political talk shows on TV. _Mass Communication and Society_, 17(3), 379-399.](https://fhopp.github.io/publications/roth2014.pdf)
 
 </div>
-
----
-
-<i class="fa fa-book" style="font-size:25px"> </i>  <span class="pub_header"> Book Chapters </span>
-
-<div style="text-align: justify" markdown="1">
-
-[Weber, R., **Hopp, F.R.**, & Fisher, J. (2020). The moral narrative analyzer (MoNA): A
-platform for extracting moral emotions and conflict from messages at scale. In Neuromarketing Yearbook 2020. Neuromarketing Science & Business Association (NMSBA).](https://fhopp.github.io/publications/122.Chapter.Weber_Hopp_Fisher.NeuroYearbook_MoNA.pdf) 
-
-[**Hopp, F.R.**, & Weber, R. (2020) The state-of-the-art and future of fMRI
-methodology in communication research. In Weber, R. & Floyd, K. (Eds.) Handbook of Communication Science and Biology. New York, NY: Routledge](https://books.google.com/books?hl=en&lr=&id=4YbiDwAAQBAJ&oi=fnd&pg=PT379&dq=info:zGkReWE1dMoJ:scholar.google.com&ots=ug6U-jqJBj&sig=ZQeFHcLVJYS6eOE6TCDY84C7aDk#v=onepage&q&f=false)
-
-Fisher, J.T., Lonergan, C., **Hopp, F.R.**, & Weber, R. (in press) In Oxford Handbook of Entertainment Theory, (Eds): Vorderer, P. & Klimmt, C.
-
-Roth, F. S., Weinmann, C., Schneider, F. M., **Hopp, F. R.**, & Vorderer, P. (2016). Seriously Entertained: Antecedents and Consequences of Hedonic and Eudaimonic Entertainment Experiences With Political Talk Shows on TV. In _Entertainment Media and Politics_ (pp. 85-105). Routledge.
-
-</div>

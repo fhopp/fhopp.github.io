@@ -1,6 +1,6 @@
-<i style="font-size:20px; text-align: center"></i>  <span">Journal Publications </span>
+<i></i>  <span class="pub_header" style="font-size:20px; text-align: center">Journal Publications </span>
 
-<i style="font-size:12px"></i>  <span>Primary Research </span>
+<i></i>  <span class="pub_header" style="font-size:15px">Primary Research </span>
 
 <div style="text-align: justify" markdown="1">
 

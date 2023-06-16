@@ -1,4 +1,4 @@
-<h4 style="text-align: center">Journal Publications.</h4>
+<h4 style="text-align: center">Journal Publications</h4>
 
 ----
 

@@ -4,7 +4,7 @@
 
 • **Hopp, F. R.**, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (in press).
 Moral foundations elicit shared and dissociable cortical activation modulated by political
-ideology. _Nature Human Behavior_ [Preprint](https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974)[Code](https://github.com/medianeuroscience/mft_vignettes)
+ideology. _Nature Human Behavior_. [**[Preprint]**](https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974) [**[Code]**](https://github.com/medianeuroscience/mft_vignettes)
 
 • Fisher, J.T., **Hopp, F.R.**, Chen, Y., & Weber, R. (2023). Uncovering the structure of media
 multitasking using network analytic techniques. _Computers in Human Behavior_. [Preprint]

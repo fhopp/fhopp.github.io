@@ -1,6 +1,6 @@
 <!-- EDUCATION HEADER -->
 
-<h4 style="text-align: center; padding-top: -15px;">I study morality in media, society, and brains.</h4>
+<h4 style="text-align: center">I study morality in media, society, and brains.</h4>
 
 ---
 

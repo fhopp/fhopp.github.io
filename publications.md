@@ -1,4 +1,6 @@
-<i></i>  <span class="pub_header" style="font-size:25px">Journal Publications </span>
+<h4 style="text-align: center">Journal Publications.</h4>
+
+----
 
 <i></i>  <span class="sub_header" style="font-size:20px">Primary Research </span>
 

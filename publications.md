@@ -6,7 +6,7 @@
 
 <div style="text-align: justify" markdown="1">
 
-• **Hopp, F. R.**, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (in press).
+• **Hopp, F.R.**, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (in press).
 Moral foundations elicit shared and dissociable cortical activation modulated by political
 ideology. _Nature Human Behavior_. [**[Preprint]**](https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974) [**[Code]**](https://github.com/medianeuroscience/mft_vignettes)
 
@@ -22,11 +22,11 @@ ideology. _Nature Human Behavior_. [**[Preprint]**](https://assets.researchsquar
 
 • **Hopp, F.R.**, Fisher, J., Cornell, D., Huskey, R., & Weber, R. (2020). The extended moral foundations dictionary (eMFD): Development and applications of a crowd-sourced approach to extracting moral intuitions from text. _Behavior Research Methods_. [**[PDF]**](https://psyarxiv.com/924gq/download?format=pdf) 
 
-• **Hopp, F. R**., Fisher, J. T., & Weber, R. (2020). Dynamic transactions between news frames and sociopolitical events: An integrative, hidden markov model approach. _Journal of Communication_. [**[PDF]**](https://www.jacobtfisher.com/assets/files/HMM_postprint.pdf)
+• **Hopp, F.R**., Fisher, J. T., & Weber, R. (2020). Dynamic transactions between news frames and sociopolitical events: An integrative, hidden markov model approach. _Journal of Communication_. [**[PDF]**](https://www.jacobtfisher.com/assets/files/HMM_postprint.pdf)
 
-• Weber, R., & **Hopp, F.R** (2020). Moral emotions and conflict motivate actions. _Insights – Consumer Neuroscience in Business_. [**[PDF]**](https://fhopp.github.io/publications/moral_conflict.pdf) 
+• Weber, R., & **Hopp, F.R.** (2020). Moral emotions and conflict motivate actions. _Insights – Consumer Neuroscience in Business_. [**[PDF]**](https://fhopp.github.io/publications/moral_conflict.pdf) 
 
-• **Hopp, F. R**., Schaffer, J., Fisher, J. T., & Weber, R. (2019). iCoRe: The GDELT interface for the advancement of communication research. _Computational Communication Research_. [**[PDF]**](https://computationalcommunication.org/index.php/ccr/announcement/view/1)
+• **Hopp, F.R.**, Schaffer, J., Fisher, J. T., & Weber, R. (2019). iCoRe: The GDELT interface for the advancement of communication research. _Computational Communication Research_. [**[PDF]**](https://computationalcommunication.org/index.php/ccr/announcement/view/1)
 
 • Weber, R., Mangus, J. M., Huskey, R., **Hopp, F. R.**, Amir, O., Swanson, R., ... & Tamborini, R. (2018). Extracting latent moral information from text narratives: Relevance, challenges, and solutions. _Communication Methods and Measures_. [**[PDF]**](https://fhopp.github.io/publications/weber2018.pdf)
 
@@ -35,6 +35,8 @@ ideology. _Nature Human Behavior_. [**[Preprint]**](https://assets.researchsquar
 <i></i>  <span class="sub_header" style="font-size:20px"> Secondary Research </span>
 
 <div style="text-align: justify" markdown="1">
+
+• Youk, S., Malik, M., Chen, Y., **Hopp, F.R.**, & Weber, R. (in press). Measures of argument strength: A computational, large-scale analysis of effective persuasion in real-world debates. _Communication Methods and Measures_. 
 
 • Fisher, J.T., **Hopp, F.R.**, Chen, Y., & Weber, R. (2023). Uncovering the structure of media
 multitasking using network analytic techniques. _Computers in Human Behavior_. [**[Preprint]**](https://osf.io/upez3/download)

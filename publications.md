@@ -8,7 +8,7 @@
 
 • **Hopp, F.R.**, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (in press).
 Moral foundations elicit shared and dissociable cortical activation modulated by political
-ideology. _Nature Human Behavior_. [**[Preprint]**](https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974) [**[Code]**](https://github.com/medianeuroscience/mft_vignettes)
+ideology. [_Nature Human Behavior_](https://www.nature.com/articles/s41562-023-01693-8). [**[Preprint]**](https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974) [**[Code]**](https://github.com/medianeuroscience/mft_vignettes)
 
 • Mokhberian, N., **Hopp, F.R.**, Harandizadeh, B., Morstatter F., & Lerman, K. (2022). Noise audits improve moral foundation classification. _IEEE/ACM International Conference on Social Networks Analysis and Mining_. [**[Preprint]**](https://arxiv.org/pdf/2210.07415)
 

@@ -1,14 +1,16 @@
 <h3 style="text-align: center">Journal Publications</h3>
 
+Electronic versions are provided as a professional courtesy to ensure timely dissemination of academic work for individual, noncommercial purposes. Copyright and all rights therein resides with the respective copyright holders, as stated within each paper. These files may not be reposted without permission.  
+
 ----
 
 <i></i>  <span class="sub_header" style="font-size:20px">Primary Research </span>
 
 <div style="text-align: justify" markdown="1">
 
-• **Hopp, F.R.**, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (in press).
+• **Hopp, F.R.**, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
 Moral foundations elicit shared and dissociable cortical activation modulated by political
-ideology. [_Nature Human Behavior_](https://www.nature.com/articles/s41562-023-01693-8). [**[Preprint]**](https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974) [**[Code]**](https://github.com/medianeuroscience/mft_vignettes)
+ideology. _Nature Human Behavior_. [PDF](https://t.co/nlAQSwNI23)[**[Preprint]**](https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974) [**[Code]**](https://github.com/medianeuroscience/mft_vignettes)
 
 • Mokhberian, N., **Hopp, F.R.**, Harandizadeh, B., Morstatter F., & Lerman, K. (2022). Noise audits improve moral foundation classification. _IEEE/ACM International Conference on Social Networks Analysis and Mining_. [**[Preprint]**](https://arxiv.org/pdf/2210.07415)
 
@@ -35,6 +37,9 @@ ideology. [_Nature Human Behavior_](https://www.nature.com/articles/s41562-023-0
 <i></i>  <span class="sub_header" style="font-size:20px"> Secondary Research </span>
 
 <div style="text-align: justify" markdown="1">
+
+• Fisher, J.T., Hopp, F.R., & Weber, R. (2023). Cognitive and perceptual load have opposing
+effects on brain network efficiency and behavioural variability in ADHD. _Network Neuroscience_.[PDF](https://direct.mit.edu/netn/article/doi/10.1162/netn_a_00336/117485/Cognitive-and-Perceptual-Load-Have-Opposing)
 
 • Youk, S., Malik, M., Chen, Y., **Hopp, F.R.**, & Weber, R. (in press). Measures of argument strength: A computational, large-scale analysis of effective persuasion in real-world debates. _Communication Methods and Measures_. 
 

@@ -1,7 +1,3 @@
-<!-- EDUCATION HEADER -->
-
-<h4 style="text-align: left">About me</h4>
-
 <!-- MAIN BODY -->
 
 <div style="text-align: justify" markdown="1">

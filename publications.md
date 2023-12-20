@@ -58,7 +58,7 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 	</p>
     </div>
     <div style="margin-right: 20px;">
-        <img src="nhb_cover.png" alt="Description of the image" width="264" height="350">
+        <img src="emfd.png" alt="Description of the image" width="264" height="350">
     </div>
 </div>
 

@@ -8,8 +8,7 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <div style="text-align: justify" markdown="1">
 
-#style="display: flex; align-items: center;"
-<div style="text-align: justify" markdown="1">
+<div style="display: flex; align-items: center;">
     <div>
         • <strong>Hopp, F.R.</strong>, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
 Moral foundations elicit shared and dissociable cortical activation modulated by political

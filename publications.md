@@ -10,9 +10,13 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <div style="display: flex; align-items: center;">
     <div>
-        • <strong>Hopp, F.R.</strong>, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
-Moral foundations elicit shared and dissociable cortical activation modulated by political
-ideology. _Nature Human Behavior_. [**[PDF]**](https://t.co/nlAQSwNI23)[**[Preprint]**](https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974) [**[Code]**](https://github.com/medianeuroscience/mft_vignettes)
+         <p> • <strong>Hopp, F.R.</strong>, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
+    Moral foundations elicit shared and dissociable cortical activation modulated by political
+    ideology. <em>Nature Human Behavior</em>. 
+    <a href="https://t.co/nlAQSwNI23"><strong>[PDF]</strong></a>
+    <a href="https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974"><strong>[Preprint]</strong></a>
+    <a href="https://github.com/medianeuroscience/mft_vignettes"><strong>[Code]</strong></a>
+    </p>
     </div>
     <div style="margin-left: 20px;">
         <img src="nhb_cover.png" alt="Description of the image" width="264" height="350">

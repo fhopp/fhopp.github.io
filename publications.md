@@ -28,7 +28,7 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 	</p>
     </div>
     <div style="margin-left: 20px;">
-        <img src="nhb_cover.png" alt="Description of the image" style="max-width: 100%; height: auto;">
+        <img src="nhb_cover.png" alt="Description of the image" style="max-width: 80%; height: auto;">
     </div>
 </div>
 
@@ -40,7 +40,7 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 20px;">
-        <img src="emfd.png" alt="Description of the image" width="264" height="350">
+        <img src="emfd.png" alt="Description of the image" style="max-width: 80%; height: auto;">
     </div>
     <div>
     	<p> • <strong>Hopp, F.R.</strong>, Fisher, J., Cornell, D., Huskey, R., & Weber, R. (2020).

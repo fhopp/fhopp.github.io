@@ -38,7 +38,29 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 • **Hopp, F.R.**, Fisher, J., & Weber, R. (2020). A graph-learning approach for detecting moral conflict in movie scripts. _Media and Communication_. [**[PDF]**](https://www.cogitatiopress.com/mediaandcommunication/article/view/3155)
 
-• **Hopp, F.R.**, Fisher, J., Cornell, D., Huskey, R., & Weber, R. (2020). The extended moral foundations dictionary (eMFD): Development and applications of a crowd-sourced approach to extracting moral intuitions from text. _Behavior Research Methods_. [**[PDF]**](https://psyarxiv.com/924gq/download?format=pdf) 
+<div style="display: flex; align-items: center;">
+    <div>
+         <p>
+    • <strong>Hopp, F.R.</strong>, Fisher, J., Cornell, D., Huskey, R., & Weber, R. (2020).
+    The extended moral foundations dictionary (eMFD): Development and applications of a crowd-sourced approach to extracting moral intuitions from text.
+    <em>Behavior Research Methods</em>. 
+    <a href="https://psyarxiv.com/924gq/download?format=pdf"><strong>[PDF]</strong></a>
+    </p>
+
+    <p>
+    • Mokhberian, N., <strong>Hopp, F.R.</strong>, Harandizadeh, B., Morstatter F., & Lerman, K. (2022). 
+    Noise audits improve moral foundation classification. <em>IEEE/ACM International Conference on Social Networks Analysis and Mining</em>. 
+    <a href="https://arxiv.org/pdf/2210.07415"><strong>[Preprint]</strong></a>
+	</p>
+	<p>
+    • <strong>Hopp, F.R.</strong>, & Weber, R. (2021). 
+    Reflections on extracting moral foundations from media content. <em>Communication Monographs</em>.
+	</p>
+    </div>
+    <div style="margin-right: 20px;">
+        <img src="nhb_cover.png" alt="Description of the image" width="264" height="350">
+    </div>
+</div>
 
 • **Hopp, F.R**., Fisher, J. T., & Weber, R. (2020). Dynamic transactions between news frames and sociopolitical events: An integrative, hidden markov model approach. _Journal of Communication_. [**[PDF]**](https://www.jacobtfisher.com/assets/files/HMM_postprint.pdf)
 

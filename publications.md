@@ -26,15 +26,11 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
     • <strong>Hopp, F.R.</strong>, & Weber, R. (2021). 
     Reflections on extracting moral foundations from media content. <em>Communication Monographs</em>.
 	</p>
-
     </div>
     <div style="margin-left: 20px;">
         <img src="nhb_cover.png" alt="Description of the image" width="264" height="350">
     </div>
 </div>
-
-
-• **Hopp, F.R.**, & Weber, R. (2021). Reflections on extracting moral foundations from media content. _Communication Monographs_.
 
 • **Hopp, F.R.**, & Weber, R. (2021). Rejoinder: How methodological decisions impact the validity of moral content analyses. _Communication Monographs_.
 

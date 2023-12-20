@@ -8,22 +8,16 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <div style="text-align: justify" markdown="1">
 
-<div style="display: flex; align-items: center;">
+#style="display: flex; align-items: center;"
+<div style="text-align: justify" markdown="1">
     <div>
-        • **Hopp, F.R.**, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
+        • <strong>Hopp, F.R.</strong>, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
 Moral foundations elicit shared and dissociable cortical activation modulated by political
 ideology. _Nature Human Behavior_. [**[PDF]**](https://t.co/nlAQSwNI23)[**[Preprint]**](https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974) [**[Code]**](https://github.com/medianeuroscience/mft_vignettes)
     </div>
     <div style="margin-left: 20px;">
         <img src="nhb_cover.png" alt="Description of the image" width="264" height="350">
     </div>
-</div>
-
-• **Hopp, F.R.**, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
-Moral foundations elicit shared and dissociable cortical activation modulated by political
-ideology. _Nature Human Behavior_. [**[PDF]**](https://t.co/nlAQSwNI23)[**[Preprint]**](https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974) [**[Code]**](https://github.com/medianeuroscience/mft_vignettes)
-<div style="margin-left: 20px;">
-        <img src="nhb_cover.png" alt="Description of the image" width="264" height="350">
 </div>
 
 • Mokhberian, N., **Hopp, F.R.**, Harandizadeh, B., Morstatter F., & Lerman, K. (2022). Noise audits improve moral foundation classification. _IEEE/ACM International Conference on Social Networks Analysis and Mining_. [**[Preprint]**](https://arxiv.org/pdf/2210.07415)
@@ -52,8 +46,8 @@ ideology. _Nature Human Behavior_. [**[PDF]**](https://t.co/nlAQSwNI23)[**[Prepr
 
 <div style="text-align: justify" markdown="1">
 
-• Fisher, J.T., Hopp, F.R., & Weber, R. (2023). Cognitive and perceptual load have opposing
-effects on brain network efficiency and behavioural variability in ADHD. _Network Neuroscience_.[PDF](https://direct.mit.edu/netn/article/doi/10.1162/netn_a_00336/117485/Cognitive-and-Perceptual-Load-Have-Opposing)
+• Fisher, J.T., **Hopp, F.R.**, & Weber, R. (2023). Cognitive and perceptual load have opposing
+effects on brain network efficiency and behavioural variability in ADHD. _Network Neuroscience_. [**[PDF]**](https://direct.mit.edu/netn/article/doi/10.1162/netn_a_00336/117485/Cognitive-and-Perceptual-Load-Have-Opposing)
 
 • Youk, S., Malik, M., Chen, Y., **Hopp, F.R.**, & Weber, R. (in press). Measures of argument strength: A computational, large-scale analysis of effective persuasion in real-world debates. _Communication Methods and Measures_. 
 

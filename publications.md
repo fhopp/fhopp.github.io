@@ -22,6 +22,10 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
     Noise audits improve moral foundation classification. <em>IEEE/ACM International Conference on Social Networks Analysis and Mining</em>. 
     <a href="https://arxiv.org/pdf/2210.07415"><strong>[Preprint]</strong></a>
 	</p>
+	<p>
+    • <strong>Hopp, F.R.</strong>, & Weber, R. (2021). 
+    Reflections on extracting moral foundations from media content. <em>Communication Monographs</em>.
+	</p>
 
     </div>
     <div style="margin-left: 20px;">

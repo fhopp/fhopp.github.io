@@ -28,7 +28,7 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 	</p>
     </div>
     <div style="margin-left: 20px;">
-        <img src="nhb_cover.png" alt="Description of the image" width="264" height="350">
+        <img src="nhb_cover.png" alt="Description of the image" style="max-width: 100%; height: auto;">
     </div>
 </div>
 

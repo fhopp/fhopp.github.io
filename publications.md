@@ -6,6 +6,8 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <i></i>  <span class="sub_header" style="font-size:20px">Primary Research </span>
 
+<img src="nhb_cover.png" alt="Description of the image" width="264" height="350">
+
 <div style="text-align: justify" markdown="1">
 
 • **Hopp, F.R.**, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).

@@ -42,12 +42,12 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
     <div style="margin-right: 20px;">
         <img src="emfd.png" alt="Description of the image" width="264" height="350">
     </div>
-         <p>
-    • <strong>Hopp, F.R.</strong>, Fisher, J., Cornell, D., Huskey, R., & Weber, R. (2020).
+    <div>
+    	<p> • <strong>Hopp, F.R.</strong>, Fisher, J., Cornell, D., Huskey, R., & Weber, R. (2020).
     The extended moral foundations dictionary (eMFD): Development and applications of a crowd-sourced approach to extracting moral intuitions from text.
     <em>Behavior Research Methods</em>. 
     <a href="https://psyarxiv.com/924gq/download?format=pdf"><strong>[PDF]</strong></a>
-    </p>
+    	</p>
     <p>
     • Mokhberian, N., <strong>Hopp, F.R.</strong>, Harandizadeh, B., Morstatter F., & Lerman, K. (2022). 
     Noise audits improve moral foundation classification. <em>IEEE/ACM International Conference on Social Networks Analysis and Mining</em>. 

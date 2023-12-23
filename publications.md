@@ -34,8 +34,6 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 • **Hopp, F.R.**, & Weber, R. (2021). Reflections on extracting moral foundations from media content. _Communication Monographs_.
 
-• Mokhberian, N., **Hopp, F.R.**, Harandizadeh, B., Morstatter F., & Lerman, K. (2022). Noise audits improve moral foundation classification. _IEEE/ACM International Conference on Social Networks Analysis and Mining_. [**[Preprint]**](https://arxiv.org/pdf/2210.07415)
-
 • **Hopp, F.R.**, & Weber, R. (2021). Rejoinder: How methodological decisions impact the validity of moral content analyses. _Communication Monographs_.
 
 • Malik, M., **Hopp, F.R.**, Chen, Y., & Weber, R. (2021). Does regional variation in pathogen prevalence predict the moralization of COVID-19 in online news? _Journal of Language and Social Psychology_. [**[PDF]**](https://journals.sagepub.com/doi/pdf/10.1177/0261927X211044194)

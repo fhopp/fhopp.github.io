@@ -4,8 +4,8 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 ----
 
-<div class="header-container">
-    <span class="sub_header" style="font-size:20px align-items: flex-start;" >Moral Reasoning in the Brain </span>
+<div class="header-container" style="align-items: flex-start;">
+    <span class="sub_header" style="font-size:20px" >Moral Reasoning in the Brain </span>
     <img src="nhb_cover.png" alt="Description of the image" style="float: left; width: 50%; height: auto;">
     <div style="text-align: justify">
         <strong>Moral intuitions elicit dissociable cortical activation.</strong>

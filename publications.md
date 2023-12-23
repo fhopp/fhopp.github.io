@@ -23,6 +23,8 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <div style="text-align: justify" markdown="1">
 
+• **Hopp, F. R.**, Fisher, J. T., Cornell, D., Huskey, R., & Weber, R. (2021). The extended Moral Foundations Dictionary (eMFD): Development and applications of a crowd-sourced approach to extracting moral intuitions from text. _Behavior Research Methods_.
+
 • **Hopp, F.R.**, & Weber, R. (2021). Reflections on extracting moral foundations from media content. _Communication Monographs_.
 
 • **Hopp, F.R.**, & Weber, R. (2021). Rejoinder: How methodological decisions impact the validity of moral content analyses. _Communication Monographs_.
@@ -30,24 +32,6 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 • Malik, M., **Hopp, F.R.**, Chen, Y., & Weber, R. (2021). Does regional variation in pathogen prevalence predict the moralization of COVID-19 in online news? _Journal of Language and Social Psychology_. [**[PDF]**](https://journals.sagepub.com/doi/pdf/10.1177/0261927X211044194)
 
 • **Hopp, F.R.**, Fisher, J., & Weber, R. (2020). A graph-learning approach for detecting moral conflict in movie scripts. _Media and Communication_. [**[PDF]**](https://www.cogitatiopress.com/mediaandcommunication/article/view/3155)
-
-<div style="display: flex; align-items: flex-start;">
-    <div style="margin-right: 20px;">
-        <img src="emfd.png" alt="Description of the image" style="max-width: 100%; height: auto;">
-    </div>
-    <div>
-    	<span class="sub_header" style="font-size:20px" >This is a test</span>
-    <p>
-    • Mokhberian, N., <strong>Hopp, F.R.</strong>, Harandizadeh, B., Morstatter F., & Lerman, K. (2022). 
-    Noise audits improve moral foundation classification. <em>IEEE/ACM International Conference on Social Networks Analysis and Mining</em>. 
-    <a href="https://arxiv.org/pdf/2210.07415"><strong>[Preprint]</strong></a>
-	</p>
-	<p>
-    • <strong>Hopp, F.R.</strong>, & Weber, R. (2021). 
-    Reflections on extracting moral foundations from media content. <em>Communication Monographs</em>.
-	</p>
-    </div>
-</div>
 
 • **Hopp, F.R**., Fisher, J. T., & Weber, R. (2020). Dynamic transactions between news frames and sociopolitical events: An integrative, hidden markov model approach. _Journal of Communication_. [**[PDF]**](https://www.jacobtfisher.com/assets/files/HMM_postprint.pdf)
 

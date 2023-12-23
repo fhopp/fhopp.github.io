@@ -4,12 +4,16 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 ----
 
-<i></i>  <span class="sub_header" style="font-size:20px">Primary Research </span>
+<i></i>  <span class="sub_header" style="font-size:20px">Moral Reasoning in the Brain </span>
+
+**Moral foundations elicit shared and dissociable cortical activation modulated by political ideology.**
+
+Moral foundations theory (MFT) holds that moral judgements are driven by modular and ideologically variable moral foundations but where and how these foundations are represented in the brain and shaped by political beliefs remains an open question. Using a moral vignette judgement task (n=64), we probed the neural (dis)unity of moral foundations. Univariate analyses revealed that moral judgement of moral foundations, versus conventional norms, reliably recruits core areas implicated in theory of mind. Yet, multivariate pattern analysis demonstrated that each moral foundation elicits dissociable neural representations distributed throughout the cortex. As predicted by MFT, individuals’ liberal or conservative orientation modulated neural responses to moral foundations. Our results confirm that each moral foundation recruits domain-general mechanisms of social cognition but also has a dissociable neural signature malleable by sociomoral experience. We discuss these findings in view of unified versus dissociable accounts of morality and their neurological support for MFT.
 
 <div style="display: flex; align-items: flex-start;">
     <div>
         <p> 
-            • <strong>Hopp, F.R.</strong>, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
+            • <strong>Moral Reasoning in the Brain</strong>, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
             Moral foundations elicit shared and dissociable cortical activation modulated by political
             ideology. <em>Nature Human Behavior</em>. 
             <a href="https://t.co/nlAQSwNI23"><strong>[PDF]</strong></a>

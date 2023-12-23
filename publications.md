@@ -7,7 +7,7 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 <i></i>  <span class="sub_header" style="font-size:20px">Primary Research </span>
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
-    <div>
+    <div style="flex: 1;">
          <p> • <strong>Hopp, F.R.</strong>, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
     Moral foundations elicit shared and dissociable cortical activation modulated by political
     ideology. <em>Nature Human Behavior</em>. 
@@ -20,7 +20,7 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
     <a href="https://arxiv.org/pdf/2210.07415"><strong>[Preprint]</strong></a>
 	</p>
     </div>
-    <div style="margin-left: 20px;">
+    <div style="flex: 0 0 auto; margin-right: 20px;">
         <img src="nhb_cover.png" alt="Description of the image" style="max-width: 80%; height: auto;">
     </div>
 </div>

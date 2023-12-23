@@ -6,7 +6,10 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <div class="header-container">
     
-    <span class="sub_header" style="font-size:20px" >Moral Reasoning in the Brain</span>
+    <span class="sub_header" style="font-size:20px">
+        <a href="https://www.nature.com/articles/s41562-023-01693-8">Moral Reasoning in the Brain</a>
+    </span>
+
     
     <img src="nhb_cover.png" alt="Description of the image" style="float: left; width: 40%; height: auto;">
     
@@ -17,29 +20,6 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
     </div>
 
 </div>
-
-
-<div style="display: flex; align-items: flex-start;">
-    <div>
-        <p> 
-            • <strong>Moral Reasoning in the Brain</strong>, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
-            Moral foundations elicit shared and dissociable cortical activation modulated by political
-            ideology. <em>Nature Human Behavior</em>. 
-            <a href="https://t.co/nlAQSwNI23"><strong>[PDF]</strong></a>
-            <a href="https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974"><strong>[Preprint]</strong></a>
-            <a href="https://github.com/medianeuroscience/mft_vignettes"><strong>[Code]</strong></a>
-        </p>
-        <p>
-            • Mokhberian, N., <strong>Hopp, F.R.</strong>, Harandizadeh, B., Morstatter F., & Lerman, K. (2022). 
-            Noise audits improve moral foundation classification. <em>IEEE/ACM International Conference on Social Networks Analysis and Mining</em>. 
-            <a href="https://arxiv.org/pdf/2210.07415"><strong>[Preprint]</strong></a>
-        </p>
-    </div>
-    
-</div>
-
-
-
 
 <div style="text-align: justify" markdown="1">
 

@@ -15,22 +15,17 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
     <a href="https://assets.researchsquare.com/files/rs-2133317/v1/352315f4-2fe3-4602-85f7-52b04eac26c9.pdf?c=1666114974"><strong>[Preprint]</strong></a>
     <a href="https://github.com/medianeuroscience/mft_vignettes"><strong>[Code]</strong></a>
     </p>
-    <p>
-    • Mokhberian, N., <strong>Hopp, F.R.</strong>, Harandizadeh, B., Morstatter F., & Lerman, K. (2022). 
-    Noise audits improve moral foundation classification. <em>IEEE/ACM International Conference on Social Networks Analysis and Mining</em>. 
-    <a href="https://arxiv.org/pdf/2210.07415"><strong>[Preprint]</strong></a>
-	</p>
-	<p>
-    • <strong>Hopp, F.R.</strong>, & Weber, R. (2021). 
-    Reflections on extracting moral foundations from media content. <em>Communication Monographs</em>.
-	</p>
     </div>
     <div style="margin-left: 20px;">
-        <img src="nhb_cover.png" alt="Description of the image" style="max-width: 100%; height: auto;">
+        <img src="nhb_cover.png" alt="Description of the image" style="max-width: 80%; height: auto;">
     </div>
 </div>
 
 <div style="text-align: justify" markdown="1">
+
+• Mokhberian, N., **Hopp, F.R.**, Harandizadeh, B., Morstatter F., & Lerman, K. (2022). Noise audits improve moral foundation classification. _IEEE/ACM International Conference on Social Networks Analysis and Mining_. [**[Preprint]**](https://arxiv.org/pdf/2210.07415)
+
+• **Hopp, F.R.**, & Weber, R. (2021). Reflections on extracting moral foundations from media content. _Communication Monographs_.
 
 • **Hopp, F.R.**, & Weber, R. (2021). Rejoinder: How methodological decisions impact the validity of moral content analyses. _Communication Monographs_.
 

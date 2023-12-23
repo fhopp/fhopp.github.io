@@ -6,8 +6,6 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <i></i>  <span class="sub_header" style="font-size:20px">Primary Research </span>
 
-<div style="text-align: justify" markdown="1">
-
 <div style="display: flex; align-items: center;">
     <div>
          <p> • <strong>Hopp, F.R.</strong>, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
@@ -27,10 +25,12 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
     Reflections on extracting moral foundations from media content. <em>Communication Monographs</em>.
 	</p>
     </div>
-    <div style="padding-left: 15px">
+    <div style="margin-left: 20px;">
         <img src="nhb_cover.png" alt="Description of the image" width="264" height="350">
     </div>
 </div>
+
+<div style="text-align: justify" markdown="1">
 
 • **Hopp, F.R.**, & Weber, R. (2021). Rejoinder: How methodological decisions impact the validity of moral content analyses. _Communication Monographs_.
 

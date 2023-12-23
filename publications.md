@@ -6,9 +6,11 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <i></i>  <span class="sub_header" style="font-size:20px">Primary Research </span>
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
-    <!-- Container for the points and links -->
-    <div style="display: flex; flex-direction: column; flex-shrink: 0; width: calc(100% - 200px);"> 
+<div style="display: grid; grid-template-columns: auto 1fr; align-items: start; gap: 20px;">
+    <div>
+        <img src="nhb_cover.png" alt="Description of the image" style="max-width: 80%; height: auto;">
+    </div>
+    <div>
         <p> 
             • <strong>Hopp, F.R.</strong>, Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023).
             Moral foundations elicit shared and dissociable cortical activation modulated by political
@@ -23,11 +25,8 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
             <a href="https://arxiv.org/pdf/2210.07415"><strong>[Preprint]</strong></a>
         </p>
     </div>
-    <!-- Image container -->
-    <div style="margin-left: 20px; flex-shrink: 0;">
-        <img src="nhb_cover.png" alt="Description of the image" style="max-width: 80%; height: auto;">
-    </div>
 </div>
+
 
 
 <div style="text-align: justify" markdown="1">

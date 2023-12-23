@@ -27,7 +27,7 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
     Reflections on extracting moral foundations from media content. <em>Communication Monographs</em>.
 	</p>
     </div>
-    <div style="margin-left: 20px;">
+    <div style="padding-left: 15px">
         <img src="nhb_cover.png" alt="Description of the image" width="264" height="350">
     </div>
 </div>

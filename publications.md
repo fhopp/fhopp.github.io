@@ -38,9 +38,9 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 • **Hopp, F.R.**, Fisher, J., & Weber, R. (2020). A graph-learning approach for detecting moral conflict in movie scripts. _Media and Communication_. [**[PDF]**](https://www.cogitatiopress.com/mediaandcommunication/article/view/3155)
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
     <div style="margin-right: 20px;">
-        <img src="emfd.png" alt="Description of the image" width="264" height="350">
+        <img src="emfd.png" alt="Description of the image" style="max-width: 80%; height: auto;">
     </div>
     <div>
     	<p> • <strong>Hopp, F.R.</strong>, Fisher, J., Cornell, D., Huskey, R., & Weber, R. (2020).

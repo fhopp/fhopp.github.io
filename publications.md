@@ -5,9 +5,10 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 ----
 
 <div class="image_box">
-    <img src="https://via.placeholder.com/60x60">
-    <span style="">Works.</span>
+    <img src="nhb_cover.png" style="width: 40%; height: auto;">
+    <span style="">Moral Reasoning in the Brain</span>
 </div>
+
 
 <div class="header-container">
     <span class="sub_header" style="font-size:20px">

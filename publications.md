@@ -4,9 +4,9 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 ----
 
-<div class="image-caption-container">
-    <img src="nhb_cover.png" alt="Description of the image">
-    <h1 class="image-caption">Moral Reasoning in the Brain</h1>
+<div class="image_box">
+    <img src="https://via.placeholder.com/60x60">
+    <span style="">Works.</span>
 </div>
 
 <div class="header-container">

@@ -172,19 +172,7 @@
     color: #CFCCCC;
 }
 
-
-.image-caption-container {
-    overflow: hidden; /* Clear any potential float issues */
+.image_box {
+   display: flex;
+   align-items:center;
 }
-
-.image-caption-container img {
-    float: left; /* Float the image to the left */
-    margin-right: 20px; /* Add some space between the image and the headline */
-}
-
-.image-caption {
-    margin-top: 0; /* Remove any default margins */
-    background-color: rgba(255, 255, 255, 0.7); /* Add a background color to make the text readable */
-    padding: 5px 10px; /* Add some padding for better appearance */
-}
-

@@ -16,7 +16,6 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 </div>
 
 
-
 <div style="text-align: justify" markdown="1">
 
 • **Hopp, F. R.**, Fisher, J. T., Cornell, D., Huskey, R., & Weber, R. (2021). The extended Moral Foundations Dictionary (eMFD): Development and applications of a crowd-sourced approach to extracting moral intuitions from text. _Behavior Research Methods_.

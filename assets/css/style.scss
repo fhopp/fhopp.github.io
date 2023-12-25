@@ -173,22 +173,23 @@
 }
 
 .image_container {
-    display: inline-block; /* Make the container take only as much width as its content */
+    display: flex;
+    flex-direction: row; /* Items will be in a row */
+    align-items: flex-start; /* Align items to the top of the container */
     width: 100%; /* Adjust as necessary */
 }
 
 .image_fixed {
-    float: left;
     width: 40%;  /* Adjust based on your preference */
     height: auto;
     margin-right: 10px;
 }
 
 .text_container {
-    display: inline-block; /* Allow it to sit next to the floated image */
-    width: 56%;  /* Adjust to ensure it takes up the remaining width */
+    width: 56%;  /* Adjust based on your preference */
     box-sizing: border-box;
 }
+
 
 
 

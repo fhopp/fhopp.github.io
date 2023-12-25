@@ -6,20 +6,12 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <div class="image_box">
     <img src="nhb_cover.png" style="width: 40%; height: auto">
-    <a href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="padding-left: 10px; padding-top: 15px; color: black; text-decoration: underline; font-weight: bold">Moral Reasoning in the Brain</a>
-</div>
-
-
-<div class="header-container">
-    <span class="sub_header" style="font-size:20px">
-        <a href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="color: black; text-decoration: underline">Moral Reasoning in the Brain</a>
-    </span>
-    <img src="nhb_cover.png" alt="Description of the image" style="float: left; width: 40%; height: auto;">
+    <a href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="padding-left: 10px; padding-top: 12px; color: black; text-decoration: underline; font-weight: bold">Moral Reasoning in the Brain</a>
     <div style="text-align: justify">
-        <strong>Moral intuitions elicit dissociable cortical activation.</strong>
-        <p>Moral foundations theory (MFT) holds that moral judgements are driven by modular and ideologically variable moral foundations but where and how these foundations are represented in the brain and shaped by political beliefs remains an open question. Using a moral vignette judgement task (n=64), we probed the neural (dis)unity of moral foundations. Univariate analyses revealed that moral judgement of moral foundations, versus conventional norms, reliably recruits core areas implicated in theory of mind. Yet, multivariate pattern analysis demonstrated that each moral foundation elicits dissociable neural representations distributed throughout the cortex. As predicted by MFT, individuals’ liberal or conservative orientation modulated neural responses to moral foundations. Our results confirm that each moral foundation recruits domain-general mechanisms of social cognition but also has a dissociable neural signature malleable by sociomoral experience. We discuss these findings in view of unified versus dissociable accounts of morality and their neurological support for MFT.</p>
+        <p>This is just a test. </p>
     </div>
 </div>
+
 
 <div style="text-align: justify" markdown="1">
 

@@ -7,11 +7,10 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 <div class="image_box" style="display: flex; align-items: flex-start">
     <img src="nhb_cover.png" style="width: 40%; height: auto">
     <a href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="padding-left: 10px; padding-top: 12px; color: black; text-decoration: underline; font-weight: bold">Moral Reasoning in the Brain</a>
+    <p style="padding-left: 10px; color: gray;">Your additional text here.</p>
 </div>
 
-<div style="text-align: justify">
-        <p>This is just a test. </p>
-    </div> 
+
 
 
 <div style="text-align: justify" markdown="1">

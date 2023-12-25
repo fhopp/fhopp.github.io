@@ -4,6 +4,11 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 ----
 
+<div class="image-container">
+    <img src="nhb_cover.png" alt="Description of the image">
+    <h1 class="image-caption">Moral Reasoning in the Brain</h1>
+</div>
+
 <div class="header-container">
     <span class="sub_header" style="font-size:20px">
         <a href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="color: black; text-decoration: underline">Moral Reasoning in the Brain</a>

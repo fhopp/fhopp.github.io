@@ -9,17 +9,15 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 <img src="nhb_cover.png" style="float:right; margin-left:10px; width: 40%; height: auto;">
 <a href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="color: black; text-decoration: underline; font-weight: bold">Moral Reasoning in the Brain</a>
 <p style="text-align: justify;"><strong>Moral Foundations Elicit Shared and Dissociable Cortical Activation</strong><br>Moral foundations theory posits that there are five or six universal groups of moral intuitions (that is, ‘foundations’), each of which is served by functionally specialized, dissociable cognitive mechanisms. We probed the neural (dis)unity of moral foundations theory and report that each moral foundation recruits domain-general mechanisms of social cognition, but also has a dissociable neural signature that is malleable by sociomoral experience.</p>
-<div style="clear:both; margin-bottom: 20px;"></div>
+<div style="clear:both; margin-bottom: 50px;"></div>
 
 <img src="emfd.png" style="float:left; margin-right:10px; width: 60%; height: auto;">
-<a href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="color: black; text-decoration: underline; font-weight: bold">Extended Moral Foundations Dictionary (eMFD)</a>
+<a href="https://link.springer.com/article/10.3758/s13428-020-01433-0" target="_blank" style="color: black; text-decoration: underline; font-weight: bold">Extended Moral Foundations Dictionary (eMFD)</a>
 <p style="text-align: justify;"><strong>Developing a crowd-sourced approach to extracting moral intuitions from text</strong><br>Moral foundations theory posits that there are five or six universal groups of moral intuitions (that is, ‘foundations’), each of which is served by functionally specialized, dissociable cognitive mechanisms. We probed the neural (dis)unity of moral foundations theory and report that each moral foundation recruits domain-general mechanisms of social cognition, but also has a dissociable neural signature that is malleable by sociomoral experience.</p>
 <div style="clear:both;"></div>
 
 
 <div style="text-align: justify" markdown="1">
-
-• **Hopp, F. R.**, Fisher, J. T., Cornell, D., Huskey, R., & Weber, R. (2021). The extended Moral Foundations Dictionary (eMFD): Development and applications of a crowd-sourced approach to extracting moral intuitions from text. _Behavior Research Methods_.
 
 • **Hopp, F.R.**, & Weber, R. (2021). Reflections on extracting moral foundations from media content. _Communication Monographs_.
 

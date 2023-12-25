@@ -172,22 +172,20 @@
     color: #CFCCCC;
 }
 
-.image_container {
-    display: flex;
-    align-items: flex-start; /* Align items to the top of the container */
-    width: 100%; /* Adjust as necessary */
-}
-
 .image_fixed {
     float: left;
-    width: 40%;  /* Adjust based on your preference */
+    width: 40%;
     height: auto;
     margin-right: 10px;
 }
 
 .text_container {
-    flex: 1; /* Allow the container to grow and take up remaining space */
+    margin-left: 50%; /* Adjust this value to ensure it starts right after the image */
     box-sizing: border-box;
+}
+
+.clear {
+    clear: both;
 }
 
 

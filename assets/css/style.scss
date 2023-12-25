@@ -173,7 +173,7 @@
 }
 
 .image_container {
-    display: block;
+    display: flex;
     align-items: flex-start;
     margin-right: 10px;
 }
@@ -189,7 +189,6 @@
     float: left;
     width: 60%;
     padding-top: 12px;
-    box-sizing: border-box;
     margin-left: 10px; /* Add margin to create a gap between the image and the text */
 }
 

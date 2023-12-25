@@ -17,13 +17,9 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 
 <a href="https://www.tandfonline.com/doi/full/10.1080/03637751.2021.1963513?casa_token=q42-8Fof3igAAAAA%3A1v325DJlsgDJvaRHPdxZpkPevRf7PxNFgjk1ZTiKPTQVs1a6VMef05RF4kJu4KFxgMgxcGi5PXqN" target="_blank" style="color: black; text-decoration: underline; font-weight: bold">Reflections on Extracting Morality from Texts</a>
-<p style="text-align: justify;"><strong>How Methodological Decisions Impact Moral Content Analyses</strong><br>The valid extraction of moral information from media content is a critical step toward understanding the dynamic transactions between moral frames and real-world events. Considering the numerous implications of this important work, we provide a commentary on recent approached and procedures. We hope that our commentary contributes additional insights into the challenges and state-of-the-art of moral content codings.</p>
+<p style="text-align: justify;"><strong>How Methodological Decisions Impact Moral Content Analyses</strong><br>The valid extraction of moral information from media content is a critical step toward understanding the dynamic transactions between moral frames and real-world events. Considering the numerous implications of this important work, we provide a commentary on recent approaches and procedures. We hope that our commentary contributes additional insights into the challenges and state-of-the-art of moral content codings.</p>
 
 <div style="text-align: justify" markdown="1">
-
-• **Hopp, F.R.**, & Weber, R. (2021). Reflections on extracting moral foundations from media content. _Communication Monographs_.
-
-• **Hopp, F.R.**, & Weber, R. (2021). Rejoinder: How methodological decisions impact the validity of moral content analyses. _Communication Monographs_.
 
 • Malik, M., **Hopp, F.R.**, Chen, Y., & Weber, R. (2021). Does regional variation in pathogen prevalence predict the moralization of COVID-19 in online news? _Journal of Language and Social Psychology_. [**[PDF]**](https://journals.sagepub.com/doi/pdf/10.1177/0261927X211044194)
 

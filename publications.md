@@ -6,6 +6,10 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <i></i>  <span class="sub_header" style="font-size:20px"> Primary Research </span>
 
+<img src="nhb_cover.png" style="float:right; margin-left:10px; width: 40%; height: auto;">
+<p style="text-align: justify;"><strong>Moral Foundations Elicit Shared and Dissociable Cortical Activation</strong><br>Moral foundations theory posits that there are five or six universal groups of moral intuitions (that is, ‘foundations’), each of which is served by functionally specialized, dissociable cognitive mechanisms. We probed the neural (dis)unity of moral foundations theory and report that each moral foundation recruits domain-general mechanisms of social cognition, but also has a dissociable neural signature that is malleable by sociomoral experience.</p>
+<div style="clear:both;"></div>
+
 
 <div class="image_container">
     <img src="nhb_cover.png" class="image_fixed">

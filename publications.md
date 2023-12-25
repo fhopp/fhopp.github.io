@@ -4,7 +4,7 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 ----
 
-<p><img align="right" src="nhb_cover.png" style="padding-left: 15px"></p>
+<p><img class="image_fixed" src="nhb_cover.png"></p>
 
 <h3><a href="https://www.deepmind.com/blog/article/Competitive-programming-with-AlphaCode">AlphaCode</a> (<a href="https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf">pdf</a>, <a href="/blog/2022/02/02/competitive-programming-with-alphacode/">blog</a>)</h3>
 

@@ -189,4 +189,13 @@
     box-sizing: border-box;  /* Ensure padding and border are included in the width */
 }
 
+#container{
+    width: 400px;
+    background: yellow;
+}
+#floated{
+    float: left;
+    width: 150px;
+    background: red;
+}
 

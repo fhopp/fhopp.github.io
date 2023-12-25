@@ -5,12 +5,11 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 ----
 <div class="image_container">
     <img src="nhb_cover.png" class="image_fixed">
-    <div class="text_container" style="padding-left: 10px; padding-top: 12px">
+    <div class="text_container">
         <a href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="color: black; text-decoration: underline; font-weight: bold">Moral Reasoning in the Brain</a>
         <p style="color: gray;">Moral foundations theory posits that there are five or six universal groups of moral intuitions (that is, ‘foundations’), each of which is served by functionally specialized, dissociable cognitive mechanisms. Hopp et al. probe the neural (dis)unity of moral foundations theory and report that each moral foundation recruits domain-general mechanisms of social cognition, but also has a dissociable neural signature that is malleable by sociomoral experience.</p>
     </div>
 </div>
-
 
 
 

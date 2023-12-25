@@ -180,9 +180,11 @@
 .image_fixed {
     width: 40%;  /* Fixed width for the image */
     height: auto;
+    margin-right: 10px;  /* Create space between the image and text */
 }
 
 .text_container {
     flex-grow: 1;  /* Allows the text container to grow and occupy remaining space */
-    padding-left: 10px;
+    padding-top: 12px; /* Align the text with the top of the image */
 }
+

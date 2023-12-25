@@ -186,9 +186,14 @@
 
 .text_container {
     float: left;
-    width: 56%;  /* Adjust to ensure it sums up to less than or equal to 60% (image width + margin) */
+    width: calc(60% - 10px);  /* 60% of container width minus the margin */
     box-sizing: border-box;
 }
+
+.clear {
+    clear: both;
+}
+
 
 
 

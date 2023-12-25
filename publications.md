@@ -6,7 +6,7 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 <div class="image_box">
     <img src="nhb_cover.png" style="width: 40%; height: auto">
-    <span style="padding-left: 10px; padding-top: 10px;">Moral Reasoning in the Brain</span>
+    <h2 href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="padding-left: 10px; padding-top: 10px;color: black; text-decoration: underline">Moral Reasoning in the Brain</span>
 </div>
 
 

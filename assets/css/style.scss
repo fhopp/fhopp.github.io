@@ -185,8 +185,14 @@
 
 .text_container {
     width: 60%;  /* Fixed width for the text container, complementary to the image width */
-    padding-top: 12px; /* Align the text with the top of the image */
     box-sizing: border-box;  /* Ensure padding and border are included in the width */
+    position: relative;  /* Position the text container relative to its natural position */
+    overflow: hidden;  /* Hide overflow to ensure the text doesn't spill out */
 }
+
+.text_container p {
+    margin-top: -50%;  /* Negative margin to pull the text up, compensating for its height */
+}
+
 
 

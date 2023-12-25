@@ -178,6 +178,7 @@
 }
 
 .image_fixed {
+    float: left;
     width: 40%;  /* Fixed width for the image */
     height: auto;
     margin-right: 10px;  /* Create space between the image and text */
@@ -187,11 +188,5 @@
     width: 60%;  /* Fixed width for the text container, complementary to the image width */
     padding-top: 12px; /* Align the text with the top of the image */
     box-sizing: border-box;  /* Ensure padding and border are included in the width */
-}
-
-
-#floated{
-    float: left;
-    width: 40%;
 }
 

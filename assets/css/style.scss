@@ -173,7 +173,7 @@
 }
 
 .image_container {
-    float: left;
+    display: inline-block; /* Make the container take only as much width as its content */
     width: 100%; /* Adjust as necessary */
 }
 
@@ -185,14 +185,11 @@
 }
 
 .text_container {
-    float: left;
-    width: calc(60% - 10px);  /* 60% of container width minus the margin */
+    display: inline-block; /* Allow it to sit next to the floated image */
+    width: 56%;  /* Adjust to ensure it takes up the remaining width */
     box-sizing: border-box;
 }
 
-.clear {
-    clear: both;
-}
 
 
 

@@ -4,18 +4,6 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 
 ----
 
-<p><img class="image_fixed" src="nhb_cover.png"></p>
-
-<h3><a href="https://www.deepmind.com/blog/article/Competitive-programming-with-AlphaCode">AlphaCode</a> (<a href="https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf">pdf</a>, <a href="/blog/2022/02/02/competitive-programming-with-alphacode/">blog</a>)</h3>
-
-<p><strong>Competition-Level Code Generation with AlphaCode</strong><br>
-We introduce a system for code generation that can create novel solutions to challenging competitive programming problems which require deep reasoning. Evaluated on recent <a href="https://codeforces.com/">Codeforces</a> competitions, AlphaCode achieved an average ranking of top 54.3%. Three key components were key: (1) an extensive and clean competitive programming dataset for training and evaluation, (2) large and efficient-to-sample transformer-based architectures, and (3) large-scale model sampling to explore the search space, followed by filtering based on program behavior to a small set of submissions.</p>
-
-
-
-
-
-
 <div class="image_container">
     <img src="nhb_cover.png" class="image_fixed">
     <div class="text_container">

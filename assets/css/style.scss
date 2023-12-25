@@ -173,9 +173,9 @@
 }
 
 .image_container {
-    float: left;
     display: flex;
     align-items: flex-start;
+    margin-right: 10px;
 }
 
 .image_fixed {
@@ -186,8 +186,10 @@
 }
 
 .text_container {
-    width: 60%;  /* Fixed width for the text container, complementary to the image width */
-    padding-top: 12px; /* Align the text with the top of the image */
-    box-sizing: border-box;  /* Ensure padding and border are included in the width */
+    float: left;
+    width: 60%;
+    padding-top: 12px;
+    box-sizing: border-box;
+    margin-left: 10px; /* Add margin to create a gap between the image and the text */
 }
 

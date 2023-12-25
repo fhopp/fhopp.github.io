@@ -175,7 +175,6 @@
 .image_container {
     display: flex;
     align-items: flex-start;
-    position: relative; /* Make the container a positioning context for the text */
 }
 
 .image_fixed {
@@ -186,14 +185,8 @@
 
 .text_container {
     width: 60%;  /* Fixed width for the text container, complementary to the image width */
+    padding-top: 12px; /* Align the text with the top of the image */
     box-sizing: border-box;  /* Ensure padding and border are included in the width */
-    position: absolute; /* Position the text container absolutely within its relative parent */
-    top: 0;  /* Align the text container to the top */
-    left: 40%; /* Start the text container where the image ends */
-    overflow: auto; /* Enable scrolling if the content exceeds the text container's height */
 }
-
-
-
 
 

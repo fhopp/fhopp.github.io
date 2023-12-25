@@ -184,7 +184,9 @@
 }
 
 .text_container {
-    flex-grow: 1;  /* Allows the text container to grow and occupy remaining space */
+    width: 60%;  /* Fixed width for the text container, complementary to the image width */
     padding-top: 12px; /* Align the text with the top of the image */
+    box-sizing: border-box;  /* Ensure padding and border are included in the width */
 }
+
 

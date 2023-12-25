@@ -11,7 +11,9 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 <p style="text-align: justify;"><strong>Moral Foundations Elicit Shared and Dissociable Cortical Activation</strong><br>Moral foundations theory posits that there are five or six universal groups of moral intuitions (that is, ‘foundations’), each of which is served by functionally specialized, dissociable cognitive mechanisms. We probed the neural (dis)unity of moral foundations theory and report that each moral foundation recruits domain-general mechanisms of social cognition, but also has a dissociable neural signature that is malleable by sociomoral experience.</p>
 <div style="clear:both;"></div>
 
-<img src="emfd.png" style="float:left; margin-right:10px; width: 60%; height: auto;">
+<i></i> 
+
+<img src="eMFD.png" style="float:left; margin-right:10px; width: 60%; height: auto;">
 <a href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="color: black; text-decoration: underline; font-weight: bold">Extended Moral Foundations Dictionary (eMFD)</a>
 <p style="text-align: justify;"><strong>Developing a crowd-sourced approach to extracting moral intuitions from text</strong><br>Moral foundations theory posits that there are five or six universal groups of moral intuitions (that is, ‘foundations’), each of which is served by functionally specialized, dissociable cognitive mechanisms. We probed the neural (dis)unity of moral foundations theory and report that each moral foundation recruits domain-general mechanisms of social cognition, but also has a dissociable neural signature that is malleable by sociomoral experience.</p>
 <div style="clear:both;"></div>

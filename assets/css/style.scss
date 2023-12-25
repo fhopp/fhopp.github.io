@@ -172,7 +172,17 @@
     color: #CFCCCC;
 }
 
-.image_box {
-   display: flex;
-   align-items:flex-start;
+.image_container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.image_fixed {
+    width: 40%;  /* Fixed width for the image */
+    height: auto;
+}
+
+.text_container {
+    flex-grow: 1;  /* Allows the text container to grow and occupy remaining space */
+    padding-left: 10px;
 }

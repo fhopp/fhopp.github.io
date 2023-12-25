@@ -3,12 +3,25 @@
 _Electronic versions are provided as a professional courtesy to ensure timely dissemination of academic work for individual, noncommercial purposes. Copyright and all rights therein resides with the respective copyright holders, as stated within each paper. These files may not be reposted without permission._  
 
 ----
+<div class="image_container">
+    <img src="nhb_cover.png" class="image_fixed">
+    <div class="text_container">
+        <a href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="color: black; text-decoration: underline; font-weight: bold">Moral Reasoning in the Brain</a>
+        <p style="color: gray;">Your additional text here.</p>
+    </div>
+</div>
 
-<div class="image_box" style="align-items: flex-start">
+
+
+
+
+
+
+<div class="image_box" style="display: flex; align-items: flex-start">
     <img src="nhb_cover.png" style="width: 40%; height: auto">
     <div style="padding-left: 10px; padding-top: 12px">
         <a href="https://www.nature.com/articles/s41562-023-01693-8" target="_blank" style="color: black; text-decoration: underline; font-weight: bold">Moral Reasoning in the Brain</a>
-        <p style="display: flex; color: gray;">Moral foundations theory posits that there are five or six universal groups of moral intuitions (that is, ‘foundations’), each of which is served by functionally specialized, dissociable cognitive mechanisms. Hopp et al. probe the neural (dis)unity of moral foundations theory and report that each moral foundation recruits domain-general mechanisms of social cognition, but also has a dissociable neural signature that is malleable by sociomoral experience.</p>
+        <p style="color: gray;">Moral foundations theory posits that there are five or six universal groups of moral intuitions (that is, ‘foundations’), each of which is served by functionally specialized, dissociable cognitive mechanisms. Hopp et al. probe the neural (dis)unity of moral foundations theory and report that each moral foundation recruits domain-general mechanisms of social cognition, but also has a dissociable neural signature that is malleable by sociomoral experience.</p>
     </div>
 </div>
 

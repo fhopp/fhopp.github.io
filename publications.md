@@ -5,8 +5,8 @@ _Electronic versions are provided as a professional courtesy to ensure timely di
 ----
 
 <div class="image_box">
-    <img src="nhb_cover.png" style="width: 40%; height: auto; padding-top: 0;">
-    <span style="padding-left: 10px;">Moral Reasoning in the Brain</span>
+    <img src="nhb_cover.png" style="width: 40%; height: auto">
+    <span style="padding-left: 10px; padding-top: 10px;">Moral Reasoning in the Brain</span>
 </div>
 
 
